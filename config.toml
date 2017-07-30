@@ -1,0 +1,48 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Social Science History Association"
+contact = "akindel@princeton.edu"
+theme = "minimal"
+
+[params]
+    author="Alex Kindel"
+    description="interdisciplinary perspectives on the past"
+    accent="#3a678d"
+    showBorder = true
+    font="Zilla Slab"
+
+
+## Main menu ##
+
+[[menu.main]]
+    url = "/"
+    name = "Welcome"
+    weight = 1
+
+[[menu.main]]
+    url = "/about/"
+    name = "About SSHA"
+    weight = 2
+
+[[menu.main]]
+    url = "/journal/"
+    name = "Journal"
+    weight = 3
+
+[[menu.main]]
+    url = "/conference/"
+    name = "Conference"
+    weight = 4
+
+[[menu.main]]
+    url = "/networks/"
+    name = "Networks"
+    weight = 5
+
+
+## Social media ##
+
+[[menu.icon]]
+    url = "https://twitter.com/alextkindel/"
+    name = "twitter"
+    weight = 1
