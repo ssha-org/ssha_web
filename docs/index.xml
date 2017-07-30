@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Social Science History Association</title>
-    <link>http://example.org/</link>
+    <link>https://atkindel.github.io/ssha_web/</link>
     <description>Recent content on Social Science History Association</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 30 Jul 2017 13:53:36 -0400</lastBuildDate>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://atkindel.github.io/ssha_web/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About SSHA</title>
-      <link>http://example.org/about/</link>
+      <link>https://atkindel.github.io/ssha_web/about/</link>
       <pubDate>Sun, 30 Jul 2017 13:53:36 -0400</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>https://atkindel.github.io/ssha_web/about/</guid>
       <description>About the Social Science History Association The Social Science History Association is an interdisciplinary organization that publishes its own journal, Social Science History, organizes an annual conference, supports graduate student travel to the conference, and awards book prizes. With scholars from history, economics, sociology, demography, anthropology, and other social sciences, the association brings together scholars in thematic networks where they can explore common questions. Each network organizes its own call for papers and selects the bulk of the papers to be presented at the annual conference.</description>
     </item>
     
     <item>
       <title>Annual Conference</title>
-      <link>http://example.org/conference/</link>
+      <link>https://atkindel.github.io/ssha_web/conference/</link>
       <pubDate>Sun, 30 Jul 2017 13:53:36 -0400</pubDate>
       
-      <guid>http://example.org/conference/</guid>
+      <guid>https://atkindel.github.io/ssha_web/conference/</guid>
       <description>Annual Conference We meet every fall, usually in November. The location changes according to the following logic: once every three years in Chicago, once every three years somewhere on the ‘East Coast’ and once every three years somewhere else. Since 2010, the Association has extended its reach to include Canadian cities as possible locations. The conference involves over a thousand scholars from around the world, although graduate students and faculty from the leading American universities predominant.</description>
     </item>
     
     <item>
       <title>Networks</title>
-      <link>http://example.org/networks/</link>
+      <link>https://atkindel.github.io/ssha_web/networks/</link>
       <pubDate>Sun, 30 Jul 2017 13:53:36 -0400</pubDate>
       
-      <guid>http://example.org/networks/</guid>
+      <guid>https://atkindel.github.io/ssha_web/networks/</guid>
       <description>SSHA Networks With scholars from history, economics, sociology, demography, anthropology, and other social sciences, the association brings together scholars in thematic networks where they can explore common questions. Each network organizes its own call for papers and selects the bulk of the papers to be presented at the annual conference. This open, flexible, and non-hierarchical structure makes these networks particularly welcoming spaces for younger scholars and invigorating tonic for older academics.</description>
     </item>
     
     <item>
       <title>Social Science History</title>
-      <link>http://example.org/journal/</link>
+      <link>https://atkindel.github.io/ssha_web/journal/</link>
       <pubDate>Sun, 30 Jul 2017 13:53:36 -0400</pubDate>
       
-      <guid>http://example.org/journal/</guid>
+      <guid>https://atkindel.github.io/ssha_web/journal/</guid>
       <description>Social Science History Introduction Social Science History is dedicated to the study of social theory within an empirical historical context. Our interdisciplinary readership includes anthropologists, demographers, economists, geographers, historians, political scientists, and sociologists, all in pursuit of a deep understanding of societies, past and present. The journal invites articles that blend empirical research with theoretical work, undertake comparisons across time and space, or contribute to the development of quantitative and qualitative methods of analysis.</description>
     </item>
     
