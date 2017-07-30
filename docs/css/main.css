@@ -1,0 +1,131 @@
+html, body {
+    height: 100%;
+}
+
+body {
+    padding-top: 55px;
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+}
+
+main {
+    margin: auto;
+    padding: 25px;
+    flex: 1 0 auto;
+    max-width: 1050px;
+}
+
+.text-justify {
+    font-size: 130%;
+}
+
+/*footer*/
+
+.copyright-toggle:hover .copyright {
+    display: block;
+}
+
+.copyright-toggle:hover .copyright-info {
+    display: none;
+}
+
+.copyright-info {
+    display: block;
+    text-align: right;
+    padding-right: 1vw;
+    margin: 15px 0;
+    font-size: 120%;
+}
+
+.copyright {
+    display: none;
+    text-align: right;
+    padding-right: 2vw;
+    margin: 15px 0;
+    font-size: 120%;
+}
+
+/*home page*/
+
+.intro {
+    margin: 15vh 0;
+}
+
+.intro > h1 {
+    color: #212121;
+    font-size: 6vh;
+}
+
+.intro > h2 {
+    color: #757575;
+    font-size: 3vmin;
+    text-transform: capitalize;
+}
+
+/*apply accent colour to links*/
+
+a:link, a:visited {
+    color: var(--accent);
+}
+
+a.icon:hover {
+    text-decoration: none;
+}
+
+a:hover {
+    color: var(--accent) !important;
+}
+
+/*paginator at bottom of list view*/
+
+.pages {
+    padding: 15px 0;
+}
+
+.pages-icon {
+    padding: 0 15px;
+}
+
+/*list item for posts and projects*/
+
+.item {
+    padding: 10px 0;
+}
+
+.item-tag {
+    background-color: var(--accent);
+}
+
+/*navigation bar icons*/
+
+.navbar-icon {
+    font-size: 125%;
+    display: inline-block !important;
+}
+
+.menu-option {
+    font-size: 120%;
+}
+
+.navbar-header .navbar-brand {
+    padding-top: 5px;
+}
+
+.menulogo {
+    padding-top: 5px;
+}
+
+.support {
+    font-size: 120%;
+}
+
+/*coloured borders at top and bottom of the page*/
+
+.navbar.navbar-default {
+    border-top: var(--border-width) solid var(--accent);
+}
+
+footer {
+    border-bottom: var(--border-width) solid var(--accent);
+}
