@@ -20,6 +20,14 @@ main {
     font-size: 130%;
 }
 
+.btn-default {
+    margin: 2%;
+}
+
+.bigbtn {
+    height: 120%;
+}
+
 /*footer*/
 
 .copyright-toggle:hover .copyright {
