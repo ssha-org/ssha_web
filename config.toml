@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Social Science History Association"
 contact = "akindel@princeton.edu"
 theme = "minimal"
-publishDir: docs
+publishDir = "docs"
 
 [params]
     author="Alex Kindel"
