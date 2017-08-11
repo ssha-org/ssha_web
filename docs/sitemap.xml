@@ -13,7 +13,47 @@
   </url>
   
   <url>
+    <loc>https://atkindel.github.io/ssha_web/donate/</loc>
+    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atkindel.github.io/ssha_web/network/crime/</loc>
+    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atkindel.github.io/ssha_web/network/migration/</loc>
+    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://atkindel.github.io/ssha_web/networks/</loc>
+    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atkindel.github.io/ssha_web/prizes/</loc>
+    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atkindel.github.io/ssha_web/awards/founder_prize/</loc>
+    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atkindel.github.io/ssha_web/awards/graduate_prize/</loc>
+    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atkindel.github.io/ssha_web/awards/president_award/</loc>
+    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atkindel.github.io/ssha_web/awards/sharlin_award/</loc>
     <lastmod>2017-07-30T13:53:36-04:00</lastmod>
   </url>
   
@@ -23,7 +63,19 @@
   </url>
   
   <url>
+    <loc>https://atkindel.github.io/ssha_web/awards/</loc>
+    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://atkindel.github.io/ssha_web/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atkindel.github.io/ssha_web/network/</loc>
+    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
     <priority>0</priority>
   </url>
   

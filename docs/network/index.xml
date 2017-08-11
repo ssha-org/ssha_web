@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Networks on Social Science History Association</title>
+    <link>https://atkindel.github.io/ssha_web/network/</link>
+    <description>Recent content in Networks on Social Science History Association</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 30 Jul 2017 13:53:36 -0400</lastBuildDate>
+    
+	<atom:link href="https://atkindel.github.io/ssha_web/network/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Networks</title>
+      <link>https://atkindel.github.io/ssha_web/network/crime/</link>
+      <pubDate>Sun, 30 Jul 2017 13:53:36 -0400</pubDate>
+      
+      <guid>https://atkindel.github.io/ssha_web/network/crime/</guid>
+      <description>SSHA Networks With scholars from history, economics, sociology, demography, anthropology, and other social sciences, the association brings together scholars in thematic networks where they can explore common questions. Each network organizes its own call for papers and selects the bulk of the papers to be presented at the annual conference. This open, flexible, and non-hierarchical structure makes these networks particularly welcoming spaces for younger scholars and invigorating tonic for older academics.</description>
+    </item>
+    
+    <item>
+      <title>Networks</title>
+      <link>https://atkindel.github.io/ssha_web/network/migration/</link>
+      <pubDate>Sun, 30 Jul 2017 13:53:36 -0400</pubDate>
+      
+      <guid>https://atkindel.github.io/ssha_web/network/migration/</guid>
+      <description>SSHA Networks With scholars from history, economics, sociology, demography, anthropology, and other social sciences, the association brings together scholars in thematic networks where they can explore common questions. Each network organizes its own call for papers and selects the bulk of the papers to be presented at the annual conference. This open, flexible, and non-hierarchical structure makes these networks particularly welcoming spaces for younger scholars and invigorating tonic for older academics.</description>
+    </item>
+    
+  </channel>
+</rss>

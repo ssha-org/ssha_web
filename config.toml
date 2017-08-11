@@ -9,6 +9,7 @@ publishDir = "docs"
 [params]
     author="Alex Kindel"
     description="interdisciplinary perspectives on the past"
+    introtext="The Social Science History Association is an interdisciplinary organization that publishes its own journal, Social Science History, organizes an annual conference, supports graduate student travel to the conference, and awards book prizes. With scholars from history, economics, sociology, demography, anthropology, and other social sciences, the association brings together scholars in thematic networks where they can explore common questions.  Each network organizes its own call for papers and selects the bulk of the papers to be presented at the annual conference. This open, flexible, and non-hierarchical structure makes these networks particularly welcoming spaces for younger scholars and invigorating tonic for older academics."
     accent="#3a678d"
     showBorder = true
     font="Zilla Slab"
@@ -22,23 +23,23 @@ publishDir = "docs"
     weight = 1
 
 [[menu.main]]
-    url = "/about/"
-    name = "About SSHA"
-    weight = 2
-
-[[menu.main]]
     url = "/journal/"
     name = "Journal"
-    weight = 3
+    weight = 2
 
 [[menu.main]]
     url = "/conference/"
     name = "Conference"
-    weight = 4
+    weight = 3
 
 [[menu.main]]
     url = "/networks/"
     name = "Networks"
+    weight = 4
+
+[[menu.main]]
+    url = "/prizes/"
+    name = "Prizes"
     weight = 5
 
 
