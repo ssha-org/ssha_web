@@ -105,6 +105,21 @@ a:hover {
     background-color: var(--accent);
 }
 
+/*network blocks*/
+
+.network {
+    font-size: 105%;
+    color: #eee !important;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    float: left;
+    width: 160px;
+    height: 160px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: inherit;
+}
+
 /*navigation bar icons*/
 
 .navbar-icon {

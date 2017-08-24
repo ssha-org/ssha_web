@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://atkindel.github.io/ssha_web/announcement/2017conferenceprogram/</loc>
+    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://atkindel.github.io/ssha_web/about/</loc>
     <lastmod>2017-07-30T13:53:36-04:00</lastmod>
   </url>
@@ -13,17 +18,62 @@
   </url>
   
   <url>
+    <loc>https://atkindel.github.io/ssha_web/networks/childhood/</loc>
+    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atkindel.github.io/ssha_web/networks/crime/</loc>
+    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atkindel.github.io/ssha_web/networks/culture/</loc>
+    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://atkindel.github.io/ssha_web/donate/</loc>
     <lastmod>2017-07-30T13:53:36-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atkindel.github.io/ssha_web/network/crime/</loc>
+    <loc>https://atkindel.github.io/ssha_web/networks/economics/</loc>
     <lastmod>2017-07-30T13:53:36-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atkindel.github.io/ssha_web/network/migration/</loc>
+    <loc>https://atkindel.github.io/ssha_web/networks/education/</loc>
+    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atkindel.github.io/ssha_web/networks/family/</loc>
+    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atkindel.github.io/ssha_web/networks/health/</loc>
+    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atkindel.github.io/ssha_web/networks/geography/</loc>
+    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atkindel.github.io/ssha_web/networks/labor/</loc>
+    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atkindel.github.io/ssha_web/networks/macrohistorical/</loc>
+    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atkindel.github.io/ssha_web/networks/migration/</loc>
     <lastmod>2017-07-30T13:53:36-04:00</lastmod>
   </url>
   
@@ -33,7 +83,32 @@
   </url>
   
   <url>
+    <loc>https://atkindel.github.io/ssha_web/networks/politics/</loc>
+    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://atkindel.github.io/ssha_web/prizes/</loc>
+    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atkindel.github.io/ssha_web/networks/finance/</loc>
+    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atkindel.github.io/ssha_web/networks/raceethnicity/</loc>
+    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atkindel.github.io/ssha_web/networks/religion/</loc>
+    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atkindel.github.io/ssha_web/networks/rural/</loc>
     <lastmod>2017-07-30T13:53:36-04:00</lastmod>
   </url>
   
@@ -63,6 +138,27 @@
   </url>
   
   <url>
+    <loc>https://atkindel.github.io/ssha_web/networks/states/</loc>
+    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atkindel.github.io/ssha_web/networks/urban/</loc>
+    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atkindel.github.io/ssha_web/networks/gendersexuality/</loc>
+    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atkindel.github.io/ssha_web/announcement/</loc>
+    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://atkindel.github.io/ssha_web/awards/</loc>
     <lastmod>2017-07-30T13:53:36-04:00</lastmod>
     <priority>0</priority>
@@ -70,12 +166,6 @@
   
   <url>
     <loc>https://atkindel.github.io/ssha_web/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://atkindel.github.io/ssha_web/network/</loc>
-    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
     <priority>0</priority>
   </url>
   

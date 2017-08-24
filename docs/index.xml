@@ -12,12 +12,22 @@
     
     
     <item>
+      <title>2017 Conference Program</title>
+      <link>https://atkindel.github.io/ssha_web/announcement/2017conferenceprogram/</link>
+      <pubDate>Sun, 30 Jul 2017 13:53:36 -0400</pubDate>
+      
+      <guid>https://atkindel.github.io/ssha_web/announcement/2017conferenceprogram/</guid>
+      <description>Our 2017 annual conference schedule is now available.</description>
+    </item>
+    
+    <item>
       <title>About SSHA</title>
       <link>https://atkindel.github.io/ssha_web/about/</link>
       <pubDate>Sun, 30 Jul 2017 13:53:36 -0400</pubDate>
       
       <guid>https://atkindel.github.io/ssha_web/about/</guid>
-      <description>About the Social Science History Association The Social Science History Association is an interdisciplinary organization that publishes its own journal, Social Science History, organizes an annual conference, supports graduate student travel to the conference, and awards book prizes. With scholars from history, economics, sociology, demography, anthropology, and other social sciences, the association brings together scholars in thematic networks where they can explore common questions. Each network organizes its own call for papers and selects the bulk of the papers to be presented at the annual conference.</description>
+      <description>About the Social Science History Association The Social Science History Association was created in 1974 by scholars interested in using social science methods and theories to better understand the past.
+The organization might be best seen as a coalition of distinctive scholarly communities which share interests in social life and theory; historiography; and historical and social-scientific methodologies. Our substantive intellectual work ranges from everyday life in the medieval world – and sometimes earlier — to contemporary global politics, but we are united in our historicized approach to understanding human events, explaining social processes, and developing innovative theory.</description>
     </item>
     
     <item>
@@ -30,6 +40,33 @@
     </item>
     
     <item>
+      <title>Childhood</title>
+      <link>https://atkindel.github.io/ssha_web/networks/childhood/</link>
+      <pubDate>Sun, 30 Jul 2017 13:53:36 -0400</pubDate>
+      
+      <guid>https://atkindel.github.io/ssha_web/networks/childhood/</guid>
+      <description> Childhood and Youth </description>
+    </item>
+    
+    <item>
+      <title>Crime, Justice, and the Law</title>
+      <link>https://atkindel.github.io/ssha_web/networks/crime/</link>
+      <pubDate>Sun, 30 Jul 2017 13:53:36 -0400</pubDate>
+      
+      <guid>https://atkindel.github.io/ssha_web/networks/crime/</guid>
+      <description>Crime, Justice, and the Law The Crime, Justice and the Law Network is part of the Social Science History Association (SSHA) and linked with the European Social Science History Conference (ESSHC). The network brings together historians, sociologists, economists, criminologists, geographers, lawyers and independent scholars who are interested in both historical and contemporary developments in crime, policing and the law. The purpose is to provide an international forum for the exchange of ideas and research across disciplines and methodologies.</description>
+    </item>
+    
+    <item>
+      <title>Culture</title>
+      <link>https://atkindel.github.io/ssha_web/networks/culture/</link>
+      <pubDate>Sun, 30 Jul 2017 13:53:36 -0400</pubDate>
+      
+      <guid>https://atkindel.github.io/ssha_web/networks/culture/</guid>
+      <description> Culture </description>
+    </item>
+    
+    <item>
       <title>Donate to SSHA</title>
       <link>https://atkindel.github.io/ssha_web/donate/</link>
       <pubDate>Sun, 30 Jul 2017 13:53:36 -0400</pubDate>
@@ -39,30 +76,88 @@
     </item>
     
     <item>
-      <title>Networks</title>
-      <link>https://atkindel.github.io/ssha_web/network/crime/</link>
+      <title>Economics</title>
+      <link>https://atkindel.github.io/ssha_web/networks/economics/</link>
       <pubDate>Sun, 30 Jul 2017 13:53:36 -0400</pubDate>
       
-      <guid>https://atkindel.github.io/ssha_web/network/crime/</guid>
-      <description>SSHA Networks With scholars from history, economics, sociology, demography, anthropology, and other social sciences, the association brings together scholars in thematic networks where they can explore common questions. Each network organizes its own call for papers and selects the bulk of the papers to be presented at the annual conference. This open, flexible, and non-hierarchical structure makes these networks particularly welcoming spaces for younger scholars and invigorating tonic for older academics.</description>
+      <guid>https://atkindel.github.io/ssha_web/networks/economics/</guid>
+      <description>Economics The Economics Network is part of the Social Science History Association (SSHA), and brings together scholars interested in economic history from both economics and history. The Economics network has been an active part of SSHA conferences since the inception of the Association. At the annual conference Economics is generally the primary sponsor of 8-12 sessions, and co-sponsors a similar number each year. There is significant overlap with most of the other networks in SSHA.</description>
     </item>
     
     <item>
-      <title>Networks</title>
-      <link>https://atkindel.github.io/ssha_web/network/migration/</link>
+      <title>Education, Knowledge, and Science</title>
+      <link>https://atkindel.github.io/ssha_web/networks/education/</link>
       <pubDate>Sun, 30 Jul 2017 13:53:36 -0400</pubDate>
       
-      <guid>https://atkindel.github.io/ssha_web/network/migration/</guid>
-      <description>SSHA Networks With scholars from history, economics, sociology, demography, anthropology, and other social sciences, the association brings together scholars in thematic networks where they can explore common questions. Each network organizes its own call for papers and selects the bulk of the papers to be presented at the annual conference. This open, flexible, and non-hierarchical structure makes these networks particularly welcoming spaces for younger scholars and invigorating tonic for older academics.</description>
+      <guid>https://atkindel.github.io/ssha_web/networks/education/</guid>
+      <description>Education, Knowledge, and Science The Education/Knowledge/Science (EKS) Network, as one of many parts of the Social Science History Association, brings together scholars across disciplines to the social studies of science, formal education, and processes of knowledge production in broadly historical terms. Current areas of special interest among those within the network include: education and social stratification by race, class, and gender; the history of K-12 and higher education institutions and practices; theoretical bases of social-scientific research; theoretical and methodological engagement between Science &amp;amp; Technology Studies and disciplinary traditions in the social sciences; the politics of expertise; and historical-comparative analyses of science, knowledge, and culture.</description>
     </item>
     
     <item>
-      <title>Networks</title>
-      <link>https://atkindel.github.io/ssha_web/networks/</link>
+      <title>Family History and Demography</title>
+      <link>https://atkindel.github.io/ssha_web/networks/family/</link>
       <pubDate>Sun, 30 Jul 2017 13:53:36 -0400</pubDate>
       
-      <guid>https://atkindel.github.io/ssha_web/networks/</guid>
-      <description>SSHA Networks With scholars from history, economics, sociology, demography, anthropology, and other social sciences, the association brings together scholars in thematic networks where they can explore common questions. Each network organizes its own call for papers and selects the bulk of the papers to be presented at the annual conference. This open, flexible, and non-hierarchical structure makes these networks particularly welcoming spaces for younger scholars and invigorating tonic for older academics.</description>
+      <guid>https://atkindel.github.io/ssha_web/networks/family/</guid>
+      <description>Family History and Demography The Family History and Demography Network of the Social Science History Association calls for papers for a variety of panels that have been proposed by network members, and for proposals for additional panels.
+We especially appreciate receiving entire panels, consisting of four papers, with panel chair and commentator, but also invite proposals for roundtables, book sessions, or single papers. The list of panels that have already been proposed appear below.</description>
+    </item>
+    
+    <item>
+      <title>Health, Medicine, and Body</title>
+      <link>https://atkindel.github.io/ssha_web/networks/health/</link>
+      <pubDate>Sun, 30 Jul 2017 13:53:36 -0400</pubDate>
+      
+      <guid>https://atkindel.github.io/ssha_web/networks/health/</guid>
+      <description>Health, Medicine, and Body The Health, Medicine and Body Network is a group within the Social Science History Association. We are a diverse group of scholars primarily from the fields of anthropology, economics, geography, history, political science, and sociology. Our network usually organizes between eight to ten sessions for the annual meeting of the SSHA, and we co-sponsor a number of additional sessions with other networks such as Criminal Justice and Legal History, Family History and Demography, Labor, Race and Ethnicity, and Women, Gender and Sexuality.</description>
+    </item>
+    
+    <item>
+      <title>Historical Geography and GIS</title>
+      <link>https://atkindel.github.io/ssha_web/networks/geography/</link>
+      <pubDate>Sun, 30 Jul 2017 13:53:36 -0400</pubDate>
+      
+      <guid>https://atkindel.github.io/ssha_web/networks/geography/</guid>
+      <description>Historical Geography and GIS The Historical Geography and GIS Network focuses on the application of spatial thinking to the study of the past, with a growing focus on GIS-based research. Our papers often take an interdisciplinary approach and incorporate topics such as demography, urban studies, environmental history, migration studies, and health, among others.
+Recently proposed sessions: - Building Historical “Big Data” Together: Crowd-sourcing, “Citizen Science” and large-scale online collaboration (Humphrey Southall, humphrey.</description>
+    </item>
+    
+    <item>
+      <title>Labor</title>
+      <link>https://atkindel.github.io/ssha_web/networks/labor/</link>
+      <pubDate>Sun, 30 Jul 2017 13:53:36 -0400</pubDate>
+      
+      <guid>https://atkindel.github.io/ssha_web/networks/labor/</guid>
+      <description>Labor The Labor Network of the Social Science History Association (SSHA) brings together scholars interested in work, labor, and working-class and labor movements, as they interact with and are formed by class, race, and gender identities and experiences. Engaged in interdisciplinary research, we come from a range of disciplines, including anthropology, economics, history, labor and working-class studies, political science, and sociology. Areas of interest to scholars in the network include but are not limited to comparative and historical perspectives on work; global, national, and local labor movements; class formation and mobilization; inequalities of race, gender, religion, ethnicity, and sexual orientation as they shape work and class organization; informal economies, unfree labor, and precarious work; social movements, unions, and working-class organizations and cultures; immigration and family structures.</description>
+    </item>
+    
+    <item>
+      <title>Macrohistorical Dynamics</title>
+      <link>https://atkindel.github.io/ssha_web/networks/macrohistorical/</link>
+      <pubDate>Sun, 30 Jul 2017 13:53:36 -0400</pubDate>
+      
+      <guid>https://atkindel.github.io/ssha_web/networks/macrohistorical/</guid>
+      <description>Macrohistorical Dynamics Macrohistorical Dynamics (MHD) is an interdisciplinary social science research community that focuses on questions of large-scale, comparative historical inquiry and the epistemic and theoretical problems that arise at that level of inquiry. The network invites collaboration among historians, social scientists, and philosophers around the conceptual and historiographic problems that arise in large-scale historical inquiry. Contributors to the network have brought perspectives on a wide variety of problem areas, including macro- and historical sociology, world history, Eurasian comparisons, comparative study of civilizations, philosophy of history, globalization, and studies of long-term ecological, technological, demographic, cultural, and political processes.</description>
+    </item>
+    
+    <item>
+      <title>Migration/Immigration</title>
+      <link>https://atkindel.github.io/ssha_web/networks/migration/</link>
+      <pubDate>Sun, 30 Jul 2017 13:53:36 -0400</pubDate>
+      
+      <guid>https://atkindel.github.io/ssha_web/networks/migration/</guid>
+      <description>Migration/Immigration The Migration/Immigration Network is one of the largest and most active networks at the SSHA. We strongly encourage an interdisciplinary approach to the study of migration and immigration and, as such, our ranks include historians, sociologists, economists, geographers as well as scholars who specialize in ethnic studies, American studies and Latino/a and Chicano/a studies.
+Representing one of the largest presences at the SSHA’s annual meetings, members of the network organize panels and roundtables that investigate migration movements within a transnational framework; explore their implications at the local, national and international level; and analyze the impact that the movement of people, goods, and ideas have in a global context.</description>
+    </item>
+    
+    <item>
+      <title>Politics</title>
+      <link>https://atkindel.github.io/ssha_web/networks/politics/</link>
+      <pubDate>Sun, 30 Jul 2017 13:53:36 -0400</pubDate>
+      
+      <guid>https://atkindel.github.io/ssha_web/networks/politics/</guid>
+      <description>Politics The Politics Network invites scholarship on political development, political institutions, mobilization, contention and conflict. Sessions listed with the Politics Network are frequently cross-listed with other networks, especially States and Society.
+In keeping with the traditions of the SSHA we encourage interdisciplinary panels and welcome paper submissions from a wide variety of disciplinary perspectives. While complete panel proposals (at least four papers, a chair, and a discussant) are preferred, we will also do our best to place high-quality individual paper submissions.</description>
     </item>
     
     <item>
@@ -73,6 +168,43 @@
       <guid>https://atkindel.github.io/ssha_web/prizes/</guid>
       <description>Book Prizes The Association awards two annual prizes for outstanding books in social science history.
 President&amp;rsquo;s Book Award A $1000 prize is awarded annually for a meritorious first work by an early-career scholar. Entrants are judged on scholarly significance, interdisciplinary reach, and methodological innovativeness within monographs analyzing past structures and events and change over time. Books with a copyright date of the previous year that are published within eight years of the author&amp;rsquo;s Ph.</description>
+    </item>
+    
+    <item>
+      <title>Public Finance</title>
+      <link>https://atkindel.github.io/ssha_web/networks/finance/</link>
+      <pubDate>Sun, 30 Jul 2017 13:53:36 -0400</pubDate>
+      
+      <guid>https://atkindel.github.io/ssha_web/networks/finance/</guid>
+      <description>Public Finance The Public Finance Network invites scholarship the social, political and historical sources and consequences of taxation and other forms of public finance or economic regulation. Sessions listed with the Public Finance Network are often cross-listed with other networks, including Economics and States and Society.
+Members of the Public Finance Network come from a variety of academic disciplines, including law, economics, sociology, history, and political science. In keeping with the inherently multidisciplinary nature of the network, and with the traditions of the SSHA, we welcome interdisciplinary panels, and encourage submissions from a wide variety of disciplinary perspectives.</description>
+    </item>
+    
+    <item>
+      <title>Race and Ethnicity</title>
+      <link>https://atkindel.github.io/ssha_web/networks/raceethnicity/</link>
+      <pubDate>Sun, 30 Jul 2017 13:53:36 -0400</pubDate>
+      
+      <guid>https://atkindel.github.io/ssha_web/networks/raceethnicity/</guid>
+      <description>Race and Ethnicity The Race and Ethnicity Network of the Social Science History Association is a community of scholars who hail from a variety of disciplines, including History, Sociology, Political Science, Geography, area studies, and Anthropology, among others. We employ a wide range of theoretical perspectives to study how race and ethnicity interact with politics, culture, states, institutions, and identities. While a portion of our network members may focus on understanding contemporary processes, we do so with attention to the historical lineages and events that shape them.</description>
+    </item>
+    
+    <item>
+      <title>Religion</title>
+      <link>https://atkindel.github.io/ssha_web/networks/religion/</link>
+      <pubDate>Sun, 30 Jul 2017 13:53:36 -0400</pubDate>
+      
+      <guid>https://atkindel.github.io/ssha_web/networks/religion/</guid>
+      <description>Religion The SSHA Religion Network is open to all historically oriented scholarship on religion and society. We welcome contributions from historians, sociologists, political scientists, anthropologists, geographers, religious studies scholars, gender and sexuality studies scholars, and those in related fields. Some of the themes typically addressed in network sessions include religion and politics; religion, race, and ethnicity; religion, gender, and sexuality; religion and law; religious nationalism; religion and violence; religion and social movements; religion and state formation; religion and immigration; global religions; conversion and missionary activity; historical patterns of secularization; and secularism.</description>
+    </item>
+    
+    <item>
+      <title>Rural, Agricultural and Environmental</title>
+      <link>https://atkindel.github.io/ssha_web/networks/rural/</link>
+      <pubDate>Sun, 30 Jul 2017 13:53:36 -0400</pubDate>
+      
+      <guid>https://atkindel.github.io/ssha_web/networks/rural/</guid>
+      <description>Rural, Agricultural and Environmental The Rural, Agricultural and Environmental Network of the Social Science History Association is a broad network including research focused on rural society, on the interaction between rural and urban society, on agricultural history, and on the use of land from an environmental perspective. It rests upon the interdependence between people and land, historically and today, and the effects on humans and nature from this interdependence. Although most panels in recent meetings have addressed these questions focusing on Europe and North America during the last two centuries, panels covering other parts of the world and earlier time periods have also been arranged regularly.</description>
     </item>
     
     <item>
@@ -122,6 +254,35 @@ Past Winners    Year &amp;emsp; Author &amp;emsp; Institution &amp;emsp; Title  
       
       <guid>https://atkindel.github.io/ssha_web/journal/</guid>
       <description>Social Science History Social Science History is dedicated to the study of social theory within an empirical historical context. Our interdisciplinary readership includes anthropologists, demographers, economists, geographers, historians, political scientists, and sociologists, all in pursuit of a deep understanding of societies, past and present. The journal invites articles that blend empirical research with theoretical work, undertake comparisons across time and space, or contribute to the development of quantitative and qualitative methods of analysis.</description>
+    </item>
+    
+    <item>
+      <title>States and Society</title>
+      <link>https://atkindel.github.io/ssha_web/networks/states/</link>
+      <pubDate>Sun, 30 Jul 2017 13:53:36 -0400</pubDate>
+      
+      <guid>https://atkindel.github.io/ssha_web/networks/states/</guid>
+      <description>States and Society The States and Society Network invites scholarship on state-building, social change, social conflict, political institutions, and social development, among other topics.
+The submission deadline for 2018 is March 1, 2018; submissions can be made via the following link: http://prd.sshaconference.org/. This year the States and Society network is also interested in works on the following topics (generated by the participants at our network meeting in 2016 and 2017!</description>
+    </item>
+    
+    <item>
+      <title>Urban</title>
+      <link>https://atkindel.github.io/ssha_web/networks/urban/</link>
+      <pubDate>Sun, 30 Jul 2017 13:53:36 -0400</pubDate>
+      
+      <guid>https://atkindel.github.io/ssha_web/networks/urban/</guid>
+      <description>Urban The Urban network endeavors to bring social scientific and historical modes of analysis to the urban form. We are interested in the historical trajectory of the city, the spatial forms linked to the urban life, social arrangements, governance and politics, the specificity of urban economics, cultural forms that emerge and thrive in cities, urban institutions, place identities, real and imagined urban forms, and the historical trajectory of specifically urban phenomena across regional, temporal, and cultural categories.</description>
+    </item>
+    
+    <item>
+      <title>Women, Gender and Sexuality</title>
+      <link>https://atkindel.github.io/ssha_web/networks/gendersexuality/</link>
+      <pubDate>Sun, 30 Jul 2017 13:53:36 -0400</pubDate>
+      
+      <guid>https://atkindel.github.io/ssha_web/networks/gendersexuality/</guid>
+      <description>Women, Gender and Sexuality Who we are:
+The Women, Gender, and Sexuality Network of the SSHA seeks to inspire interdisciplinary collaboration among scholars interested in the study of women, men, gender, and sexuality around the world. WGS network members are excited to increase the reach of our very active network through papers and panels – often collaborating with other SSHA networks. We work with scholars who focus on feminist, queer and intersectional approaches to the study of power, the body, identities, the law, policy, social movements, migration, spaces, language, intimacies, etc.</description>
     </item>
     
   </channel>

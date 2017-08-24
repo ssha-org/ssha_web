@@ -6,4 +6,124 @@ title = "About SSHA"
 
 ## About the Social Science History Association
 
-The Social Science History Association is an interdisciplinary organization that publishes its own journal, *Social Science History*, organizes an annual conference, supports graduate student travel to the conference, and awards book prizes. With scholars from history, economics, sociology, demography, anthropology, and other social sciences, the association brings together scholars in thematic networks where they can explore common questions.  Each network organizes its own call for papers and selects the bulk of the papers to be presented at the annual conference. This open, flexible, and non-hierarchical structure makes these networks particularly welcoming spaces for younger scholars and invigorating tonic for older academics.
+The Social Science History Association was created in 1974 by scholars interested in using social science methods and theories to better understand the past.
+
+The organization might be best seen as a coalition of distinctive scholarly communities which share interests in social life and theory; historiography; and historical and social-scientific methodologies. Our substantive intellectual work ranges from everyday life in the medieval world – and sometimes earlier — to contemporary global politics, but we are united in our historicized approach to understanding human events, explaining social processes, and developing innovative theory.
+
+The term “social science history” has meant different things to different academic generations. In the 1970s, when the SSHA’s first meetings were held, the founding generation of scholars took it to reflect their concern to address pressing questions by combining social-science method and new forms of historical evidence. Quantitative approaches were especially favored by the association’s historical demographers, as well as some of the economic, social and women’s historians of the time. By the 1980s and 1990s, other waves of scholars – including culturally-oriented historians and anthropologists, geographers, political theorists, and comparative-historical social scientists — had joined the conversation.
+
+New intellectual directions continue to emerge at the outset of the 21st century. Today’s SSHA incorporates a diversity of scholarly styles, with lots of crosstalk among them.
+
+----
+
+### 2016-2017 Officers
+
+**President**  
+Alice Bee Kasakoff  
+University of South Carolina (Geography)  
+
+**Vice President**  
+Frederick Wherry  
+Princeton University (Sociology)  
+
+**Executive Director**  
+William C. Block  
+Cornell University (CISER)  
+
+**Treasurer**  
+Katherine A. Lynch  
+Carnegie Mellon University (History)  
+
+----
+
+### Executive Committee
+
+*Term Expires 2017*
+
+- Rebecca Emigh  
+UCLA (Sociology)  
+
+- Kris Inwood  
+University of Guelph (Economics and History)  
+
+- Ken Sylvester  
+University of Michigan (ICPSR)  
+
+*Term Expires 2018*
+
+- Simone Wegge  
+City University of New York (Economics)  
+
+- Elizabeth Popp Berman  
+University at Albany, SUNY (Sociology)  
+
+- Steven Ruggles  
+University of Minnesota (Minnesota Population Center)  
+
+*Term Expires 2019*
+
+- Hilde Bras  
+Wageningen University (Sociology)  
+
+- Cedric de Leon  
+Providence College (Sociology)  
+
+- Fatma Müge Göçek  
+University of Michigan (Sociology)  
+
+----
+
+### Publications Committee
+
+*Term Expires 2017*
+
+- David Mitch -- Chair  
+University of Maryland-Baltimore County (Economics)  
+
+- Anne Knowles  
+Middlebury College (Geography)  
+
+*Term Expires 2018*
+
+- Amy Kate Bailey  
+University of Illinois – Chicago (Sociology)  
+
+- Janet Golden  
+Rutgers University (History)  
+
+*Term Expires 2019*
+
+- Julian Go  
+Boston University (Sociology)  
+
+- Nancy Tatarek  
+Ohio University (Anthropology)  
+
+----
+
+### 2017 Program Committee
+
+Barry Eidlin  
+McGill University (Sociology)  
+
+Don Lafreniere  
+Michigan Tech University (Social Sciences)  
+
+Mary Louise Nagata  
+Francis Marion University (History)  
+
+----
+
+### Past Presidents
+
+Myron Gutmann  
+University of Colorado (History)  
+2015-2016  
+
+Susan Carter  
+University of California (Economics)  
+2014-2015  
+
+Tom Sugrue  
+University of Pennsylvania (History)  
+2013-2014  
