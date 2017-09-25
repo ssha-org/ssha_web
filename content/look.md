@@ -8,4 +8,4 @@ title = "SSHA Lore and Practices"
 
 We comprehensively redesigned our website in Fall 2017.
 
-<img src="/images/SSHA_old_site.png", style="width: 100%">
+<img src="/images/SSHA_old_site.png", style="width: 80%">
