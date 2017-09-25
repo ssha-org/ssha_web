@@ -37,7 +37,7 @@ Section blog: http://sshareligion.blogspot.com.tr/
     - Samuel Nelson (McGill University), “Parish-building and Secularization in Urban Ecology: Montreal in Comparison.”  
     - Jean-François Laniel (Université du Québec à Montréal), “Is the Glass Half Full or Half Empty? Interpreting Secularization and Religious Vitality in Quebec.”
 
-#### Network Representatives
+### Network Representatives
 
 - [Philip Gorski](philip.gorski@yale.edu)
 - [Samuel Nelson](samuel.nelson@mcgill.ca)

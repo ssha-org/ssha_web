@@ -23,3 +23,5 @@ New intellectual directions continue to emerge at the outset of the 21st century
 ### [Lore and Practices >>](/lore/)
 
 ----
+
+### [Our Changing Look >>](/look/)

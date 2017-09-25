@@ -13,7 +13,7 @@ Members of the Public Finance Network come from a variety of academic discipline
 
 For more, please follow us on Twitter at @taxesmatter.
 
-#### Network Representatives
+### Network Representatives
 
 - [Molly Michelmore](michelmorem@wlu.edu)
 - [Lucy Barnes](l.barnes@ucl.ac.uk)

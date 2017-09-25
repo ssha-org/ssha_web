@@ -13,7 +13,7 @@ The interests of our network members are very broad. Some examples of themes exp
 
 While we prefer the submission of full sessions for the annual conference, we are happy to accept individual papers to create innovative panels. Please send submissions by mid February. We are also interested in colleagues who would like to volunteer to serve as a chair or discussant. If anyone is seeking colleagues working on a specific topic that could become a complete panel at the conference, please send queries to our network members via our Facebook page at https://www.facebook.com/groups/624022180978022
 
-#### Network Representatives
+### Network Representatives
 
 [Simone M. Caron](caron@wfu.edu)
 [Nancy Tatarek](tatarek@ohio.edu)

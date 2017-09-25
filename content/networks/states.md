@@ -22,7 +22,7 @@ The submission deadline for 2018 is March 1, 2018; submissions can be made via t
 
 Finally, if you or someone you know has a topical book related to this conference’s theme and would like to organize an author meets critics panels that is welcome as well – please let us know since the allotment for these are more limited!
 
-#### Network Representatives
+### Network Representatives
 
 - [Shiri Noy](snoy@uwyo.edu)
 - [Aliza Luft](aluft@Soc.ucla.edu)

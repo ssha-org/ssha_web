@@ -35,7 +35,7 @@ You are welcome to submit abstracts for papers regarding any of the listed topic
 
 Please feel free to check our Facebook page, which you can find by searching for "Race/Ethnicity Network - Social Science History Association” or by following the link: https://www.facebook.com/pages/RaceEthnicity-Network-Social-Science-History-Association/113130038802365
 
-#### Network Representatives
+### Network Representatives
 
 - [Joseph O. Jewell](jjewell@tamu.edu)
 - [Liz Onasch](eonas001@plattsburgh.edu)

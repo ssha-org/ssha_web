@@ -13,9 +13,9 @@ Among the areas of interest to people in the Economics network are: Trade, comme
 
 We invite submissions of papers or (preferably) full panels by February. We were also interested to hear from specialists who are willing to volunteer to be chairs or discussants, and on what topics. You will need to provide an abstract, title and contact information, and designate a network (or networks) where your paper is likely to fit. You are free to email us with questions, ideas, etc. but the actual submission is all self-serve.
 
-#### Network Representatives
+### Network Representatives
 
 - [Matt Jaremski](mjaremski@colgate.edu)
 - [Phil Hoffman](pth@hss.caltech.edu)
-- [Kris Inwood]
+- Kris Inwood
 - [Steven Sprick Schuster](ssprickschuster@colgate.edu)

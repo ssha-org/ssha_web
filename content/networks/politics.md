@@ -23,7 +23,7 @@ The submission deadline is March 3, 2017; submissions can be made via the follow
 - inter- and trans-national politics, especially the European-American relationship
 - regime change & revolutions
 
-#### Network Representatives
+### Network Representatives
 
 - [Tim Thurber](tnthurber@vcu.edu)
 - [Stephanie Mudge](slmudge@ucdavis.edu)

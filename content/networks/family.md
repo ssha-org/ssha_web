@@ -22,7 +22,7 @@ We especially appreciate receiving entire panels, consisting of four papers, wit
 
 Please contact the Family/Demography Network Representatives for comments, questions, assistance creating a panel, or help with submissions.
 
-#### Network Representatives
+### Network Representatives
 
 - Lisa Dillon
 - Mary Louise Nagata

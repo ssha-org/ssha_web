@@ -17,7 +17,7 @@ For questions and further information about our network, please feel free to con
 
 Please follow us on Facebook: https://www.facebook.com/groups/1543927835891069/
 
-#### Network Representatives
+### Network Representatives
 
 - [Martin Goessl](martin.goessl@fh-joanneum.at)
 - [Dominique Grisard](Dominique.Grisard@unibas.ch)

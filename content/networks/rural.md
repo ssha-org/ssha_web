@@ -23,7 +23,7 @@ Each year, all researchers connected to the main theme of the network are most w
 
 At the annual meeting, there is a scheduled network meeting where ideas for the next conference are discussed. We hope to see you there to help us improve and extend the network!
 
-#### Network Representatives
+### Network Representatives
 
 - [Patrick Svensson](patrick.svensson@ekh.lu.se)
 - [Susan Leonard](hautanie@umich.edu)

@@ -23,7 +23,7 @@ The Childhood & Youth Network of the Social Science History Association brings t
 
 We invite submissions of papers or (preferably) full panels by February.  We especially welcome panels and papers that engage in transnational and interdisciplinary research.   Please contact the Childhood and Youth network co-chairs if you have questions, comments, or are interested in submitting a paper or panel for the conference or serving as a chair or discussant.
 
-#### Network Representatives
+### Network Representatives
 
 - [Atacan Atakan](atacanatakan@email.arizona.edu)
 - [Emily Bruce](bruce088@umn.edu)

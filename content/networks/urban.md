@@ -32,7 +32,7 @@ The urban network offers a welcoming environment that encourages and depends upo
 
 Planning takes place at the urban network business meeting at the conference site. We hope you will participate.
 
-#### Network Representatives
+### Network Representatives
 
 - [Robin Bartram](rbartram@u.northwestern.edu)
 - [Ellen Manovich](manov003@umn.edu)

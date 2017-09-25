@@ -28,7 +28,7 @@ Check out the 2017 Program for the Labor Network Updates. The Labor Network cont
 - Anniversaries:  World War I Russian Revolution
 - Politics and Working-Class Movements in the Middle East and North Africa and Globally
 
-#### Network Representatives
+### Network Representatives
 
 **2017**
 

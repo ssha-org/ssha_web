@@ -24,7 +24,7 @@ Recently proposed sessions:
 - Historical GIS and the Study of War
 - Urban and Rural Environments in the Past
 
-#### Network Representatives
+### Network Representatives
 
 - [Robert Schwartz](rschwartz@mtholyoke.edu)
 - [Dan Trepal](djtrepal@mtu.edu)
