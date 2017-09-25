@@ -15,5 +15,5 @@ While we prefer the submission of full sessions for the annual conference, we ar
 
 ### Network Representatives
 
-[Simone M. Caron](caron@wfu.edu)
-[Nancy Tatarek](tatarek@ohio.edu)
+- [Simone M. Caron](caron@wfu.edu)
+- [Nancy Tatarek](tatarek@ohio.edu)
