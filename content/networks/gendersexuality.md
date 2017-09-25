@@ -16,3 +16,9 @@ Shortly after each annual conference (always in November) we post a network-spec
 For questions and further information about our network, please feel free to contact any of the network co-chairs (contacts listed above). For more information about the conference including the conference-wide call for papers, and the other networks please see the SSHA website at http://www.ssha.org.
 
 Please follow us on Facebook: https://www.facebook.com/groups/1543927835891069/
+
+#### Network Representatives
+
+- [Martin Goessl](martin.goessl@fh-joanneum.at)
+- [Dominique Grisard](Dominique.Grisard@unibas.ch)
+- [Jadwiga E. Pieper Mooney](jadwiga@email.arizona.edu)

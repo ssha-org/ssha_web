@@ -34,3 +34,9 @@ For the 2017 annual conference, the Race and Ethnicity network invited paper and
 You are welcome to submit abstracts for papers regarding any of the listed topics, or on a topic relating to your own research at http://conference.ssha.org. If you would be interested in putting together an entire panel, let us know and we would be happy to provide you with details as to how to do this.
 
 Please feel free to check our Facebook page, which you can find by searching for "Race/Ethnicity Network - Social Science History Association” or by following the link: https://www.facebook.com/pages/RaceEthnicity-Network-Social-Science-History-Association/113130038802365
+
+#### Network Representatives
+
+- [Joseph O. Jewell](jjewell@tamu.edu)
+- [Liz Onasch](eonas001@plattsburgh.edu)
+- [Marisela Martinez-Cola](memart6@emory.edu)

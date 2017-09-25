@@ -21,3 +21,9 @@ We especially appreciate receiving entire panels, consisting of four papers, wit
 - Registration on Causes of Death Across Countries (Elisabeth Engberg, elisabeth.engberg@umu.se)
 
 Please contact the Family/Demography Network Representatives for comments, questions, assistance creating a panel, or help with submissions.
+
+#### Network Representatives
+
+- Lisa Dillon
+- Mary Louise Nagata
+- [Matt Nelson](nels5091@umn.edu)

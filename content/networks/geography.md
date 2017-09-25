@@ -23,3 +23,9 @@ Recently proposed sessions:
 - GIS and Colonial History
 - Historical GIS and the Study of War
 - Urban and Rural Environments in the Past
+
+#### Network Representatives
+
+- [Robert Schwartz](rschwartz@mtholyoke.edu)
+- [Dan Trepal](djtrepal@mtu.edu)
+- [George S. Vascik](vascikgs@miamioh.edu)

@@ -36,3 +36,10 @@ Section blog: http://sshareligion.blogspot.com.tr/
     - Jennifer Guyveri (McGill University), “History and Teleology: Re-interpreting Charles Taylor's Narrative of Secularity.”  
     - Samuel Nelson (McGill University), “Parish-building and Secularization in Urban Ecology: Montreal in Comparison.”  
     - Jean-François Laniel (Université du Québec à Montréal), “Is the Glass Half Full or Half Empty? Interpreting Secularization and Religious Vitality in Quebec.”
+
+#### Network Representatives
+
+- [Philip Gorski](philip.gorski@yale.edu)
+- [Samuel Nelson](samuel.nelson@mcgill.ca)
+- [Damon Mayrl](dwmaryl@colby.edu)
+- [Ateş Altınordu](atesaltinordu@sabanciuniv.edu)

@@ -31,3 +31,8 @@ The network has recently sponsored panels on topics such as:
 The urban network offers a welcoming environment that encourages and depends upon the participation of scholars from a variety of disciplines at all stages of their careers. In addition to discussing scholarship on cities, the network aims to promote cross-disciplinary dialogue about subjects and problems related to urban life and environment. We encourage conference participants to organize panels, submit individual papers, and suggest themes. The network chairs will coordinate and facilitate cooperation and dialogue. We particularly encourage panels that integrate multidisciplinary perspectives, analytical methods, and topics of common concern to more than one discipline or subfield.
 
 Planning takes place at the urban network business meeting at the conference site. We hope you will participate.
+
+#### Network Representatives
+
+- [Robin Bartram](rbartram@u.northwestern.edu)
+- [Ellen Manovich](manov003@umn.edu)

@@ -38,3 +38,9 @@ Sample of proposed sessions for SSHA Annual Meeting 2017:
 - Emotion, Gender and Migration since 1880 (Linda Reeder: reederls@missouri.edu)
 - Gender and Deportation in North America: Case Studies from the 20th and 21st Century (Matthieu Caron: matthieu.caron@mail.utoronto.ca)
 - Innovative Approaches to Teaching Migration and Citizenship in the Classroom and Beyond (Danielle Battisti: daniellebattisti@gmail.com)
+
+#### Network Representatives
+
+- [Linda Reeder](ReederLS@missouri.edu)
+- [Elizabeth Venditto](vendi002@umn.edu)
+- [Gráinne McEvoy](mcevoygr@gmail.com)

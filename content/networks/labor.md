@@ -27,3 +27,16 @@ Check out the 2017 Program for the Labor Network Updates. The Labor Network cont
 - New Frontiers for Labor Organizing
 - Anniversaries:  World War I Russian Revolution
 - Politics and Working-Class Movements in the Middle East and North Africa and Globally
+
+#### Network Representatives
+
+**2017**
+
+- [Elizabeth Faue](ad5247@wayne.edu)
+- [Zophia Edwards](zedwards@providence.edu)
+
+**2018**
+
+- [Elizabeth Faue](ad5247@wayne.edu)
+- [Zophia Edwards](zedwards@providence.edu)
+- [Jeremy Milloy](jeremymilloy@trentu.ca)

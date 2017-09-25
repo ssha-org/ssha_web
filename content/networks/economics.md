@@ -12,3 +12,10 @@ The Economics Network is part of the Social Science History Association (SSHA), 
 Among the areas of interest to people in the Economics network are: Trade, commerce and markets; business history; living standards; anthropometrics; demography (many sessions are co-sponsored with Family/Demography); migration; labor and financial markets, political economy, and technology change. We cosponsor many sessions.
 
 We invite submissions of papers or (preferably) full panels by February. We were also interested to hear from specialists who are willing to volunteer to be chairs or discussants, and on what topics. You will need to provide an abstract, title and contact information, and designate a network (or networks) where your paper is likely to fit. You are free to email us with questions, ideas, etc. but the actual submission is all self-serve.
+
+#### Network Representatives
+
+- [Matt Jaremski](mjaremski@colgate.edu)
+- [Phil Hoffman](pth@hss.caltech.edu)
+- [Kris Inwood]
+- [Steven Sprick Schuster](ssprickschuster@colgate.edu)

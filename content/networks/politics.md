@@ -22,3 +22,8 @@ The submission deadline is March 3, 2017; submissions can be made via the follow
 - politics of international trade
 - inter- and trans-national politics, especially the European-American relationship
 - regime change & revolutions
+
+#### Network Representatives
+
+- [Tim Thurber](tnthurber@vcu.edu)
+- [Stephanie Mudge](slmudge@ucdavis.edu)
