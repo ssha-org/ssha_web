@@ -11,7 +11,7 @@ The culture network seeks work exploring culture in two ways. First, we are eage
 
 ### Network Representatives
 
-- [Claire Laurier Decoteau](decoteau@uic.edu)
-- [Tad Skotnicki](tpskotni@uncg.edu)
-- [Jeffrey Guhin](jeffguhin@gmail.com)
-- [Kathleen (Casey) Oberlin](oberlink@grinnell.edu)
+- [Claire Laurier Decoteau](mailto:decoteau@uic.edu)
+- [Tad Skotnicki](mailto:tpskotni@uncg.edu)
+- [Jeffrey Guhin](mailto:jeffguhin@gmail.com)
+- [Kathleen (Casey) Oberlin](mailto:oberlink@grinnell.edu)

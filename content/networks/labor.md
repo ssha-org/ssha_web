@@ -32,11 +32,11 @@ Check out the 2017 Program for the Labor Network Updates. The Labor Network cont
 
 **2017**
 
-- [Elizabeth Faue](ad5247@wayne.edu)
-- [Zophia Edwards](zedwards@providence.edu)
+- [Elizabeth Faue](mailto:ad5247@wayne.edu)
+- [Zophia Edwards](mailto:zedwards@providence.edu)
 
 **2018**
 
-- [Elizabeth Faue](ad5247@wayne.edu)
-- [Zophia Edwards](zedwards@providence.edu)
-- [Jeremy Milloy](jeremymilloy@trentu.ca)
+- [Elizabeth Faue](mailto:ad5247@wayne.edu)
+- [Zophia Edwards](mailto:zedwards@providence.edu)
+- [Jeremy Milloy](mailto:jeremymilloy@trentu.ca)

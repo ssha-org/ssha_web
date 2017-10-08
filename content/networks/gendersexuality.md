@@ -19,6 +19,6 @@ Please follow us on Facebook: https://www.facebook.com/groups/1543927835891069/
 
 ### Network Representatives
 
-- [Martin Goessl](martin.goessl@fh-joanneum.at)
-- [Dominique Grisard](Dominique.Grisard@unibas.ch)
-- [Jadwiga E. Pieper Mooney](jadwiga@email.arizona.edu)
+- [Martin Goessl](mailto:martin.goessl@fh-joanneum.at)
+- [Dominique Grisard](mailto:Dominique.Grisard@unibas.ch)
+- [Jadwiga E. Pieper Mooney](mailto:jadwiga@email.arizona.edu)

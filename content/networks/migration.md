@@ -41,6 +41,6 @@ Sample of proposed sessions for SSHA Annual Meeting 2017:
 
 ### Network Representatives
 
-- [Linda Reeder](ReederLS@missouri.edu)
-- [Elizabeth Venditto](vendi002@umn.edu)
-- [Gráinne McEvoy](mcevoygr@gmail.com)
+- [Linda Reeder](mailto:ReederLS@missouri.edu)
+- [Elizabeth Venditto](mailto:vendi002@umn.edu)
+- [Gráinne McEvoy](mailto:mcevoygr@gmail.com)

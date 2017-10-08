@@ -34,5 +34,5 @@ Planning takes place at the urban network business meeting at the conference sit
 
 ### Network Representatives
 
-- [Robin Bartram](rbartram@u.northwestern.edu)
-- [Ellen Manovich](manov003@umn.edu)
+- [Robin Bartram](mailto:rbartram@u.northwestern.edu)
+- [Ellen Manovich](mailto:manov003@umn.edu)

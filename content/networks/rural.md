@@ -25,5 +25,5 @@ At the annual meeting, there is a scheduled network meeting where ideas for the 
 
 ### Network Representatives
 
-- [Patrick Svensson](patrick.svensson@ekh.lu.se)
-- [Susan Leonard](hautanie@umich.edu)
+- [Patrick Svensson](mailto:patrick.svensson@ekh.lu.se)
+- [Susan Leonard](mailto:hautanie@umich.edu)

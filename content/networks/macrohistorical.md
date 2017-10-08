@@ -11,6 +11,6 @@ Macrohistorical Dynamics (MHD) is an interdisciplinary social science research c
 
 ### Network Representatives
 
-- [Daniel Little](delittle@umich.edu)
-- [Peter Perdue](pcperdue@mit.edu)
-- [James Lee](jqljzl@gmail.com)
+- [Daniel Little](mailto:delittle@umich.edu)
+- [Peter Perdue](mailto:pcperdue@mit.edu)
+- [James Lee](mailto:jqljzl@gmail.com)

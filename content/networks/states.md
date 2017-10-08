@@ -24,6 +24,6 @@ Finally, if you or someone you know has a topical book related to this conferenc
 
 ### Network Representatives
 
-- [Shiri Noy](snoy@uwyo.edu)
-- [Aliza Luft](aluft@Soc.ucla.edu)
-- [Mike McCarthy](michael.mccarthy@marquette.edu)
+- [Shiri Noy](mailto:snoy@uwyo.edu)
+- [Aliza Luft](mailto:aluft@Soc.ucla.edu)
+- [Mike McCarthy](mailto:michael.mccarthy@marquette.edu)

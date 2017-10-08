@@ -26,6 +26,6 @@ Recently proposed sessions:
 
 ### Network Representatives
 
-- [Robert Schwartz](rschwartz@mtholyoke.edu)
-- [Dan Trepal](djtrepal@mtu.edu)
-- [George S. Vascik](vascikgs@miamioh.edu)
+- [Robert Schwartz](mailto:rschwartz@mtholyoke.edu)
+- [Dan Trepal](mailto:djtrepal@mtu.edu)
+- [George S. Vascik](mailto:vascikgs@miamioh.edu)

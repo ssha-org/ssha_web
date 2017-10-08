@@ -11,5 +11,5 @@ The Crime, Justice and the Law Network is part of the Social Science History Ass
 
 ### Network Representatives
 
-- [Glenn Svedin](glenn.svedin@miun.se)
-- [Donald Fyson](donald.fyson@hst.ulaval.ca)
+- [Glenn Svedin](mailto:glenn.svedin@miun.se)
+- [Donald Fyson](mailto:donald.fyson@hst.ulaval.ca)

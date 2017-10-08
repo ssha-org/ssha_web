@@ -26,4 +26,4 @@ Please contact the Family/Demography Network Representatives for comments, quest
 
 - Lisa Dillon
 - Mary Louise Nagata
-- [Matt Nelson](nels5091@umn.edu)
+- [Matt Nelson](mailto:nels5091@umn.edu)

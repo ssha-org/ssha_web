@@ -25,5 +25,5 @@ The submission deadline is March 3, 2017; submissions can be made via the follow
 
 ### Network Representatives
 
-- [Tim Thurber](tnthurber@vcu.edu)
-- [Stephanie Mudge](slmudge@ucdavis.edu)
+- [Tim Thurber](mailto:tnthurber@vcu.edu)
+- [Stephanie Mudge](mailto:slmudge@ucdavis.edu)
