@@ -42,14 +42,11 @@ publishDir = "docs"
     weight = 5
 
 [[menu.main]]
-    url = "/about/"
-    name = "About"
+    url = "/donate/"
+    name = "Donate"
     weight = 6
 
-
-## Social media ##
-
-[[menu.icon]]
-    url = "https://twitter.com/alextkindel/"
-    name = "twitter"
-    weight = 1
+[[menu.main]]
+    url = "/about/"
+    name = "About"
+    weight = 7

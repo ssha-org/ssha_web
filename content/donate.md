@@ -4,9 +4,27 @@ title = "Donate to SSHA"
 
 +++
 
-## Donate to SSHA
+## **Preserving the Past, Advancing the Future**
+### *Our fundraising campaign*
 
-Everyone who thinks it is important for the social sciences to be interdisciplinary and to apply social science methods and theories to the past as well as the present has a stake in maintaining the creative legacy of the Social Science History Association. Please consider making a generous tax-deductible donation today!
+Please donate to the Association’s four-year campaign: Preserving the Past, Advancing the Future.
+
+Our goal is to raise a minimum of $150,000 from our members to ensure that our support for graduate student travel is sustainable and expanded, that our book prizes remain funded, and that we can build our reserves to advance the organization’s mission and protect our future. We have designed the fundraising campaign so that everyone can participate. With as little as $10 or $25 dollars a month for four years (or lump sum payments of $100 or $250 per year), individuals can join the Friends’ Circle or the Patron’s Circle, respectively. For those whose four-year pledge meets or exceeds $2,500, we invite you to join the President’s Leadership Circle.
+
+**The Supporters’ Circle**<br>
+- Pledge of $100 or more per year, up to $200 per year, for 4 years
+
+**The Friends’ Circle**<br>
+- Pledge of $250 or more per year, but less than $2,500 over 4 years
+
+**The Leadership Circle**<br>
+- Pledge of $2,500 or more spread over the entire 4 year period
+
+
+On the pledge button, you will also be able to indicate if you would like your pledge earmarked for a specific fund or whether we may put it in the General Fund.
+
+Thank you for supporting the SSHA! And check back here in May 2018 for the roster of those joining our pledge circles (not disclosing exactly how much they’ve pledged, only the pledge level).
+
 
 <br>
 <center><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
