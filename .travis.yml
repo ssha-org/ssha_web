@@ -12,6 +12,6 @@ deploy:
     secure: alYUReepIo65SULxCniwGFEcWAaLqBmUtUKPR1o3aTOV6bbz/PhH3DhilSYOV+Urq+uM6o1Xct2Y2/hr5im6omYG+MF1An+gSgxtN3b9tPsrr8/FvJT+tHekUtiatc/qvZ8SvXJlKJYfJpeJssJtY+l8O1BQGMKwCTogDeTWiDkoFUTiFRb/WYnYFJDTsvaeLu/ZfvudYWtO7kVL4Q/jfAsnzsZdzJtXmctifmZMDemJEQzvx9r9Yt5JZtpIGwDU/1P2rc0DUJfePxYQUx6lUPKTyRrrIJZlGdZOUf+i02Ls4MV7GvxKcpTZfkMjC5oRjJb9795wtulDcTg/VmuGnnZowkMtfCb7QmNKMQAcNunrgTzc6DTZ6cDvtMwrwvHWbdB8rVtpqotpv2D9i01rXao3lA3rrbH//D8FDDb1cBEon3KFEhdwPMztVSXM+mjmvlSobS5MqpK2b5DzOVOQP/DTG7ZFPtY4b3pBEUVQFm4M8gUu+v+lHSS70NZX39mVs+P1oT+pctCNI+hEGn7+deqeBsz+rr4GvYJMfogs1TaqClGF5W5TlOHlSNfV6Q0WPqzt35n6z50i3iIt6Jm+aOIYCKLrZCEx/cct14hlDFIti2muXbApc4E1a78FBmScTL15HV7GWuL+Ee9h2B+fHXW0coh6dS31DFi2hH0ytGA=
   bucket: aws-website-ssha-o06c3
   local-dir: public
-  acl: ''
+  acl: 'bucket_owner_full_control'
   on:
     repo: atkindel/ssha_web
