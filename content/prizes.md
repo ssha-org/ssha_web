@@ -28,19 +28,15 @@ A $1,000 prize is awarded annually for an outstanding book in social science his
 
 ## Paper Prizes
 
-The Association promotes high quality scholarship through its awards program, which recognize the best work by a younger scholar and the best work by any scholar in our many fields submitted to our annual conference.
+The Association promotes high quality scholarship through its awards program, which recognize the best work by a younger scholar and the best work by any scholar in our many fields submitted to our annual conference. The two paper prizes are given only for papers published in <i>Social Science History</i> during the previous year. The winning papers are selected by the journal's editorial board.
 
 ### Founder's Prize
-
-Description goes here.
 
 <u>2016 Winner:</u>
 
 [See a list of past winners >>](/awards/founder_prize/)
 
 ### Graduate Student Paper Prize
-
-Description goes here.
 
 <u>2016 Winner:</u>
 
