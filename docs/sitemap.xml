@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://atkindel.github.io/ssha_web/announcement/2017conferenceprogram/</loc>
+    <loc>https://atkindel.github.io/ssha_web/old_announcements/2017conferenceprogram/</loc>
     <lastmod>2017-07-30T13:53:36-04:00</lastmod>
   </url>
   
   <url>
-    <loc>https://atkindel.github.io/ssha_web/announcement/2017conferenceregistration/</loc>
+    <loc>https://atkindel.github.io/ssha_web/old_announcements/2017conferenceregistration/</loc>
+    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atkindel.github.io/ssha_web/announcement/2018conferenceprogram/</loc>
     <lastmod>2017-07-30T13:53:36-04:00</lastmod>
   </url>
   
@@ -29,6 +34,11 @@
   
   <url>
     <loc>https://atkindel.github.io/ssha_web/networks/childhood/</loc>
+    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atkindel.github.io/ssha_web/programs/</loc>
     <lastmod>2017-07-30T13:53:36-04:00</lastmod>
   </url>
   
@@ -89,6 +99,11 @@
   
   <url>
     <loc>https://atkindel.github.io/ssha_web/networks/</loc>
+    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://atkindel.github.io/ssha_web/networks_faq/</loc>
     <lastmod>2017-07-30T13:53:36-04:00</lastmod>
   </url>
   
@@ -183,7 +198,7 @@
   </url>
   
   <url>
-    <loc>https://atkindel.github.io/ssha_web/announcement/2017conferencevolunteer/</loc>
+    <loc>https://atkindel.github.io/ssha_web/old_announcements/2017conferencevolunteer/</loc>
     <lastmod>2017-07-30T13:53:36-04:00</lastmod>
   </url>
   
@@ -206,6 +221,12 @@
   
   <url>
     <loc>https://atkindel.github.io/ssha_web/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://atkindel.github.io/ssha_web/old_announcements/</loc>
+    <lastmod>2017-07-30T13:53:36-04:00</lastmod>
     <priority>0</priority>
   </url>
   

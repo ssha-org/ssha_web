@@ -12,7 +12,7 @@ The Association awards two annual prizes for outstanding books in social science
 
 A $1000 prize is awarded annually for a meritorious first work by an early-career scholar. Entrants are judged on scholarly significance, interdisciplinary reach, and methodological innovativeness within monographs analyzing past structures and events and change over time. Books with a copyright date of the previous year that are published within eight years of the author's Ph.D. are eligible for consideration.
 
-<u>2016 Winner:</u> Jonathan Wyrtzen, [*Making Morocco: Colonial Intervention and the Politics of Identity*](http://www.cornellpress.cornell.edu/book/?GCOI=80140100330190) (Cornell University Press, 2015).
+<u>2017 Winner:</u> William Rankin, [*After the Map: Cartography, Navigation, and the Transformation of Territory in the Twentieth Century. Chicago: University of Chicago Press, 2016.*](http://press.uchicago.edu/ucp/books/book/chicago/A/bo22655244.html) (University of Chicago Press, 2016).
 
 [See a list of past winners >>](/awards/president_award/)
 
@@ -20,7 +20,7 @@ A $1000 prize is awarded annually for a meritorious first work by an early-caree
 
 A $1,000 prize is awarded annually for an outstanding book in social science history to honor the memory of Allan Sharlin. Allen exemplified the finest traditions of social science history. His training and scholarship were broadly interdisciplinary and he used both quantitative and more traditional methodologies.  Books published in the previous year are eligible for consideration.
 
-<u>2016 Winners:</u> Alan L. Olmstead and Paul W. Rhode, [*Arresting Contagion: Science, Policy, and Conflicts over Animal Disease Control*](www.hup.harvard.edu/catalog.php?isbn=9780674728776) (Harvard University Press, 2015)
+<u>2017 Winner:</u> Jaeeun Kim, [*Contested Embrace: Transborder Membership Politics in Twentieth-Century Korea.*](http://www.sup.org/books/title/?id=24290) (Stanford University Press, 2016)
 
 [See a list of past winners >>](/awards/sharlin_award/)
 
@@ -32,12 +32,12 @@ The Association promotes high quality scholarship through its awards program, wh
 
 ### Founder's Prize
 
-<u>2016 Winner:</u>
+<u>2017 Winner:</u> Myron P. Gutmann, Daniel Brown, Angela R. Cunningham, James Dykes, Susan Hautaniemi Leonard, Jani Little, Jeremy Mikecz, Paul W. Rhode, Seth Spielman, Kenneth M. Sylvester. ["Migration in the 1930s: Beyond the Dust Bowl"](https://www.cambridge.org/core/product/ADC2D805788D4544098483858496AFAE) *Social Science History* 40(4), p. 707-740.
 
 [See a list of past winners >>](/awards/founder_prize/)
 
 ### Graduate Student Paper Prize
 
-<u>2016 Winner:</u>
+<u>2017 Winner:</u>
 
 [See a list of past winners >>](/awards/graduate_prize/)
