@@ -4,4 +4,4 @@ title = "2018 Call for Papers"
 
 +++
 
-Submit to the <a href="/files/2018 SSHA Call for Papers.pdf" target="_blank">2018 conference call for papers</a>.
+Check out the <a href="/files/2018 SSHA Call for Papers.pdf" target="_blank">call for papers</a> for SSHA 2018: Histories of Disadvantage.

@@ -16,4 +16,4 @@ The Association promotes high quality scholarship through its awards program, wh
 
 Registration for the <a href="https://indianauniv.ungerboeck.com/prod/emc00/register.aspx?OrgCode=10&EvtID=8079&AppCode=REG&CC=117060739156" target="_blank">2017 annual conference</a> is now open. You can log in with your SSHA member ID. If you are not already a member, <a href="https://indianauniv-web.ungerboeck.com/mbd/mbd_p23_add_member.aspx?oc=10&cc=SSHA-MEMBER">click here</a> to register.
 
-### 2017 Conference Highlights
+## [View Past Programs >>](/programs/)
