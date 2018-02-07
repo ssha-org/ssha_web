@@ -4,7 +4,7 @@ title = "Social Science History Association"
 contact = "akindel@princeton.edu"
 theme = "minimal"
 canonifyURLs = true
-publishDir = "docs"
+publishDir = "build"
 
 [params]
     author="Alex Kindel"
