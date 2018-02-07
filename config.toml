@@ -1,14 +1,14 @@
-baseURL = "https://atkindel.github.io/ssha_web/"
+baseURL = "https://ssha.org/"
 languageCode = "en-us"
 title = "Social Science History Association"
 contact = "akindel@princeton.edu"
 theme = "minimal"
 canonifyURLs = true
-publishDir = "docs"
+publishDir = "build"
 
 [params]
     author="Alex Kindel"
-    description="interdisciplinary perspectives on the past"
+    description="Interdisciplinary perspectives on the past."
     accent="#3a678d"
     showBorder = true
     font="Zilla Slab"

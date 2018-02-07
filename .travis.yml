@@ -1,17 +1,15 @@
 language: go
-install: go get -v github.com/spf13/hugo
+sudo: required
+env:
+  global:
+  - AWS_DEFAULT_REGION: us-east-1
+  - secure: kkxSGKV3CdKzGPijla7njnO4ESyOMWUCgwr/kwE/ObI5liVpdEELEmDClIGm4kaCZb7ERhBjxaeaKeUQRcs1xSYW/rLTWk+Dzm+rytmwSaz1glOfXdJ/+ADm/JrihGKWhgOqyzT+L4DTieXvPSFIXUR2rYFNBJl/JsZXWEludjf1ely6T4YLf4QK/A6L4tivHQ8WiBv0ZbKJOBSVj75c+GfvW44Mxwz49AqVjGzPZhxajXqnhDCdNAZn6iuycTFo80Q4U1JtGF+i5UqDcqDEFpplah/+5hyJ2uSxYDgs6CXRqsRMewXJkeweIlAUokwT6o/Ht5GSORdbU3L988Hw9GUVr2cMyAVeSDhm+GcxWiupF3tjnzDoIm4SyCrs0UTNjZ4R9BtzgjVi4BoD5pmEvLYu6BsiebhyGqV0I7qr7/30HDzMVXWajncezGOUlJG77Xy8sZJaAb56X3GHr07nFUboia/mOHSMz8H2fui9hAFv2wxqlo9vCzumQxUmdx5UmQvdGT5XDkGaXmZds+3uEBdnYFB1pN61ak2ySzpj6nOTnIPW64vzNR1rC20PuTQWgc0HDZvftcXypys5COvPkclaE57+uQY5GqxV+9llXv1hU8XrVaUpAnBdWQXvUDiOvtRpaeYlkepuJs0GnPncEfDOQv6KTbB2N0y+iAbG+2s=
+  - secure: NhAr6FkWChYKiMvzlTp60bitSh/I3QNbRZDyZWrJFLsiM6L5r1X2Lz/60o05U+fm8+TaEhQQQv1159U6O0d9EvRIjXlummmcyY5T3m2jP/P6CqZYS0OrB3Ew0CWV3SBHl6fmpdAbLbSUO/mxu0jn9hQ2KYXpdP7ZHDCY9k6v+TGgrdxkK1l1RykJEvBqCZr2EY0B1LTg4DzP8JaHPhiESVuss6VXKE5QEgCw2k/D/cyb0c5pu7MI3aWnXfyE0/D0eDucejBTZowxPlo2TOGUo+X+gP9NW4+ETh71wWth7Toarin9o93Y8v/DQqp4TAcHfxVcfjULjw0P6pOBS6uXYNWeizGNWvuN9K0b/8zj8guqCLl03Ib4Sd8dTCDPXBLyNlKhrgiAmpL45SJ+CQC8wViAJ0fO1y55/aQkt7LrRb8j1VFpXAfO8vPcmYpOYzUMfJbpPHl2XzUe9YUWezrcCd/kRP/oYwXzewZ6fd/9/7i+lVJluv59CkDvwgaJqAgQuxHcLQgF71DEeMezps5RmYdgTDWt2BZtogq9CnHhIrsyYnUetLA2ZD6ejGw8IW7/vJIGQQXXCYS/ZB7coskV31uFHsbCVN0jZE1XBnGYu8qPGQ0BvchbUMdeO3C40FNpN7+dpd8qmhMwHphuQgQcs90t9ZiAB+cCLJCGyibZAeo=
+services:
+- docker
+install:
+- pip install --user awscli
 script:
-- hugo
-notifications:
-  email:
-    on_failure: always
-deploy:
-  provider: s3
-  access_key_id: AKIAJFEXBIAFUBFJRFOA
-  secret_access_key:
-    secure: alYUReepIo65SULxCniwGFEcWAaLqBmUtUKPR1o3aTOV6bbz/PhH3DhilSYOV+Urq+uM6o1Xct2Y2/hr5im6omYG+MF1An+gSgxtN3b9tPsrr8/FvJT+tHekUtiatc/qvZ8SvXJlKJYfJpeJssJtY+l8O1BQGMKwCTogDeTWiDkoFUTiFRb/WYnYFJDTsvaeLu/ZfvudYWtO7kVL4Q/jfAsnzsZdzJtXmctifmZMDemJEQzvx9r9Yt5JZtpIGwDU/1P2rc0DUJfePxYQUx6lUPKTyRrrIJZlGdZOUf+i02Ls4MV7GvxKcpTZfkMjC5oRjJb9795wtulDcTg/VmuGnnZowkMtfCb7QmNKMQAcNunrgTzc6DTZ6cDvtMwrwvHWbdB8rVtpqotpv2D9i01rXao3lA3rrbH//D8FDDb1cBEon3KFEhdwPMztVSXM+mjmvlSobS5MqpK2b5DzOVOQP/DTG7ZFPtY4b3pBEUVQFm4M8gUu+v+lHSS70NZX39mVs+P1oT+pctCNI+hEGn7+deqeBsz+rr4GvYJMfogs1TaqClGF5W5TlOHlSNfV6Q0WPqzt35n6z50i3iIt6Jm+aOIYCKLrZCEx/cct14hlDFIti2muXbApc4E1a78FBmScTL15HV7GWuL+Ee9h2B+fHXW0coh6dS31DFi2hH0ytGA=
-  bucket: aws-website-ssha-o06c3
-  local-dir: public
-  acl: 'bucket_owner_full_control'
-  on:
-    repo: atkindel/ssha_web
+- docker run --rm -v $(pwd):/app -w /app jojomi/hugo:0.36 hugo
+after_success:
+- aws s3 sync build/ s3://aws-website-ssha-o06c3/ --delete
