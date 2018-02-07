@@ -1,0 +1,44 @@
+{{ partial "header" . }}
+
+<main>
+
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8">
+                    <div class="intro">
+
+                        <img class="hidden-xs" src="/images/ssha.gif">
+                        <img class="hidden-sm hidden-md hidden-lg" src="/images/ssha_small.gif">
+
+                        <br><br>
+
+                        <h1>{{ .Site.Title }}</h1>
+
+                        <h2>{{ .Site.Params.Description }}</h2>
+
+                        <hr>
+
+                        <!-- <h4>{{ .Site.Params.Introtext }}</h4> -->
+                        <h4>The Social Science History Association is an interdisciplinary organization that publishes a journal, <em>Social Science History</em>, organizes an annual conference, supports graduate student travel to the conference, and awards book prizes.
+                            <br> <br>
+                            With scholars from history, economics, sociology, demography, anthropology, and other social sciences, the association brings together scholars in thematic networks where they can explore common questions.
+                            <br> <br>
+                            Each network organizes its own call for papers and selects the bulk of the papers to be presented at the annual conference. This open, flexible, and non-hierarchical structure makes these networks particularly welcoming spaces for younger scholars and invigorating tonic for more seasoned academics.</h4>
+
+                        <hr>
+
+                    </div>
+                </div>
+
+                <div class="intro" style="margin: 14vh 0">
+                {{ partial "sidebar.html" . }}
+                </div>
+
+            </div>
+        </div>
+
+
+
+</main>
+
+{{ partial "footer" . }}

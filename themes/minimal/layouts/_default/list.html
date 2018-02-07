@@ -1,0 +1,31 @@
+{{ partial "header" . }}
+
+<main>
+
+    <div class="container">
+        <div class="row">
+
+            <div class="col-md-8">
+                <div class="text-justify">{{.Content}}</div>
+                <br><br>
+                <span class="network-grid">
+                {{ range where .Data.Pages "Section" "networks" }}
+                    <a style="background-color: {{.Params.color}};" type="button" role="button" class="btn button-outline-light network" href="{{.Permalink}}">{{ .Title }}</a>
+                {{ end }}
+                </span>
+                <span class="network-grid">
+                {{ range where .Data.Pages "Section" "programs" }}
+                    <a style="background-color: {{.Params.color}};" type="button" role="button" class="btn button-outline-light network" href="{{.Permalink}}">{{ .Title }}</a>
+                {{ end }}
+                </span>
+            </div>
+            <br>
+
+            {{ partial "sidebar.html" . }}
+
+        </div>
+    </div>
+
+</main>
+
+{{ partial "footer" . }}
