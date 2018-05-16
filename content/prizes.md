@@ -12,15 +12,44 @@ The Association awards two annual prizes for outstanding books in social science
 
 A $1000 prize is awarded annually for a meritorious first work by an early-career scholar. Entrants are judged on scholarly significance, interdisciplinary reach, and methodological innovativeness within monographs analyzing past structures and events and change over time. Books with a copyright date of the previous year that are published within eight years of the author's Ph.D. are eligible for consideration.
 
-<u>2017 Winner:</u> William Rankin, [*After the Map: Cartography, Navigation, and the Transformation of Territory in the Twentieth Century. Chicago: University of Chicago Press, 2016.*](http://press.uchicago.edu/ucp/books/book/chicago/A/bo22655244.html) (University of Chicago Press, 2016).
+*The 2018 submission window for the President’s Book Award will open soon.  Stay tuned for details!*
 
 [See a list of past winners >>](/awards/president_award/)
 
 ### Allan Sharlin Memorial Book Award
 
-A $1,000 prize is awarded annually for an outstanding book in social science history to honor the memory of Allan Sharlin. Allen exemplified the finest traditions of social science history. His training and scholarship were broadly interdisciplinary and he used both quantitative and more traditional methodologies.  Books published in the previous year are eligible for consideration.
+A $1,000 prize is awarded annually for an outstanding book in social science history to honor the memory of Allan Sharlin. Allen exemplified the finest traditions of social science history. His training and scholarship were broadly interdisciplinary and he used both quantitative and more traditional methodologies. Books published in the previous year are eligible for consideration.
 
-<u>2017 Winner:</u> Jaeeun Kim, [*Contested Embrace: Transborder Membership Politics in Twentieth-Century Korea.*](http://www.sup.org/books/title/?id=24290) (Stanford University Press, 2016)
+The submission window for the 2018 Sharlin Memorial Book Award is now open. Submissions with a postmark of June 15 (or earlier) will be accepted. Late entries will not be considered. Authors or publishers wishing to nominate a book should mail copies to each member of the award committee listed below:
+
+- Alan L. Olmstead (chair)  
+1233 Fordham Dr.  
+Davis, CA.  95616  
+
+- Emily Erikson  
+29 Chicken ST  
+Wilton, CT.  06897  
+
+- Lisa Dillon  
+4650 Beaconsfield  
+Montreal, QC, Canada, H4A 2H7  
+
+- Charles Seguin  
+DEPARTMENT OF SOCIOLOGY AND CRIMINOLOGY  
+211 Oswald Tower, The Pennsylvania State University  
+University Park, PA 16802  
+
+- Simone Wegge  
+Economics, Bldg. 2N-224  
+2800 Victory Blvd.  
+College of Staten Island – CUNY  
+Staten Island, NY 10314  
+
+- William Block  
+Sharlin Award  
+Social Science History Association  
+391 Pine Tree Rd  
+Ithaca, NY 14850  
 
 [See a list of past winners >>](/awards/sharlin_award/)
 

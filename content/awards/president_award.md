@@ -12,6 +12,7 @@ A $1000 prize is awarded annually for a meritorious first work by an early-caree
 
 *Year* | &emsp; | *Author* | &emsp; | *Institution* | *Title*
 --- | --- | :--- | --- | :--- | :---
+2017 | |William Rankin | | | After the Map: Cartography, Navigation, and the Transformation of Territory in the Twentieth Century. 
 2016 | |Jonathan Wyrtzen | |Cornell University |Making Morocco: Colonial Intervention and the Politics of Identity
 2015 | |Aaron Panofsky | |University of Chicago |Misbehaving Science: Controversy and the Development of Behavior Genetics
 2014 | |Vanessa Ogle | |University of Pennsylvania |Contesting Time: The Global Struggle for Uniformity and Its Unintended Consequences, 1870s-1950s
