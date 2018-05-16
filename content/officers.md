@@ -4,15 +4,15 @@ title = "SSHA Officers"
 
 +++
 
-### 2016-2017 Officers
+### 2017-2018 Officers
 
 **President**  
-Alice Bee Kasakoff  
-University of South Carolina (Geography)  
-
-**Vice President**  
 Frederick Wherry  
 Princeton University (Sociology)  
+
+**Vice President**  
+Steve Ruggles  
+University of Minnesota (History)  
 
 **Executive Director**  
 William C. Block  
@@ -25,17 +25,6 @@ Carnegie Mellon University (History)
 ----
 
 ### Executive Committee
-
-*Term Expires 2017*
-
-- Rebecca Emigh  
-UCLA (Sociology)  
-
-- Kris Inwood  
-University of Guelph (Economics and History)  
-
-- Ken Sylvester  
-University of Michigan (ICPSR)  
 
 *Term Expires 2018*
 
@@ -59,17 +48,20 @@ Providence College (Sociology)
 - Fatma Müge Göçek  
 University of Michigan (Sociology)  
 
+*Term Expires 2020*
+
+- Martin Dribe  
+Lund University (History)  
+
+- Mara Loveman  
+University of California, Berkeley (Sociology)  
+
+- Emily Erikson  
+Yale University (Sociology)  
+
 ----
 
 ### Publications Committee
-
-*Term Expires 2017*
-
-- David Mitch -- Chair  
-University of Maryland-Baltimore County (Economics)  
-
-- Anne Knowles  
-Middlebury College (Geography)  
 
 *Term Expires 2018*
 
@@ -87,22 +79,34 @@ Boston University (Sociology)
 - Nancy Tatarek  
 Ohio University (Anthropology)  
 
+*Term Expires 2020*
+
+- Richard Lachmann  
+SUNY Albany (Sociology)  
+
+- Alice O’Connor  
+University of California, Santa Barbara (History)  
+
 ----
 
-### 2017 Program Committee
+### 2018 Program Committee
 
 Barry Eidlin  
 McGill University (Sociology)  
 
-Don Lafreniere  
-Michigan Tech University (Social Sciences)  
+Damon W. Mayrl  
+Colby College (Sociology)  
 
-Mary Louise Nagata  
-Francis Marion University (History)  
+Linda S. Reeder  
+University of Missouri (History)  
 
 ----
 
 ### Past Presidents
+
+Alice Bee Kasakoff  
+University of South Carolina (Anthropology)  
+2016-2017  
 
 Myron Gutmann  
 University of Colorado (History)  
@@ -111,7 +115,3 @@ University of Colorado (History)
 Susan Carter  
 University of California (Economics)  
 2014-2015  
-
-Tom Sugrue  
-University of Pennsylvania (History)  
-2013-2014  
