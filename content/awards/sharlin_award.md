@@ -12,7 +12,7 @@ A $1,000 prize is awarded annually for an outstanding book in social science his
 
 *Year* | &emsp; | *Author* | &emsp; | *Institution* | &emsp; | *Title*
 --- | --- | :--- | --- | :--- | --- | :---
-2017  | | Jaeeun Kim | | | | Contested Embrace: Transborder Membership Politics in Twentieth-Century Korea.
+2017  | | Jaeeun Kim | | | | Contested Embrace: Transborder Membership Politics in Twentieth-Century Korea
 2016  | | Alan L. Olmstead, Paul W. Rhode  | | Harvard University  | | Arresting Contagion: Science, Policy, and Conflicts over Animal Disease Control
 2015  | | Emily Erikson  | | | | Between Monopoly and Free Trade
 2015  | | Mara Loveman | | | | National Colors: Racial Classification and the State in Latin America
