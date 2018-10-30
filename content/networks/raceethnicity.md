@@ -38,5 +38,4 @@ Please feel free to check our Facebook page, which you can find by searching for
 ### Network Representatives
 
 - [Joseph O. Jewell](mailto:jjewell@tamu.edu)
-- [Liz Onasch](mailto:eonas001@plattsburgh.edu)
 - [Marisela Martinez-Cola](mailto:memart6@emory.edu)

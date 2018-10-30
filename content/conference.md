@@ -4,6 +4,10 @@ title = "Annual Conference"
 
 +++
 
+## 2018 Conference Program
+
+[Download the 2018 conference program >>](/files/SSHA Program 2018.pdf)
+
 ## Annual Conference
 
 Our 2018 conference will be held in Phoenix, AZ on November 8-11, 2018. Our 2019 conference will be held in Chicago on November 21-24, 2019. We meet every fall, usually in November. The location changes according to the following logic: once every three years in Chicago, once every three years somewhere on the ‘East Coast’ and once every three years somewhere else. Since 2010, the Association has extended its reach to include Canadian cities as possible locations. The conference involves over a thousand scholars from around the world, although graduate students and faculty from the leading American universities predominant. [Browse our online conference program >>](http://prd.sshaconference.org/people/login)

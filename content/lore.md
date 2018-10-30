@@ -63,7 +63,7 @@ C. **President's Book Award Committee**
 
 D. **Nominating Committee**
 
-1. Selected by the Vice President (a chair and four members) for a one-year term.
+1. Selected by the Vice President (a chair and four members) for a one-year term. The Nominating Committee will ordinarily consist of the three former Executive Committee members who have most recently completed their terms, and two of the current Executive Committee members who are in their final year of service.
 
 2. Draw up a slate for elections including Vice President, Executive Director or Treasurer (if respective four-year terms are up), three members of Executive Committee, and two members of the Publications Committee. Sole candidates are to be put forward for Vice President, Executive Director and Treasurer; and pairs of candidates for slots on the Executive and Publications committees. Ask all candidates if they will run and agree to serve if elected, and to provide a bio-sketch for ballot.
 

@@ -15,7 +15,6 @@ We invite submissions of papers or (preferably) full panels by February. We were
 
 ### Network Representatives
 
-- [Matt Jaremski](mailto:mjaremski@colgate.edu)
 - [Phil Hoffman](mailto:pth@hss.caltech.edu)
 - Kris Inwood
 - [Steven Sprick Schuster](mailto:ssprickschuster@colgate.edu)

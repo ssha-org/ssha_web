@@ -39,7 +39,7 @@ Section blog: http://sshareligion.blogspot.com.tr/
 
 ### Network Representatives
 
+- [Ateş Altınordu](mailto:atesaltinordu@sabanciuniv.edu)
 - [Philip Gorski](mailto:philip.gorski@yale.edu)
 - [Samuel Nelson](mailto:samuel.nelson@mcgill.ca)
-- [Damon Mayrl](mailto:dwmaryl@colby.edu)
-- [Ateş Altınordu](mailto:atesaltinordu@sabanciuniv.edu)
+- [Sadia Saeed](mailto:ssaeed3@usfca.edu)

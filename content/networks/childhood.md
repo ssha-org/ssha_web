@@ -25,6 +25,6 @@ We invite submissions of papers or (preferably) full panels by February.  We esp
 
 ### Network Representatives
 
-- [Atacan Atakan](mailto:atacanatakan@email.arizona.edu)
 - [Emily Bruce](mailto:bruce088@umn.edu)
 - [Elizabeth Dillenburg](mailto:eadillenburg@gmail.com)
+- [Mateusz Swietlicki](mailto:mateusz.swietlicki@uwr.edu.pl)

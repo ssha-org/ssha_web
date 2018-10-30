@@ -4,4 +4,4 @@ title = "2018 Program"
 
 +++
 
-The <a href="http://prd.sshaconference.org/people/login" target="_blank">preliminary program</a> for SSHA 2018 is now available.
+The <a href="/files/SSHA Program 2018.pdf" target="_blank">official program</a> for SSHA 2018 is now available.

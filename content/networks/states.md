@@ -24,6 +24,8 @@ Finally, if you or someone you know has a topical book related to this conferenc
 
 ### Network Representatives
 
-- [Shiri Noy](mailto:snoy@uwyo.edu)
+- [Edwin Ackerman](mailto:efackerm@maxwell.syr.edu)
+- [Mark Cohen](mailto:mark.cohen@cuhk.edu.hk)
+- [Shiri Noy](mailto:noys@denison.edu)
 - [Aliza Luft](mailto:aluft@Soc.ucla.edu)
 - [Mike McCarthy](mailto:michael.mccarthy@marquette.edu)

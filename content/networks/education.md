@@ -11,5 +11,6 @@ The Education/Knowledge/Science (EKS) Network, as one of many parts of the Socia
 
 ### Network Representatives
 
+- [Alex Myers](mailto:alexanderjmyers@ku.edu)
 - [Daniel Huebner](mailto:drhuebne@uncg.edu)
 - [Zeke Baker](mailto:ejbaker@ucdavis.edu)
