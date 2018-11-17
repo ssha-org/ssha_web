@@ -7,12 +7,12 @@ title = "SSHA Officers"
 ### 2017-2018 Officers
 
 **President**  
-Frederick Wherry  
-Princeton University (Sociology)  
+Steven Ruggles  
+University of Minnesota (History)  
 
 **Vice President**  
-Steve Ruggles  
-University of Minnesota (History)  
+Philip Hoffman  
+California Institute of Technology (Economics)  
 
 **Executive Director**  
 William C. Block  
@@ -25,17 +25,6 @@ Carnegie Mellon University (History)
 ----
 
 ### Executive Committee
-
-*Term Expires 2018*
-
-- Simone Wegge  
-City University of New York (Economics)  
-
-- Elizabeth Popp Berman  
-University at Albany, SUNY (Sociology)  
-
-- Steven Ruggles  
-University of Minnesota (Minnesota Population Center)  
 
 *Term Expires 2019*
 
@@ -59,17 +48,20 @@ University of California, Berkeley (Sociology)
 - Emily Erikson  
 Yale University (Sociology)  
 
+*Term Expires 2021*
+
+- Stephanie Mudge  
+University of California, Davis (Sociology)  
+
+- Trevon Logan  
+Ohio State University (Economics)  
+
+- Elisabeth Engberg  
+Umeå University (History)
+
 ----
 
 ### Publications Committee
-
-*Term Expires 2018*
-
-- Amy Kate Bailey  
-University of Illinois – Chicago (Sociology)  
-
-- Janet Golden  
-Rutgers University (History)  
 
 *Term Expires 2019*
 
@@ -86,6 +78,14 @@ SUNY Albany (Sociology)
 
 - Alice O’Connor  
 University of California, Santa Barbara (History)  
+
+*Term Expires 2021*
+
+- Evan Roberts  
+University of Minnesota (Sociology)  
+
+- Sumner Lacroix  
+University of Hawai‘i-Mānoa (Economics)  
 
 ----
 
@@ -104,6 +104,10 @@ University of Missouri (History)
 
 ### Past Presidents
 
+Frederick Wherry  
+Princeton University (Sociology)  
+2017-2018  
+
 Alice Bee Kasakoff  
 University of South Carolina (Anthropology)  
 2016-2017  
@@ -111,7 +115,3 @@ University of South Carolina (Anthropology)
 Myron Gutmann  
 University of Colorado (History)  
 2015-2016  
-
-Susan Carter  
-University of California (Economics)  
-2014-2015  

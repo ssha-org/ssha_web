@@ -21,6 +21,6 @@ One particularly attractive feature of this fine study is that it is thoughtful 
 
 *Year* | &emsp; | *Author* | &emsp; | *Institution* | &emsp; | *Title*
 --- | --- | :--- | --- | :--- | --- | :---
-2016 | | | | | |
+2017 | | Richard Sutch | | | | "The One Percent across Two Centuries: A Replication of Thomas Picketty's Data on the Concentration of Wealth in the United States”
 2015 | | Rebecca Jean Emigh, Dylan Riley, Patricia Ahmed | | | | The Racialization of Legal Categories in the First U.S. Census
 2014 | | Andrew Walder | | | | Rebellion and Repression in China, 1966-1971

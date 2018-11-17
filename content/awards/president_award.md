@@ -35,6 +35,8 @@ New Haven, CT 06511
 
 *Year* | &emsp; | *Author* | &emsp; | *Institution* | *Title*
 --- | --- | :--- | --- | :--- | :---
+2018 | |Keri Leigh Merritt   |   |   | Masterless Men: Poor Whites and Slavery in the Antebellum South
+2018 | |Taisu Zhang   |   |   |  The Laws and Economics of Confucianism: Kinship and Property in Preindustrial China and England
 2017 | |William Rankin | | | After the Map: Cartography, Navigation, and the Transformation of Territory in the Twentieth Century.
 2016 | |Jonathan Wyrtzen | |Cornell University |Making Morocco: Colonial Intervention and the Politics of Identity
 2015 | |Aaron Panofsky | |University of Chicago |Misbehaving Science: Controversy and the Development of Behavior Genetics
