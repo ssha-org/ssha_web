@@ -8,28 +8,9 @@ title = "Social Science History"
 
 A $1000 prize is awarded annually for a meritorious first work by an early-career scholar. Entrants are judged on scholarly significance, interdisciplinary reach, and methodological innovativeness within monographs analyzing past structures and events and change over time. Books with a copyright date of the previous year that are published within eight years of the author's Ph.D. are eligible for consideration.
 
-The submission window for the 2018 SSHA Presidents Book Award is now open. Submissions with a postmark of August 31 (or earlier) will be accepted. Late entries will not be considered. Authors or publishers wishing to nominate a book should mail an author’s curriculum vitae and a copy of the nominated book to each member of the award committee listed below:
+The submission window for the 2019 SSHA Presidents Book Award is now open. Submissions with a postmark of August 31 (or earlier) will be accepted. Late entries will not be considered. Authors or publishers wishing to nominate a book should mail an author’s curriculum vitae and a copy of the nominated book to each member of the award committee.
 
-Dr. Lorraine Minnite (Committee Chair)  
-Dept. of Public Policy & Administration  
-Rutgers University  
-401 Cooper Street  
-Camden, NJ 08102  
-
-Dr. Leah Boustan  
-Princeton University  
-Industrial Relations Section  
-Louis A. Simpson International Bldg.  
-Princeton, NJ 08544  
-
-Michael Fortner  
-4306 Walnut Street  
-Third Floor  
-Philadelphia, PA 19104  
-
-William Rankin  
-27 Lincoln St.  
-New Haven, CT 06511  
+*The award committee for 2019 will be posted soon.*
 
 ### Past Winners
 
