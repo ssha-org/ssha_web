@@ -44,3 +44,4 @@ Sample of proposed sessions for SSHA Annual Meeting 2017:
 - [Elizabeth Venditto](mailto:vendi002@umn.edu)
 - [Gráinne McEvoy](mailto:mcevoygr@gmail.com)
 - [Kelly Condit-Shrestha](mailto:cond0092@umn.edu)
+- [Elizabeth Zanoni](mailto:ezanoni@odu.edu)

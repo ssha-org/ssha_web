@@ -25,6 +25,6 @@ We invite submissions of papers or (preferably) full panels by February.  We esp
 
 ### Network Representatives
 
-- [Emily Bruce](mailto:bruce088@umn.edu)
+- [Kristine Alexander](mailto:kristine.alexander@uleth.ca)
 - [Elizabeth Dillenburg](mailto:eadillenburg@gmail.com)
 - [Mateusz Swietlicki](mailto:mateusz.swietlicki@uwr.edu.pl)
