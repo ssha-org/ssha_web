@@ -4,4 +4,4 @@ title = "2019 Submission Portal"
 
 +++
 
-<a href="http://ssha2019.ssha.org" target="_blank">Click here</a> to submit to our Annual Conference.
+<a href="http://ssha2019.ssha.org" target="_blank">Click here</a> to submit to our Annual Conference by March 15th.
