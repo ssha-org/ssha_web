@@ -13,3 +13,9 @@ Our 2019 conference will be held in Chicago on November 21-24, 2019. We meet eve
 The Association promotes high quality scholarship through its awards program, which recognize the best work by a younger scholar and the best work by any scholar in our many fields. We also facilitate the participation of graduate students through a travel grant. Please note that students applying for these funds need to fill out the appropriate form and submit it along with their proposed to the network representatives. They will be informed of the result of that competition at the same time as they hear whether or not their paper has been accepted.
 
 <a href="https://goo.gl/forms/b6lm0QI3ABX3OGBI3">Click here to apply for the 2019 Graduate Student Travel Award.</a> The deadline for 2019 travel awards is <b>March 15th</b>.
+
+### Future Conferences
+
+- Chicago, Illinois, USA, 21-24 November 2019
+- Washington, DC, USA, 19-22 November, 2020
+- Philadelphia, PA, USA, 11-14 November, 2021

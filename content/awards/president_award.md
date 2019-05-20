@@ -8,7 +8,7 @@ title = "Social Science History"
 
 A $1000 prize is awarded annually for a meritorious first work by an early-career scholar. Entrants are judged on scholarly significance, interdisciplinary reach, and methodological innovativeness within monographs analyzing past structures and events and change over time. Books with a copyright date of the previous year that are published within eight years of the author's Ph.D. are eligible for consideration.
 
-The submission window for the 2019 SSHA Presidents Book Award is now open. Submissions with a postmark of August 31 (or earlier) will be accepted. Late entries will not be considered. Authors or publishers wishing to nominate a book should mail an author’s curriculum vitae and a copy of the nominated book to each member of the award committee.
+Submissions for the 2019 SSHA Presidents Book Award will open soon. Submissions with a postmark of June 30 (or earlier) will be accepted. Late entries will not be considered. Authors or publishers wishing to nominate a book should mail an author’s curriculum vitae and a copy of the nominated book to each member of the award committee.
 
 *The award committee for 2019 will be posted soon.*
 
