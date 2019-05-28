@@ -8,9 +8,35 @@ title = "Social Science History"
 
 A $1,000 prize is awarded annually for an outstanding book in social science history to honor the memory of Allan Sharlin. Allen exemplified the finest traditions of social science history. His training and scholarship were broadly interdisciplinary and he used both quantitative and more traditional methodologies.  Books published in the previous year are eligible for consideration.
 
-Submissions for the 2019 Sharlin Memorial Book Award will open soon. Submissions with a postmark of June 30 (or earlier) will be accepted. Late entries will not be considered. Authors or publishers wishing to nominate a book should mail copies to each member of the award committee.
+Submissions for the 2019 Sharlin Memorial Book Award are open. Submissions with a postmark of June 30 (or earlier) will be accepted. Late entries will not be considered. Authors or publishers wishing to nominate a book should mail copies to each member of the award committee.
 
-*The award committee for 2019 will be posted soon.*
+### Award Committee
+
+- Charles Seguin (Penn State, chair)  
+Department of Sociology and Criminology  
+211 Oswald Tower  
+State College, PA 16801
+- Angel Adams Parham (Loyola University)  
+Dept. of Sociology-Loyola University  
+6363 St. Charles Ave. Box 30  
+New Orleans, Louisiana 70118
+- Jaeeun Kim (University of Michigan)  
+LSA Building Room 4226  
+500 S. State Street  
+Ann Arbor, MI 48109
+- Randolph Roth (Ohio State University)  
+Department of History  
+Ohio State University  
+230 Annie and John Glenn Way  
+Columbus, OH 43210-1367
+- James Lee (Hong Kong University of Science and Technology)  
+Room 2338, Academic Building  
+School of Humanities and Social Science  
+Hong Kong University of Science and Technology Clear Water Bay, Kowloon Hong Kong  
+- William Block (Cornell University)  
+Social Science History Association  
+391 Pine Tree Rd  
+Ithaca, NY 14850
 
 ### Past Winners
 
