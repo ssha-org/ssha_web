@@ -4,4 +4,4 @@ title = "2019 Awards"
 
 +++
 
-Apply for the <a href="https://ssha.org/awards/president_award/" target="_blank">President's Book Award</a> and the <a href="https://ssha.org/awards/sharlin_award/" target="_blank">Allan Sharlin Memorial Book Award</a> by June 30th.
+Apply for the <a href="https://ssha.org/awards/sharlin_award/" target="_blank">Allan Sharlin Memorial Book Award</a> by June 30th.

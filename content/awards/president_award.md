@@ -8,9 +8,36 @@ title = "Social Science History"
 
 A $1000 prize is awarded annually for a meritorious first work by an early-career scholar. Entrants are judged on scholarly significance, interdisciplinary reach, and methodological innovativeness within monographs analyzing past structures and events and change over time. Books with a copyright date of the previous year that are published within eight years of the author's Ph.D. are eligible for consideration.
 
-Submissions for the 2019 SSHA Presidents Book Award will open soon. Submissions with a postmark of June 30 (or earlier) will be accepted. Late entries will not be considered. Authors or publishers wishing to nominate a book should mail an author’s curriculum vitae and a copy of the nominated book to each member of the award committee.
+Submissions for the 2019 SSHA Presidents Book Award will open soon. Submissions with a postmark of July 20 (or earlier) will be accepted. Late entries will not be considered. Authors or publishers wishing to nominate a book should mail an author’s curriculum vitae and a copy of the nominated book to each member of the award committee.
 
-*The award committee for 2019 will be posted soon.*
+***IMPORTANT: The deadline for submissions has been extended to July 20, 2019.***
+
+### Award Committee
+
+- Leah Boustan, Chair (Princeton University, Economics)  
+Industrial Relations Section  
+Louis A Simpson Intl Building  
+Princeton University  
+Princeton NJ 08544
+- Michael Fortner (City University of New York, Political Science)  
+4306 Walnut Street  
+Philadelphia, PA 19104
+- Keri Leigh Merritt (Atlanta, GA, Historian)  
+523 McKoy Street  
+Decatur, GA 30030
+- Sasha Mullally (University of New Brunswick, History)  
+Professor of History, Associate Dean of Graduate Studies  
+University of New Brunswick  
+120 Tilley Hall, 9 MacAulay Lane  
+PO Box 4400, Fredericton, NB  
+CANADA  E3B 5A3
+- Nancy Tatarek (Ohio University, Anthropology)  
+2649 Two Ridge Ave  
+Lancaster, OH 43130  
+- William C. Block (SSHA, Executive Director)  
+SSHA Presidents Book Award  
+391 Pine Tree Rd  
+Ithaca, NY 14850
 
 ### Past Winners
 
