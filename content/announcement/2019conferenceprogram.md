@@ -4,4 +4,4 @@ title = "2019 Call for Papers"
 
 +++
 
-View the <a href="http://ssha2019.ssha.org/" target="_blank">preliminary program</a> for SSHA 2019.
+Search the <a href="http://ssha2019.ssha.org/" target="_blank">conference program</a> by day, network, or participant name.
