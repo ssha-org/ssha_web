@@ -20,11 +20,7 @@ Our goal is to raise a minimum of $150,000 from our members to ensure that our s
 **The Leadership Circle**<br>
 - Pledge of $2,500 or more spread over the entire 4 year period
 
-On the pledge button, you will also be able to indicate if you would like your pledge earmarked for a specific fund or whether we may put it in the General Fund.
-
-For those who wish to directly to sponsor a named endowment for a graduate student travel grant, please contact the Executive Director, Bill Block directly (block at cornell dot edu). For US based individuals fixing federal taxes, the donations are tax deductible because the SSHA has 401c3 status.
-
-Thank you for supporting the SSHA! And check back here in May 2018 for the roster of those joining our pledge circles (not disclosing exactly how much they’ve pledged, only the pledge level).
+For US based individuals fixing federal taxes, the donations are tax deductible because the SSHA has 401(c)3 status. Thank you for supporting the SSHA!
 
 
 <br>
