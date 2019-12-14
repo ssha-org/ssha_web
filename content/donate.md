@@ -4,21 +4,10 @@ title = "Donate to SSHA"
 
 +++
 
-## **Preserving the Past, Advancing the Future**
+## **Richard Sutch Student Travel Awards**
 ### *Our fundraising campaign*
 
-Please donate to the Association’s four-year campaign: Preserving the Past, Advancing the Future.
-
-Our goal is to raise a minimum of $150,000 from our members to ensure that our support for graduate student travel is sustainable and expanded, that our book prizes remain funded, and that we can build our reserves to advance the organization’s mission and protect our future. We have designed the fundraising campaign so that everyone can participate. With as little as $10 or $25 dollars a month for four years (or lump sum payments of $100 or $250 per year), individuals can make a real difference. For those whose four-year pledge meets or exceeds $2,500, we invite you to join the Leadership Circle.
-
-**The Supporters’ Circle**<br>
-- Pledge between $100 and $499 over a 4 year period
-
-**The Friends’ Circle**<br>
-- Pledge at least $500 but less than $2,500 over a 4 year period
-
-**The Leadership Circle**<br>
-- Pledge of $2,500 or more spread over the entire 4 year period
+SSHA recently named the Student Travel Awards in honor of Richard Sutch, distinguished social and economic historian, and long time member of SSHA. Richard passed away recently after a battle with Merkel cell carcinoma; you may read about his life and accomplishments at <a href="https://delong.typepad.com/files/sutch-obituary.pdf">https://delong.typepad.com/files/sutch-obituary.pdf</a>. All donations received through the end of the year will be devoted to endowing travel awards in Richard’s name.
 
 For US based individuals fixing federal taxes, the donations are tax deductible because the SSHA has 401(c)3 status. Thank you for supporting the SSHA!
 
