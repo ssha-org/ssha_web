@@ -9,9 +9,9 @@ color = "#9AB6E7"
 
 The Family History and Demography Network of the Social Science History Association calls for papers for a variety of panels that have been proposed by network members, and for proposals for additional panels.
 
-We especially appreciate receiving entire panels, consisting of four papers, with panel chair and commentator, but also invite proposals for roundtables, book sessions, or single papers.  The list of panels that have already been proposed appear below.
+We especially appreciate receiving entire panels, consisting of four papers, with panel chair and commentator, but also invite proposals for roundtables, book sessions, or single papers.  A list of panels that have been proposed in the past appear below.
 
-Proposed Sessions
+### Proposed Sessions
 - Quality of Record Linkage: Revisiting Methods and Results
 - Large Linkage Projects
 - Bridges Between Databases

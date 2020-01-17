@@ -14,7 +14,7 @@ Facebook: https://www.facebook.com/groups/SSHAReligionNetwork/
 Twitter: https://twitter.com/SSHA_Religion  
 Section blog: http://sshareligion.blogspot.com.tr/  
 
-**Highlights from the 42nd SSHA Annual Meeting Program (coming up in November 2017!):**
+**Highlights from the 42nd SSHA Annual Meeting Program (November 2017):**
 
 - Charles Taylor's 'A Secular Age' at Ten (Book session)  
 <u>Organizer:</u> Samuel Nelson (McGill University)  

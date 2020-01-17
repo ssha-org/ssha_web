@@ -9,7 +9,7 @@ color = "#0E8186"
 
 The Historical Geography and GIS Network focuses on the application of spatial thinking to the study of the past, with a growing focus on GIS-based research. Our papers often take an interdisciplinary approach and incorporate topics such as demography, urban studies, environmental history, migration studies, and health, among others.
 
-Recently proposed sessions:
+### Recently proposed sessions:
 - Building Historical “Big Data” Together: Crowd-sourcing, “Citizen Science” and large-scale online collaboration (Humphrey Southall, humphrey.southall@port.ac.uk)
 - Architectures of Hurry (Richard Dennis, r.dennis@ucl.ac.uk)
 - Ireland From Below: Mircroscale approaches in HGIS to understanding urban change in the Irish and Irish Diaspora (Nial Cunningham, niall.cunningham@durham.ac.uk)
