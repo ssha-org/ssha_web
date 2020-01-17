@@ -11,6 +11,6 @@ The culture network seeks work exploring culture in two ways. First, we are eage
 
 ### Network Representatives
 
-- [Yuching Cheng](mailto:ycheng@albany.edu)
+- [Catherine Arnold](mailto:crnold13@memphis.edu)
 - [Barış Büyükokutan](mailto:bbuyukokutan@ku.edu.tr)
-- [Nicholas Wilson](mailto:Nicholas.Wilson@stonybrook.edu)
+- [Shai Dromi](mailto:shai.dromi@g.harvard.edu)
