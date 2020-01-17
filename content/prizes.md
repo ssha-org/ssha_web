@@ -8,7 +8,7 @@ title = "Prizes"
 
 The Association awards two annual prizes for outstanding books in social science history.
 
-**Submissions for the 2019 book awards are now open.**
+**Submissions for the 2020 book awards will open shortly - TBA.**
 
 ### Presidents Book Award
 
