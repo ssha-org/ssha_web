@@ -36,6 +36,6 @@ The Association promotes high quality scholarship through its awards program, wh
 
 ### Graduate Student Paper Prize
 
-<u>2017 Winner:</u>
+<u>2019 Winner: TBA</u>
 
 [Learn more and see a list of past winners >>](/awards/graduate_prize/)
