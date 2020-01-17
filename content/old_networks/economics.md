@@ -15,7 +15,7 @@ We invite submissions of papers or (preferably) full panels by February. We were
 
 ### Network Representatives
 
-- [Joyce Burnett](mailto:burnettj@wabash.edu)
-- [Jari Eloranta](mailto:jari.eloranta@helsinki.fi)
 - [Sakari Saaritsa](mailto:Sakari.Saaritsa@helsinki.fi)
+- [Jari Eloranta](mailto:jari.eloranta@helsinki.fi)
+- [Joyce Burnett](mailto:burnettj@wabash.edu)
 - [Steven Sprick Schuster](mailto:ssprickschuster@colgate.edu)

@@ -27,5 +27,4 @@ We invite submissions of papers or (preferably) full panels by February.  We esp
 
 - [Kristine Alexander](mailto:kristine.alexander@uleth.ca)
 - [Elizabeth Dillenburg](mailto:eadillenburg@gmail.com)
-- [Birgitte Søland](mailto:soland.1@osu.edu)
-- [Mateusz Świetlicki](mailto:mateusz.swietlicki@uwr.edu.pl)
+- [Mateusz Swietlicki](mailto:mateusz.swietlicki@uwr.edu.pl)

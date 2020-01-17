@@ -41,6 +41,7 @@ Sample of proposed sessions for SSHA Annual Meeting 2017:
 
 ### Network Representatives
 
+- [Elizabeth Venditto](mailto:vendi002@umn.edu)
+- [Gráinne McEvoy](mailto:mcevoygr@gmail.com)
 - [Kelly Condit-Shrestha](mailto:cond0092@umn.edu)
-- [Caroline Waldron](mailto:cwaldron2@udayton.edu)
 - [Elizabeth Zanoni](mailto:ezanoni@odu.edu)

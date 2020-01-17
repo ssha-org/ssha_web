@@ -36,4 +36,5 @@ Please contact the Family/Demography Network Representatives for comments, quest
 ### Network Representatives
 
 - [Mary Louise Nagata](mailto:mnagata@fmarion.edu)
+- [Matt Nelson](mailto:nels5091@umn.edu)
 - [Richard Zijdeman](mailto:richard.zijdeman@iisg.nl)

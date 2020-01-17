@@ -21,5 +21,4 @@ Please follow us on Facebook: https://www.facebook.com/groups/1543927835891069/
 
 - [Martin Goessl](mailto:martin.goessl@fh-joanneum.at)
 - [Dominique Grisard](mailto:Dominique.Grisard@unibas.ch)
-- [Jadwiga E. Pieper-Mooney](mailto:jadwiga@email.arizona.edu)
-- [Benita Roth](mailto:broth@binghamton.edu)
+- [Jadwiga E. Pieper Mooney](mailto:jadwiga@email.arizona.edu)

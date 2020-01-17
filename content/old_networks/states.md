@@ -26,5 +26,5 @@ Finally, if you or someone you know has a topical book related to this conferenc
 
 - [Edwin Ackerman](mailto:efackerm@maxwell.syr.edu)
 - [Mark Cohen](mailto:mark.cohen@cuhk.edu.hk)
-- [Timothy Gill](mailto:gillt@uncw.edu)
 - [Shiri Noy](mailto:noys@denison.edu)
+- [Timothy Gill](mailto:gillt@uncw.edu)

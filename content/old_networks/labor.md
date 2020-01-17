@@ -30,7 +30,7 @@ Check out the 2017 Program for the Labor Network Updates. The Labor Network cont
 
 ### Network Representatives
 
-- [Christina Groeger](mailto:groeger@lakeforest.edu)
-- [Tristan Ivory](mailto:ti92@cornell.edu)
-- [Amanda Walter](mailto:Av9699@wayne.edu)
+- [Elizabeth Faue](mailto:ad5247@wayne.edu)
+- [Zophia Edwards](mailto:zedwards@providence.edu)
 - [Gregory Wood](mailto:gwood@frostburg.edu)
+- [Amanda Walter](mailto:Av9699@wayne.edu)

@@ -39,6 +39,7 @@ Section blog: http://sshareligion.blogspot.com.tr/
 
 ### Network Representatives
 
-- [Samuel Nelson](mailto:samuel.nelson@mcgill.ca)
+- [Ateş Altınordu](mailto:atesaltinordu@sabanciuniv.edu)
 - [Efe Peker](mailto:efe.peker@mail.mcgill.ca)
+- [Samuel Nelson](mailto:samuel.nelson@mcgill.ca)
 - [Sadia Saeed](mailto:ssaeed3@usfca.edu)

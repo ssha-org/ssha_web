@@ -37,6 +37,6 @@ Please feel free to check our Facebook page, which you can find by searching for
 
 ### Network Representatives
 
-- [Tristan Ivory](mailto:ivoryt@missouri.edu)
 - [Joseph O. Jewell](mailto:jjewell@tamu.edu)
 - [Marisela Martinez-Cola](mailto:memart6@emory.edu)
+- [Tristan Ivory](mailto:ivoryt@missouri.edu)

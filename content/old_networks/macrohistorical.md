@@ -11,7 +11,7 @@ Macrohistorical Dynamics (MHD) is an interdisciplinary social science research c
 
 ### Network Representatives
 
-- [Ho-Fung Hung](mailto:hofung@jhu.edu)
-- [James Lee](mailto:jqljzl@gmail.com)
 - [Daniel Little](mailto:delittle@umich.edu)
+- [James Lee](mailto:jqljzl@gmail.com)
+- [Ho-Fung Hung](mailto:hofung@jhu.edu)
 - [Isaac Arial Reed](mailto:iar2c@virginia.edu)

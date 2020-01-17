@@ -26,5 +26,5 @@ Recently proposed sessions:
 
 ### Network Representatives
 
-- [S. Wright Kennedy](mailto:sk4562@columbia.edu)
 - [Dan Trepal](mailto:djtrepal@mtu.edu)
+- [S. Wright Kennedy](mailto:sk4562@columbia.edu)

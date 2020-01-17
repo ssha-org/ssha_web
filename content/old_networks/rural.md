@@ -25,5 +25,5 @@ At the annual meeting, there is a scheduled network meeting where ideas for the 
 
 ### Network Representatives
 
-- [Susan Leonard](mailto:hautanie@umich.edu)
 - [Josh MacFadyen](mailto:joshmacfadyen@gmail.com)
+- [Susan Leonard](mailto:hautanie@umich.edu)
