@@ -4,15 +4,15 @@ title = "SSHA Officers"
 
 +++
 
-### 2017-2018 Officers
+### 2019-2020 Officers
 
 **President**  
-Steven Ruggles  
-University of Minnesota (History)  
-
-**Vice President**  
 Philip Hoffman  
 California Institute of Technology (Economics)  
+
+**Vice President**  
+Manali Desai  
+Cambridge University (Sociology)  
 
 **Executive Director**  
 William C. Block  
@@ -25,17 +25,6 @@ Carnegie Mellon University (History)
 ----
 
 ### Executive Committee
-
-*Term Expires 2019*
-
-- Hilde Bras  
-Wageningen University (Sociology)  
-
-- Cedric de Leon  
-Providence College (Sociology)  
-
-- Fatma Müge Göçek  
-University of Michigan (Sociology)  
 
 *Term Expires 2020*
 
@@ -63,14 +52,6 @@ Umeå University (History)
 
 ### Publications Committee
 
-*Term Expires 2019*
-
-- Julian Go  
-Boston University (Sociology)  
-
-- Nancy Tatarek  
-Ohio University (Anthropology)  
-
 *Term Expires 2020*
 
 - Richard Lachmann  
@@ -89,20 +70,27 @@ University of Hawai‘i-Mānoa (Economics)
 
 ----
 
-### 2018 Program Committee
-
-Barry Eidlin  
-McGill University (Sociology)  
-
-Damon W. Mayrl  
-Colby College (Sociology)  
+### 2020 Program Committee
 
 Linda S. Reeder  
-University of Missouri (History)  
+University of Missouri (History)
+
+Jonas Helgertz
+University of Minnesota/Lund University (Economic History)
+
+Tim Thurber
+Virginia Commonwealth University (History)
+
+Steven Sprick Schuster
+Middle Tennessee State University (Economics)
 
 ----
 
 ### Past Presidents
+
+Steven Ruggles  
+University of Minnesota (History)
+2018-2019
 
 Frederick Wherry  
 Princeton University (Sociology)  
