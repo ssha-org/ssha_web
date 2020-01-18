@@ -46,7 +46,18 @@ University of California, Davis (Sociology)
 Ohio State University (Economics)  
 
 - Elisabeth Engberg  
-Umeå University (History)
+Umeå University (History)  
+
+*Term Expires 2022*
+
+- Don Lafreniere  
+Michigan Technological University (Geography)  
+
+- Victoria Hattam  
+The New School for Social Research (Politics)  
+
+- Diego Ramiro-Fariñas  
+ Consejo Superior de Investigaciones Científicas (Demography)
 
 ----
 
@@ -67,6 +78,14 @@ University of Minnesota (Sociology)
 
 - Sumner Lacroix  
 University of Hawai‘i-Mānoa (Economics)  
+
+*Term Expires 2022*  
+
+- Matthew Hatvany  
+Université Laval (Geography)  
+
+- Dorit Geva  
+Central European University (Sociology)
 
 ----
 
