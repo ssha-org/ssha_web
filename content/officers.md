@@ -75,13 +75,13 @@ University of Hawai‘i-Mānoa (Economics)
 Linda S. Reeder  
 University of Missouri (History)
 
-Jonas Helgertz
+Jonas Helgertz  
 University of Minnesota/Lund University (Economic History)
 
-Tim Thurber
+Tim Thurber  
 Virginia Commonwealth University (History)
 
-Steven Sprick Schuster
+Steven Sprick Schuster  
 Middle Tennessee State University (Economics)
 
 ----
@@ -89,7 +89,7 @@ Middle Tennessee State University (Economics)
 ### Past Presidents
 
 Steven Ruggles  
-University of Minnesota (History)
+University of Minnesota (History)  
 2018-2019
 
 Frederick Wherry  
