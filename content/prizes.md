@@ -30,12 +30,12 @@ The Association promotes high quality scholarship through its awards program, wh
 
 ### Founder's Prize
 
-<u>2017 Winner:</u> Myron P. Gutmann, Daniel Brown, Angela R. Cunningham, James Dykes, Susan Hautaniemi Leonard, Jani Little, Jeremy Mikecz, Paul W. Rhode, Seth Spielman, Kenneth M. Sylvester. ["Migration in the 1930s: Beyond the Dust Bowl"](https://www.cambridge.org/core/product/ADC2D805788D4544098483858496AFAE) *Social Science History* 40(4), p. 707-740.
+<b>2018 Winner:</b> Lisa D. Cook, Trevon D. Logan and John M. Parman "[Racial Segregation and Southern Lynching.](https://www.cambridge.org/core/journals/social-science-history/article/racial-segregation-and-southern-lynching/970ED0F6524CEDD6A9AFC2BA82A5AADB)" *Social Science History* &nbsp;&nbsp;Volume 42, Issue 4 (Winter 2018), pp. 635-675.
 
 [Learn more and see a list of past winners >>](/awards/founder_prize/)
 
 ### Graduate Student Paper Prize
 
-<u>2019 Winner: TBA</u>
+<b>2019 Winner:</b> TBA  
 
 [Learn more and see a list of past winners >>](/awards/graduate_prize/)
