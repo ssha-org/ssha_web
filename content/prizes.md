@@ -30,7 +30,7 @@ The Association promotes high quality scholarship through its awards program, wh
 
 ### Founder's Prize
 
-<b>2018 Winner:</b> Lisa D. Cook, Trevon D. Logan and John M. Parman "[Racial Segregation and Southern Lynching.](https://www.cambridge.org/core/journals/social-science-history/article/racial-segregation-and-southern-lynching/970ED0F6524CEDD6A9AFC2BA82A5AADB)" *Social Science History* &nbsp;&nbsp;Volume 42, Issue 4 (Winter 2018), pp. 635-675.
+<b>2018 Winner:</b> Lisa D. Cook, Trevon D. Logan and John M. Parman "[Racial Segregation and Southern Lynching.](https://doi.org/10.1017/ssh.2018.21)" *Social Science History* &nbsp;&nbsp;Volume 42, Issue 4 (Winter 2018), pp. 635-675.
 
 [Learn more and see a list of past winners >>](/awards/founder_prize/)
 
