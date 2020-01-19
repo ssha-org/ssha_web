@@ -12,8 +12,8 @@ A $1,000 prize to be awarded annually for the best article published in the prec
 
 *Year* | &emsp; | *Author* | &emsp; | *Title*
 :--- | :--- | :--- | :--- | :---
-2017 | | Richard Sutch | | The One Percent across Two Centuries: A Replication of Thomas Picketty's Data on the Concentration of Wealth in the United States.
+2017 | | Richard Sutch | | [The One Percent across Two Centuries: A Replication of Thomas Picketty's Data on the Concentration of Wealth in the United States.](https://doi.org/10.1017/ssh.2017.27)
 &emsp; | &emsp; | &emsp;| &emsp;| &emsp; 
-2015 | | Rebecca Jean Emigh, Dylan Riley and Patricia Ahmed | | The Racialization of Legal Categories in the First U.S. Census.
+2015 | | Rebecca Jean Emigh, Dylan Riley and Patricia Ahmed | | [The Racialization of Legal Categories in the First U.S. Census.](https://doi.org/10.1017/ssh.2015.69)
 &emsp; | &emsp; | &emsp;| &emsp;| &emsp; 
-2014 | | Andrew Walder | | Rebellion and Repression in China, 1966-1971.  
+2014 | | Andrew Walder | | [Rebellion and Repression in China, 1966-1971.](https://doi.org/10.1017/ssh.2015.23)  
