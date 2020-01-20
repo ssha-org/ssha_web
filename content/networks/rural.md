@@ -9,7 +9,7 @@ color = "#EEB291"
 
 The Rural, Agricultural and Environmental Network of the Social Science History Association is a broad network including research focused on rural society, on the interaction between rural and urban society, on agricultural history, and on the use of land from an environmental perspective. It rests upon the interdependence between people and land, historically and today, and the effects on humans and nature from this interdependence. Although most panels in recent meetings have addressed these questions focusing on Europe and North America during the last two centuries, panels covering other parts of the world and earlier time periods have also been arranged regularly.
 
-Some examples of panels from the past meetings are:
+Some examples of panels from past meetings are:
 
 - Land-Based State Modernizing Projects, 19th and 20th Centuries
 - Rural Pluralities in Europe. Histories from the Countryside since the Interwar years
@@ -25,5 +25,5 @@ At the annual meeting, there is a scheduled network meeting where ideas for the 
 
 ### Network Representatives
 
-- [Susan Leonard](mailto:hautanie@umich.edu)
-- [Josh MacFadyen](mailto:joshmacfadyen@gmail.com)
+- [Susan Hautaniemi Leonard](mailto:hautanie@umich.edu)
+- [Josh MacFadyen](mailto:jdmacfadyen@upei.ca)
