@@ -31,15 +31,15 @@ We welcome panel and individual paper submissions for the SSHA Annual Meeting th
 - Refugee Scholars and Mobile Scholars
 - Religion and Migration
 
-Sample of proposed sessions for past SSHA Annual Meetings:
+Sample of proposed sessions from past SSHA Annual Meetings:
 
-- Migration Organizations in Organizing Migration (Teuntje Vosters: geuntje.vosters@gmail.com)
-- Trafficking & Slavery: History, Historical Legacies and Modern Day Challenges (Audra Diptee: audra_diptee@carleton.ca)
-- New Italian Migrations to the United States from 1945 to Present (Joseph Sciorra: joseph.sciorra@qc.cuny.edu)
-- LGBT and Refugee Migration (Marlou Schrover: m.l.j.c.schrover@hum.leidenuniv.nl)
-- Emotion, Gender and Migration since 1880 (Linda Reeder: reederls@missouri.edu)
-- Gender and Deportation in North America: Case Studies from the 20th and 21st Century (Matthieu Caron: matthieu.caron@mail.utoronto.ca)
-- Innovative Approaches to Teaching Migration and Citizenship in the Classroom and Beyond (Danielle Battisti: daniellebattisti@gmail.com)
+- Migration Organizations in Organizing Migration (Teuntje Vosters: geuntje.vosters@gmail.com)  
+- Trafficking & Slavery: History, Historical Legacies and Modern Day Challenges (Audra Diptee: audra_diptee@carleton.ca)  
+- New Italian Migrations to the United States from 1945 to Present (Joseph Sciorra: joseph.sciorra@qc.cuny.edu)  
+- LGBT and Refugee Migration (Marlou Schrover: m.l.j.c.schrover@hum.leidenuniv.nl)  
+- Emotion, Gender and Migration since 1880 (Linda Reeder: reederls@missouri.edu)  
+- Gender and Deportation in North America: Case Studies from the 20th and 21st Century (Matthieu Caron: matthieu.caron@mail.utoronto.ca)  
+- Innovative Approaches to Teaching Migration and Citizenship in the Classroom and Beyond (Danielle Battisti: daniellebattisti@gmail.com)  
 
 ### Network Representatives
 
