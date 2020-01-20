@@ -16,7 +16,7 @@ Our 2020 conference will be held in Washington, DC on November 19-22, 2020. We m
 
 SSHA requires that all session participants register for the annual meeting and be (or become) members of the SSHA.  If your membership is not current, you will not be able to register for the conference as a member.  Please sign up for membership, or renew your membership prior to filling out the conference registration form.
 
-Membership is on a rolling basis – good for 12 months from the date of your joining/renewal—and includes a subscription to the Social Science History journal. If you have not yet signed up or renewed your membership, please do so before registering for the conference, in order to receive the discounted member registration fee. To sign up for an SSHA membership, please <a href="https://indianauniv-web.ungerboeck.com/mbd/mbd_p23_add_member.aspx?oc=10&cc=SSHA-MEMBER" target="_blank"><b>Click Here</b></a> before registering.
+Membership is on a rolling basis – good for 12 months from the date of your joining/renewal—and includes a subscription to the Social Science History journal. If you have not yet signed up or renewed your membership, please do so before registering for the conference, in order to receive the discounted member registration fee. To sign up for an SSHA membership, please visit the <a href="https://indianauniv-web.ungerboeck.com/mbd/mbd_p23_add_member.aspx?oc=10&cc=SSHA-MEMBER" target="_blank">**SSHA membership registration website**</a>.
 
 Registration fee includes admittance to all paper sessions, as well as Thursday and Saturday receptions. All session participants must register for the conference and be (or become) a member of SSHA. We ask that session participants register by TBA.
 
