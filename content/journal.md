@@ -8,7 +8,7 @@ title = "Social Science History"
 
 *Social Science History* is dedicated to the study of social theory within an empirical historical context. Our interdisciplinary readership includes anthropologists, demographers, economists, geographers, historians, political scientists, and sociologists, all in pursuit of a deep understanding of societies, past and present. The journal invites articles that blend empirical research with theoretical work, undertake comparisons across time and space, or contribute to the development of quantitative and qualitative methods of analysis. As the official journal of the Social Science History Association, *Social Science History* reflects the interests of members who are active in the Association’s diverse range of research networks. However, it also welcomes submissions from the broader international research community of historically informed social scientists.
 
-*Social Science History* is published by [Cambridge University Press](https://www.cambridge.org/core/journals/social-science-history). The contact email for the editorial office is <socialsciencehistory@mit.edu>. Information about the Editorial Board of Social Science History can be found [here](https://www.cambridge.org/core/journals/social-science-history/information/editorial-board).
+*Social Science History* is published by [Cambridge University Press](https://www.cambridge.org/core/journals/social-science-history). The contact email for the editorial office is <socialsciencehistory@mit.edu>. Information about the Editorial Board of Social Science History can be found here: [SSH Editors and Editorial Board](https://www.cambridge.org/core/journals/social-science-history/information/editorial-board).
 
 ### Submission Information
 
