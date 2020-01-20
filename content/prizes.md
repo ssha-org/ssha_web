@@ -14,11 +14,17 @@ The Association awards two annual prizes for outstanding books in social science
 
 A $1000 prize is awarded annually for a meritorious first work by an early-career scholar. Entrants are judged on scholarly significance, interdisciplinary reach, and methodological innovativeness within monographs analyzing past structures and events and change over time. Books with a copyright date of the previous year that are published within eight years of the author's Ph.D. are eligible for consideration.
 
+**2019 Winner:**  Seth Archer  <a href="https://www.cambridge.org/us/academic/subjects/history/history-native-american-peoples/sharks-upon-land-colonialism-indigenous-health-and-culture-hawaii-17781855?format=HB&isbn=9781107174566" target="_blank"><i>Sharks upon the Land: Colonialism, Indigenous Health, and Culture in Hawai’i, 1778–1855.</i></a>   Cambridge University Press (May 25, 2018)
+
 [Learn more and see a list of past winners >>](/awards/president_award/)
 
 ### Allan Sharlin Memorial Book Award
 
 A $1,000 prize is awarded annually for an outstanding book in social science history to honor the memory of Allan Sharlin. Allen exemplified the finest traditions of social science history. His training and scholarship were broadly interdisciplinary and he used both quantitative and more traditional methodologies. Books published in the previous year are eligible for consideration.
+
+**2019 Winners:** Alan Greer <a href="https://www.cambridge.org/us/academic/subjects/history/history-native-american-peoples/property-and-dispossession-natives-empires-and-land-early-modern-north-america?format=PB" target="_blank"><i>Property and Dispossession: Natives, Empires and Land in Early Modern North America.</i></a>  Cambridge University Press (January 11, 2018)<br />
+
+Devin Caughey (Honorable Mention) <a href="https://press.princeton.edu/books/paperback/9780691181806/the-unsolid-south" target="_blank"><i>The Unsolid South: Mass Politics and National Representation in a One-Party Enclave.</i></a>  Princeton University Press (September 25, 2018)
 
 [Learn more and see a list of past winners >>](/awards/sharlin_award/)
 
@@ -37,5 +43,7 @@ The Association promotes high quality scholarship through its awards program, wh
 ### Graduate Student Paper Prize
 
 <b>2019 Winner:</b> TBA  
+
+**2017 Winner:** Alexandre White "[Global Risks, Divergent Pandemics: Contrasting Responses to Bubonic Plague and Smallpox in 1901 Cape Town.](https://doi.org/10.1017/ssh.2017.41)" *Social Science History*&nbsp;&nbsp;Volume 42, Issue 1 (Spring 2018), pp. 135-158.
 
 [Learn more and see a list of past winners >>](/awards/graduate_prize/)
