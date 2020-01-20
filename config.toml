@@ -37,16 +37,21 @@ publishDir = "build"
     weight = 4
 
 [[menu.main]]
+    url = "/membership/"
+    name = "Membership"
+    weight = 5
+
+[[menu.main]]
     url = "/prizes/"
     name = "Prizes"
-    weight = 5
+    weight = 6
 
 [[menu.main]]
     url = "/donate/"
     name = "Donate"
-    weight = 6
+    weight = 7
 
 [[menu.main]]
     url = "/about/"
     name = "About"
-    weight = 7
+    weight = 8
