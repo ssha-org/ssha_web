@@ -14,7 +14,7 @@ New intellectual directions continue to emerge at the outset of the 21st century
 
 When you become a member of SSHA, you will receive the association's journal *Social Science History,* which comes out quarterly in both print and online formats. Members have access to the journal's full online content, which includes all recent issues as well as past issues available from the journal's online archives. Along with your 12-month subscription to *Social Science History,* members also receive a reduced conference registration rate, are entitled to vote for officers and committee members, and encouraged to participate in the Annual Business Meeting and Banquet.
 
-Membership is on a rolling basis – good for 12 months from the date of your joining/renewal. To sign up for an SSHA membership, please <a href="https://indianauniv-web.ungerboeck.com/mbd/mbd_p23_add_member.aspx?oc=10&cc=SSHA-MEMBER" target="_blank">**Click Here**</a> and you will be redirected to the membership webpage.
+Membership is on a rolling basis – good for 12 months from the date of your joining/renewal. To sign up for an SSHA membership, please <a href="https://indianauniv-web.ungerboeck.com/mbd/mbd_p23_add_member.aspx?oc=10&cc=SSHA-MEMBER" target="_blank">**Click Here**</a> and you will be redirected to the membership registration website.
 
 &emsp;
 
