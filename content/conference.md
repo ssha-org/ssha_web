@@ -12,7 +12,7 @@ Our 2020 conference will be held in Washington, DC on November 19-22, 2020. We m
 
 ### Registration
 
-2020 conference registration TBA 
+2020 conference registration information coming soon. 
 
 SSHA requires that all session participants register for the annual meeting and be (or become) members of the SSHA.  If your membership is not current, you will not be able to register for the conference as a member.  Please sign up for membership, or renew your membership prior to filling out the conference registration form.
 
@@ -32,11 +32,11 @@ Non-Session Participant (non-member rate) | | $410 | | $10
 
 **Exhibiting and Advertising**
 
-TBA
+Comming Soon
 
 **Cancellations**
 
-TBA
+Cancellation requests must be received in writing to the Conference Registrar at iuconfs@indiana.edu.
 
 **Registration Questions**
 
@@ -50,7 +50,7 @@ iuconfs@iu.edu
 
 ### Hotel Information
 
-**TBA**
+The 2020 Annual Meeting will be held at the Hyatt Regency Washington on Capitol Hill, only steps from the U.S. Capitol and a short walk from the Smithsonian Museums.
 
 ### Awards and Grants
 
