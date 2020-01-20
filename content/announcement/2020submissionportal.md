@@ -4,6 +4,6 @@ title = "2020 Call for Papers"
 
 +++
 
-SSHA is now accepting paper and session submissions for the 2020 Annual Conference. Please visit our submission portal <a href="http://ssha2020.ssha.org/" target="_blank"><b>Click here</b></a> to submit a paper or session proposal by February 16, 2020.
+SSHA is now accepting paper and session submissions for the 2020 Annual Conference. Please visit our submission portal <a href="http://ssha2020.ssha.org/" target="_blank"><b>Click here</b></a> to submit a paper or session proposal by <u>February 16, 2020</u>.
 <br /><hr width="100">
 **Call for Papers** of the 46th Annual Meeting of the Social Science History Association:  <a href="http://ssha2020.ssha.org/hps/SSHA2020CFP.pdf" target="_blank">"Politics, Society, and the Economy: the Past and Today”</a>
