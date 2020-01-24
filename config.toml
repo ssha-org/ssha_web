@@ -10,7 +10,7 @@ publishDir = "build"
     author="Alex Kindel"
     description="Interdisciplinary perspectives on the past."
     accent="#3a678d"
-    showBorder = true
+    showBorder = false
     font="Zilla Slab"
 
 
