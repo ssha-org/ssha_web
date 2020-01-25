@@ -140,6 +140,11 @@ a:hover {
     text-decoration: none;
 }
 
+.programs:hover {
+    color: #999 !important;
+    text-decoration: none;
+}
+
 /*navigation bar icons*/
 
 .navbar-icon {
