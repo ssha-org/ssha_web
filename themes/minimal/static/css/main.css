@@ -110,11 +110,25 @@ a:hover {
 .network {
     font-size: 105%;
     color: #eee !important;
-    padding-top: 50px !important;
-    padding-bottom: 30px !important;
+    padding-top: 25px !important;
+    padding-bottom: 0px !important;
     /*float: left;*/
     width: 160px;
-    height: 160px;
+    height: 110px;
+    margin: 5px;
+    border-radius: 5px;
+    background-color: inherit;
+    white-space: normal !important;
+}
+
+.programs {
+    font-size: 105%;
+    color: #eee !important;
+    padding-top: 20px !important;
+    padding-bottom: 0px !important;
+    /*float: left;*/
+    width: 160px;
+    height: 140px;
     margin: 5px;
     border-radius: 5px;
     background-color: inherit;

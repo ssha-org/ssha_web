@@ -13,9 +13,9 @@
                     <a style="background-color: {{.Params.color}};" type="button" role="button" class="btn button-outline-light network" href="{{.Permalink}}">{{ .Title }}</a>
                 {{ end }}
                 </span>
-                <span class="network-grid">
+                <span class="programs-grid">
                 {{ range where .Data.Pages "Section" "programs" }}
-                    <a style="background-color: {{.Params.color}};" type="button" role="button" class="btn button-outline-light network" href="{{.Permalink}}">{{ .Title }}</a>
+                    <a style="background-color: {{.Params.color}};" type="button" role="button" class="btn button-outline-light programs" href="{{.Permalink}}">{{ .Title }}</a>
                 {{ end }}
                 </span>
             </div>
