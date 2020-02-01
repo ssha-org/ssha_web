@@ -3,7 +3,7 @@ html, body {
 }
 
 body {
-    padding-top: 55px;
+    padding-top: 45px;
     display: flex;
     text-align: center;
     flex-direction: column;
@@ -162,6 +162,7 @@ a:hover {
 
 .menulogo {
     padding-top: 5px;
+    padding-right: 25px;
 }
 
 .support {
@@ -173,6 +174,8 @@ a:hover {
 .navbar.navbar-default {
     border-top: var(--border-width) solid var(--accent);
     padding-top: 5px;
+    padding-bottom: 5px;
+    background-color: #e6e6e6;
 }
 
 footer {
