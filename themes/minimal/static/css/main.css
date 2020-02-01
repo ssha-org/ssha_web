@@ -172,6 +172,7 @@ a:hover {
 
 .navbar.navbar-default {
     border-top: var(--border-width) solid var(--accent);
+    padding-top: 5px;
 }
 
 footer {
