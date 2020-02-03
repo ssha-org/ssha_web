@@ -28,6 +28,12 @@ main {
     height: 120%;
 }
 
+/*sidebar*/
+
+.col-md-3 > hr {
+    border-color: #d9d9d9;
+}
+
 /*footer*/
 
 .copyright-toggle:hover .copyright {
@@ -69,6 +75,10 @@ main {
     color: #757575;
     font-size: 3vmin;
     text-transform: capitalize;
+}
+
+.intro > hr {
+    border-color: #d9d9d9;
 }
 
 /*apply accent colour to links*/
