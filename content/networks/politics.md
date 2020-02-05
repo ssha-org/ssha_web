@@ -13,15 +13,17 @@ In keeping with the traditions of the SSHA we encourage interdisciplinary panels
 
 The submission deadline is February 16, 2020; submissions can be made via the following link: http://ssha2020.ssha.org/. Works that align with the 2020 conference theme -- <i>Politics, Society, and the Economy: the Past and Today</i> -- are particularly welcome. This year the network is also interested in works on the following topics:
 
-- democracy & party politics
-- politics, gender/sexuality & race/ethnicity
+- democracy & party politics, especially pertaining to the 2020 US election year
+- sovereignty, secession & home rule
+- urban, local & state-level politics & political institutions
+- politics of gender/sexuality, race/ethnicity & religion
 - populism & comparative populisms
-- science/anti-science, expertise & politics
-- polling & political communication
+- polarization & extremism
+- science/anti-science, expertise & politics, including environmental politics
+- polling/pollsters, consultants & strategists
+- technology, digital media & political communication
 - politics of health & medicine, especially related to epidemics
 - politics of international trade
-- inter- and trans-national politics, especially the European-American relationship
-- regime change & revolutions
 
 ### Network Representatives
 
