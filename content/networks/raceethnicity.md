@@ -41,4 +41,4 @@ https://www.facebook.com/pages/RaceEthnicity-Network-Social-Science-History-Asso
 
 - [Tristan Ivory](mailto:ivoryt@missouri.edu)
 - [Joseph O. Jewell](mailto:jjewell@tamu.edu)
-- [Marisela Martinez-Cola](mailto:memart6@emory.edu)
+- [Marisela Martinez-Cola](mailto:marisela.martinez-cola@usu.edu)
