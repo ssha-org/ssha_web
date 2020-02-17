@@ -6,7 +6,7 @@ title = "Annual Conference"
 
 ## Annual Conference
 
-Submissions for the 2020 annual meeting are now being accepted. Please visit our submission portal at: <b>http://ssha2020.ssha.org/</b>. The submission deadline is February 16, 2020. Authors will be notified of accepted papers by April 15, 2020.
+Submissions for the 2020 annual meeting are now being accepted. Please visit our submission portal at: <b>http://ssha2020.ssha.org/</b>. The submission deadline has been extended to March 13, 2020. Authors will be notified of accepted papers by April 15, 2020.
 
 Our 2020 conference will be held in Washington, DC on November 19-22, 2020. We meet every fall, usually in November. The location changes according to the following logic: once every three years in Chicago, once every three years somewhere on the ‘East Coast’ and once every three years somewhere else. Since 2010, the Association has extended its reach to include Canadian cities as possible locations. The conference involves over a thousand scholars from around the world, although graduate students and faculty from the leading American universities predominant.
 
