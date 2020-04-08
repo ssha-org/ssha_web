@@ -30,7 +30,7 @@ main {
 
 /*sidebar*/
 
-.col-md-3 > hr {
+.col-md-4 > hr {
     border-color: #d9d9d9;
 }
 
