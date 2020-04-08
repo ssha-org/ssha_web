@@ -32,18 +32,24 @@ Non-Session Participant (non-member rate) | | $410 | | $10
 
 **Exhibiting and Advertising**
 
-Comming Soon
+Comming Soon  
+
+&emsp;
 
 **Cancellations**
 
-Cancellation requests must be received in writing to the Conference Registrar at iuconfs@indiana.edu.
+Cancellation requests must be received in writing to the Conference Registrar at:  
+  
+<iuconfs@indiana.edu> 
+
+&emsp;
 
 **Registration Questions**
 
 For questions about registration, please contact:
 
 Melissa Kocias  
-iuconfs@iu.edu  
+<iuconfs@iu.edu>  
 812.855.4224 * 800.933.9330 * 812.855.8077 (fax)  
 
 &emsp;
