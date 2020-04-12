@@ -185,7 +185,7 @@ a:hover {
     border-top: var(--border-width) solid var(--accent);
     padding-top: 5px;
     padding-bottom: 5px;
-    background-color: #e6e6e6;
+    background-color: #e6e6f5;
     box-shadow: 0px 2px 4px 0px #bababa
 }
 
