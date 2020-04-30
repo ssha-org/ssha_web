@@ -16,8 +16,8 @@ title = "Social Science History"
 
 ### Featured Articles
 
-Lisa D. Cook, Trevon D. Logan and John M. Parman "[Racial Segregation and Southern Lynching.](https://doi.org/10.1017/ssh.2018.21)" *Social Science History* &nbsp;&nbsp;Volume 42, Issue 4 (Winter 2018), pp. 635-675.
+Frederick F. Wherry "[SSHA Presidential Address: The Pathways to Disadvantage.](https://doi.org/10.1017/ssh.2019.47)" *Social Science History* &nbsp;Volume 44, Issue 1 (Spring 2020), pp. 1-18.  **Open Access Article**
 
-Nicholas P. Jewell, Michael Spagat and Britta L. Jewell "[Accounting for Civilian Casualties: From the Past to the Future.](https://doi.org/10.1017/ssh.2018.9)" *Social Science History* &nbsp;&nbsp;Volume 42, Issue 3 (Fall 2018), pp. 379-410.
+Desiree Abu-Odeh, Shamus Khan and Constance A. Nathanson "[Social Constructions of Rape at Columbia University and Barnard College, 1955–90.](https://doi.org/10.1017/ssh.2019.49)" *Social Science History* &nbsp;Volume 44, Issue 2 (Summer 2020). **First View Article**
 
-Richard Sutch  "[The One Percent across Two Centuries: A Replication of Thomas Piketty's Data on the Concentration of Wealth in the United States.](https://doi.org/10.1017/ssh.2017.27)" *Social Science History* &nbsp;&nbsp;Volume 41, Issue 4 (Winter 2017), pp. 587-613.
+Dan Slater and Hillel David Soifer "[The Indigenous Inheritance: Critical Antecedents and State Building in Latin America and Southeast Asia.](https://doi.org/10.1017/ssh.2020.2)" *Social Science History* &nbsp;Volume 44, Issue 2 (Summer 2020). **First View Article**
