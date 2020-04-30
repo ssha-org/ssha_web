@@ -1,9 +1,10 @@
 <div class="col-md-4">
     <h4><u>Announcements</u></h4>
+        <div style="background-color: #fffffa; padding: 10px;">
     {{ range where .Site.Pages "Section" "announcement" }}
         {{ .Content }}
     {{ end }}
-
+        </div>
     <hr width="200">
 
     <h4><u>Supporting SSHA</u></h4>
