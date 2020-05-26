@@ -21,3 +21,13 @@ Frederick F. Wherry "[SSHA Presidential Address: The Pathways to Disadvantage.](
 Desiree Abu-Odeh, Shamus Khan and Constance A. Nathanson "[Social Constructions of Rape at Columbia University and Barnard College, 1955–90.](https://doi.org/10.1017/ssh.2019.49)" *Social Science History* &nbsp;Volume 44, Issue 2 (Summer 2020). **First View Article**
 
 Dan Slater and Hillel David Soifer "[The Indigenous Inheritance: Critical Antecedents and State Building in Latin America and Southeast Asia.](https://doi.org/10.1017/ssh.2020.2)" *Social Science History* &nbsp;Volume 44, Issue 2 (Summer 2020). **First View Article**
+
+
+### Current Issue
+
+Summer 2020, Volume 44 -- Issue 2  
+https://cambridge.org/core/journals/social-science-history/latest-issue  
+
+<div class="col-md-10">
+    <img src="/images/SSH_44-3.jpg", style="width: 100%"></img>
+</div>
