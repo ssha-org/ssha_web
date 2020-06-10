@@ -53,8 +53,8 @@ Umeå University (History)
 - Don Lafreniere  
 Michigan Technological University (Geography)  
 
-- Victoria Hattam  
-The New School for Social Research (Politics)  
+- Molly Michelmore  
+Washington and Lee University (History)  
 
 - Diego Ramiro-Fariñas  
  Consejo Superior de Investigaciones Científicas (Demography)
