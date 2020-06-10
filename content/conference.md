@@ -4,7 +4,9 @@ title = "Annual Conference"
 
 +++
 
-## SSHA Annual Conference
+## **SSHA Annual Conference**
+
+<hr width=300; align=left>
 
 Submissions for the 2020 SSHA annual meeting are now completed. Authors will be notified of accepted papers by April 15, 2020. For more information on your submission please visit the <a href="http://ssha2020.ssha.org/" target="_blank">**2020 SSHA Program website**</a>.
 

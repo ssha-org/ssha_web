@@ -4,7 +4,9 @@ title = "About SSHA"
 
 +++
 
-## About the Social Science History Association
+## **About SSHA**
+
+<hr width=300; align=left>
 
 The Social Science History Association was created in 1974 by scholars interested in using social science methods and theories to better understand the past. [Read more >>](/about_ssha/)
 

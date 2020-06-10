@@ -5,6 +5,9 @@ title = "Donate to SSHA"
 +++
 
 ## **Richard Sutch Student Travel Awards**
+
+<hr width=300; align=left>
+
 ### *Our fundraising campaign*
 
 SSHA recently named the Student Travel Awards in honor of Richard Sutch, distinguished social and economic historian, and long time member of SSHA. Richard passed away recently after a battle with Merkel cell carcinoma; you may read about his life and accomplishments at <a href="https://delong.typepad.com/files/sutch-obituary.pdf">https://delong.typepad.com/files/sutch-obituary.pdf</a>. All donations received through the end of the year will be devoted to endowing travel awards in Richard’s name.

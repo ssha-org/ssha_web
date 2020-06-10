@@ -4,7 +4,9 @@ title = "Prizes"
 
 +++
 
-## Book Prizes
+## **Book Prizes**
+
+<hr width=300; align=left>
 
 The Association awards two annual prizes for outstanding books in social science history.
 

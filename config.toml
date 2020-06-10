@@ -52,6 +52,11 @@ publishDir = "build"
     weight = 7
 
 [[menu.main]]
+    url = "/news/"
+    name = "News"
+    weight = 8
+
+[[menu.main]]
     url = "/about/"
     name = "About"
-    weight = 8
+    weight = 9
