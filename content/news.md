@@ -19,17 +19,17 @@ title = "SSHA News"
 <p><font size="4">Other academic organizations have issued statements about the tragic events in our country, their historical roots, and the need for change.  We endorse the spirit of their suggestions, which  may help us decide what course of action to take.  Here are examples from associations of anthropologists, economists, historians, political scientists, and sociologists:</font></p>  
 
 <ul>
-<li><a href="https://americananthro.org/StayInformed/NewsDetail.aspx?ItemNumber=25731">https://americananthro.org/StayInformed/NewsDetail.aspx?ItemNumber=25731</a></li>
+<li><a href="https://americananthro.org/StayInformed/NewsDetail.aspx?ItemNumber=25731" target="_blank">https://americananthro.org/StayInformed/NewsDetail.aspx?ItemNumber=25731</a></li>
 
 <li><a href="https://www.aeaweb.org/news/member-announcements-june-5-2020" target="_blank">https://www.aeaweb.org/news/member-announcements-june-5-2020</a></li>
 
 <li><a href="https://www.neaecon.org/nea-anti-racism-statement/" target="_blank">https://www.neaecon.org/nea-anti-racism-statement/</a></li>
 
-<li><a href="https://www.historians.org/news-and-advocacy/aha-advocacy/aha-statement-on-the-history-of-racist-violence-in-the-united-states-(june-2020)" target="_blank">https://www.historians.org/news-and-advocacy/aha-advocacy/aha-statement-on-the-history-of-racist-violence-in-the-united-states-(june-2020)</a></li>
+<li><a href="https://www.historians.org/news-and-advocacy/aha-advocacy/aha-statement-on-the-history-of-racist-violence-in-the-united-states-(june-2020)" target="_blank">https://www.historians.org/news-and-advocacy/aha-advocacy/aha-statement...(june-2020)</a></li>
 
-<li><a href="https://www.apsanet.org/Portals/54/Advocacy/APSA%20Statement%20on%20Systemic%20Racism%20signatures.pdf" target="_blank">https://www.apsanet.org/Portals/54/Advocacy/APSA%20Statement%20on%20Systemic%20Racism%20signatures.pdf</a></li>
+<li><a href="https://www.apsanet.org/Portals/54/Advocacy/APSA%20Statement%20on%20Systemic%20Racism%20signatures.pdf" target="_blank">https://www.apsanet.org/Portals/54/Advocacy/APSA_statement...signatures.pdf</a></li>
 
-<li><a href="https://www.asanet.org/news-events/asa-news/asa-condemns-systemic-racism-criminal-justice-system" target="_blank">https://www.asanet.org/news-events/asa-news/asa-condemns-systemic-racism-criminal-justice-system</a></li>
+<li><a href="https://www.asanet.org/news-events/asa-news/asa-condemns-systemic-racism-criminal-justice-system" target="_blank">https://www.asanet.org/news-events/asa-news/asa-condemns...system</a></li>
 </ul>  
 
 <p><font size="4">Whatever you decide to do, please do not simply stand on the sidelines.</font></p>
