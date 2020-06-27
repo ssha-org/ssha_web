@@ -163,7 +163,8 @@ a:hover {
 }
 
 .menu-option {
-    font-size: 120%;
+    font-size: 125%;
+    font-weight: bold;
 }
 
 .navbar-header .navbar-brand {
@@ -171,7 +172,7 @@ a:hover {
 }
 
 .menulogo {
-    padding-top: 5px;
+    padding-top: 6px;
     padding-right: 25px;
 }
 
