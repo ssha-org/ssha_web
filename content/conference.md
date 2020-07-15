@@ -8,13 +8,11 @@ title = "Annual Conference"
 
 <hr width=300; align=left>
 
-Submissions for the 2020 SSHA annual meeting are now completed. Authors will be notified of accepted papers by April 15, 2020. For more information on your submission please visit the <a href="http://ssha2020.ssha.org/" target="_blank">**2020 SSHA Program website**</a>.
+Due to the COVID-19 pandemic, **the 2020 SSHA Annual Conference in Washington DC has been canceled**. For more information, please visit: https://ssha.org/news/.
 
-Our 2020 conference will be held in Washington, DC on November 19-22, 2020. We meet every fall, usually in November. The location changes according to the following logic: once every three years in Chicago, once every three years somewhere on the ‘East Coast’ and once every three years somewhere else. Since 2010, the Association has extended its reach to include Canadian cities as possible locations. The conference involves over a thousand scholars from around the world, although graduate students and faculty from the leading American universities predominate.
+We meet every fall, usually in November. The location changes according to the following logic: once every three years in Chicago, once every three years somewhere on the ‘East Coast’ and once every three years somewhere else. Since 2010, the Association has extended its reach to include Canadian cities as possible locations. The conference involves over a thousand scholars from around the world, although graduate students and faculty from the leading American universities predominate.
 
 ### Registration
-
-2020 conference registration information coming soon. 
 
 SSHA requires that all session participants register for the annual meeting and be (or become) members of the SSHA.  If your membership is not current, you will not be able to register for the conference as a member.  Please sign up for membership, or renew your membership prior to filling out the conference registration form.
 
@@ -31,42 +29,21 @@ Non-Session Participant (non-member rate) | | $410 | | $10
 
 &emsp;
 
-
-**Exhibiting and Advertising**
-
-Comming Soon  
-
-&emsp;
-
-**Cancellations**
-
-Cancellation requests must be received in writing to the Conference Registrar at:  
-  
-<iuconfs@indiana.edu> 
-
-&emsp;
-
 **Registration Questions**
 
-For questions about registration, please contact:
+For questions about registration (**2020 Conference canceled**), please contact:
 
 Melissa Kocias  
 <iuconfs@iu.edu>  
-812.855.4224 * 800.933.9330 * 812.855.8077 (fax)  
+812.855.4224 * 800.933.9330 * 812.855.8077 (fax) 
 
-&emsp;
-
-### Hotel Information
-
-The 2020 Annual Meeting will be held at the Hyatt Regency Washington on Capitol Hill, only steps from the U.S. Capitol and a short walk from the Smithsonian Museums.
-
-### Awards and Grants
+### Awards and Grants  
 
 The Association promotes high quality scholarship through its awards program, which recognize the best work by a younger scholar and the best work by any scholar in our many fields. We also facilitate the participation of graduate students through a travel grant. Please note that students applying for these funds need to fill out the appropriate form and submit it along with their proposed to the network representatives. They will be informed of the result of that competition at the same time as they hear whether or not their paper has been accepted.
 
 ### Future Conferences
 
-- Washington, DC, USA, 19-22 November, 2020
+- Washington, DC, USA, 19-22 November, 2020 -- **Canceled**
 - Philadelphia, PA, USA, 11-14 November, 2021
 - Chicago, IL, USA, TBA
 
