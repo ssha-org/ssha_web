@@ -30,7 +30,7 @@ Devin Caughey (Honorable Mention) <a href="https://press.princeton.edu/books/pap
 
 <hr>
 
-## Paper Prizes
+## **Paper Prizes**
 
 The Association promotes high quality scholarship through its awards program, which recognize the best work by a younger scholar and the best work by any scholar in our many fields submitted to our annual conference. The two paper prizes are given only for papers published in <i>Social Science History</i> during the previous year. The winning papers are selected by the journal's editorial board.
 
