@@ -9,4 +9,3 @@ title = "SSHA Executive Committee Statement on Racism and History"
 The SSHA Executive Committee has voted to endorse the following statement on racism and history:
 
 <a href="https://ssha.org/news/">SSHA Executive Committee Statement on Racism and History</a>
-<br /><hr width="100">
