@@ -10,8 +10,6 @@ title = "Prizes"
 
 The Association awards two annual prizes for outstanding books in social science history.
 
-**Submissions for the 2020 book awards competition (see below) will open soon, details to be posted shortly.**
-
 ### Presidents Book Award
 
 A $1000 prize is awarded annually for a meritorious first work by an early-career scholar. Entrants are judged on scholarly significance, interdisciplinary reach, and methodological innovativeness within monographs analyzing past structures and events and change over time. Books with a copyright date of the previous year that are published within eight years of the author's Ph.D. are eligible for consideration.
