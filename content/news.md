@@ -16,7 +16,7 @@ title = "SSHA News"
 	
 <p><font size="4">While I am sorry that we won’t be able to meet in person this fall, I want to especially note the Association’s regret to early career scholars and graduate students who were planning to present their work at the 2020 conference. We are already thinking ahead to 2021, and our plan is to make it easy to re-submit (or update) conference proposals from this year to next, to ease the process of participating in our 2021 annual meeting. Note that with annual SSHA conferences already scheduled in Philadelphia (2021) and Chicago (2022), we hope to reschedule our Washington location for our annual conference in 2023.</font></p>  
 
-<p><font size="4">Please stay tuned for our plans for a virtual 2020 SSHA Presidential Address and Business Meeting. The work of the Association must go on and I look forward to interacting with many of you virtually in that setting! And if you haven’t yet renewed your annual membership in SSHA, now would be a good time.</font></p> 
+<p><font size="4">Please stay tuned for our plans for a virtual 2020 SSHA Presidential Address and Business Meeting. The work of the Association must go on and I look forward to interacting with many of you virtually in that setting! And if you haven’t yet renewed your <a href="https://indianauniv-web.ungerboeck.com/mbd/mbd_p23_add_member.aspx?oc=10&cc=SSHA-MEMBER" target="_blank">annual membership in SSHA</a>, now would be a good time.</font></p> 
 
 <p><font size="4">Meanwhile, I hope each of you take steps to be well, and please accept my best wishes for the coming months.</font></p>
 
