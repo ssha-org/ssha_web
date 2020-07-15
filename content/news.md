@@ -4,6 +4,28 @@ title = "SSHA News"
 
 +++  
 
+## **SSHA Conference Update**
+<hr width=300; align=left>
+
+<p><font size="3"><i>July 15, 2020</i></font></p>
+<h3><b>2020 SSHA Conference in Washington DC has been canceled</b></h3>
+<br />
+<p><font size="4">Dear SSHA Colleagues,</font></p>  
+	
+<p><font size="4">I’m writing with the unfortunate news that, based on the worsening COVID-19 environment in the United States, the SSHA Executive Committee has voted to cancel our 2020 annual conference. I want to thank the 2020 Program Committee Co-Chairs (Linda Reeder, Jonas Helgertz, Timothy Thurber, and Steven Sprick Schuster) and every SSHA Network Representative, for the hard work that went into preparing what was shaping up to be an excellent conference program. Your efforts are very much appreciated!</font></p>  
+	
+<p><font size="4">While I am sorry that we won’t be able to meet in person this fall, I want to especially note the Association’s regret to early career scholars and graduate students who were planning to present their work at the 2020 conference. We are already thinking ahead to 2021, and our plan is to make it easy to re-submit (or update) conference proposals from this year to next, to ease the process of participating in our 2021 annual meeting. Note that with annual SSHA conferences already scheduled in Philadelphia (2021) and Chicago (2022), we hope to reschedule our Washington location for our annual conference in 2023.</font></p>  
+
+<p><font size="4">Please stay tuned for our plans for a virtual 2020 SSHA Presidential Address and Business Meeting. The work of the Association must go on and I look forward to interacting with many of you virtually in that setting! And if you haven’t yet renewed your annual membership in SSHA, now would be a good time.</font></p> 
+
+<p><font size="4">Meanwhile, I hope each of you take steps to be well, and please accept my best wishes for the coming months.</font></p>
+
+Sincerely,  
+
+Phil Hoffman  
+SSHA President 2019-2020  
+<br /><hr width=400>
+
 ## **SSHA News**
 <hr width=300; align=left>
 
