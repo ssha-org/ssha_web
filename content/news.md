@@ -26,9 +26,8 @@ Phil Hoffman
 SSHA President 2019-2020  
 <br /><hr width=400>
 
-## **SSHA News**
-<hr width=300; align=left>
 
+<br />  
 <p><font size="3"><i>June 15, 2020</i></font></p>
 <h3><b>SSHA Executive Committee Statement on Racism and History</b></h3>
 <br />
