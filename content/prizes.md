@@ -10,7 +10,10 @@ title = "Prizes"
 
 The Association awards two annual prizes for outstanding books in social science history.<br /><br />
 
-**Please Note:** The 2020 book awards are moving forward for this year despite the conference cancellation. Submissions for the 2020 book awards competition will open soon, details to be posted shortly.
+**Please Note:** Submissions for the 2020 SSHA Presidents Book Award are now open.  
+[For information on the submission deadline and further details >>](/awards/president_award/)
+
+Submissions for the 2020 Allan Sharlin Memorial Book Award will open soon, details to be posted shortly.
 <br /><br />
 
 ### Presidents Book Award
