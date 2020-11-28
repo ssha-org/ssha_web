@@ -4,9 +4,18 @@ title = "SSHA News"
 
 +++  
 
-## **SSHA Conference Update**
+## **SSHA Election of Officers**
 <hr width=300; align=left>
+<p><font size="3"><i>November 27, 2020</i></font></p>
+<h3><b>Social Science History Association, 2020-2021 Election of Officers</b></h3>
+<br />
+<p><font size="4">SSHA is conducting an electronic election for officers. All current members are eligible to participate. <u>The election closes December 8, 2020 at 11:59 PM (EST)</u>.</font></p>
 
+<p><font size="4">An email -- from: elections@vote-now.com -- was sent to all current SSHA members. Please refer to the links provided in that email for further information on your ballot, registration code, candidate biographies, and alternative ways to vote, i.e., by paper ballot or telephone.</font></p>
+
+It is not too late to **renew your membership and receive a ballot to vote in the election!** If you haven’t done so already, please renew your SSHA membership: <a href="https://indianauniv-web.ungerboeck.com/mbd/mbd_p23_add_member.aspx?oc=10&cc=SSHA-MEMBER" target="_blank">**SSHA membership registration website**</a>.
+
+<br /><hr width=400> 
 <p><font size="3"><i>July 15, 2020</i></font></p>
 <h3><b>2020 SSHA Conference in Washington DC has been canceled</b></h3>
 <br />
