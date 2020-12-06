@@ -4,7 +4,7 @@ title = "SSHA News"
 
 +++  
 
-## **SSHA Election of Officers**
+## **SSHA News**
 <hr width=300; align=left>
 <p><font size="3"><i>November 27, 2020</i></font></p>
 <h3><b>Social Science History Association, 2020-2021 Election of Officers</b></h3>
