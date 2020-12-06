@@ -18,10 +18,8 @@ It is not too late to **renew your membership and receive a ballot to vote in th
 <br /><hr width=400>
 <p><font size="3"><i>November 19, 2020</i></font></p>
 <h3><b>SSHA Annual Business Meeting and Presidential Address</b></h3>
-
 <a href="/files/Dear_SSHA_Community.pdf/" target="_blank">(PDF with active links)</a><br />
-    <img src="/images/Dear_SSHA_Community.png", style="width: 100%"></img>
-
+<img src="/images/Dear_SSHA_Community.png", style="width: 100%"></img>
 
 <br /><hr width=400> 
 <p><font size="3"><i>July 15, 2020</i></font></p>
