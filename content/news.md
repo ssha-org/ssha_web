@@ -15,6 +15,14 @@ title = "SSHA News"
 
 It is not too late to **renew your membership and receive a ballot to vote in the election!** If you haven’t done so already, please renew your SSHA membership: <a href="https://indianauniv-web.ungerboeck.com/mbd/mbd_p23_add_member.aspx?oc=10&cc=SSHA-MEMBER" target="_blank">**SSHA membership registration website**</a>.
 
+<br /><hr width=400>
+<p><font size="3"><i>November 19, 2020</i></font></p>
+<h3><b>SSHA Annual Business Meeting and Presidential Address</b></h3>
+
+<a href="/files/Dear_SSHA_Community.pdf/" target="_blank">(PDF with active links)</a><br />
+    <img src="/images/Dear_SSHA_Community.png", style="width: 100%"></img>
+
+
 <br /><hr width=400> 
 <p><font size="3"><i>July 15, 2020</i></font></p>
 <h3><b>2020 SSHA Conference in Washington DC has been canceled</b></h3>
