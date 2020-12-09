@@ -10,9 +10,9 @@ title = "Annual Conference"
 
 **Update:** SSHA 2020 Annual Business Meeting and Presidential Address
 
-The Social Science history Association will hold it's **Annual Business Meeting and Presidential Address** via Zoom on **Thursday, December 10, from 1:00pm - 2:30pm EST** (A Zoom link will be shared later). For further information please visit: 
+The Social Science history Association will hold it's **Annual Business Meeting and Presidential Address** via Zoom on **Thursday, December 10, from 1:00pm - 2:30pm EST.** The registration link and additional instructions can be found here: 
 
-<a href="https://ssha.org/news/">2020 SSHA Annual Business Meeting and Presidential Address</a>
+<a href="https://ssha.org/news/">SSHA Zoom Meeting Registration</a>
 <br /><hr width="300">
 
 We meet every fall, usually in November. The location changes according to the following logic: once every three years in Chicago, once every three years somewhere on the ‘East Coast’ and once every three years somewhere else. Since 2010, the Association has extended its reach to include Canadian cities as possible locations. The conference involves over a thousand scholars from around the world, although graduate students and faculty from the leading American universities predominate.
