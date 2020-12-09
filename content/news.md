@@ -8,6 +8,7 @@ title = "SSHA News"
 <hr width=300; align=left>
 <p><font size="3"><i>December 09, 2020</i></font></p>
 <h3><b>SSHA Zoom Meeting Registration</b></h3>
+<br />
 <p><font size="4">Dear Members of the Social Science History Association,</font></p>
 
 <p><font size="4">You are invited to a Zoom webinar.<br />
