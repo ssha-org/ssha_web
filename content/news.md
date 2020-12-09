@@ -6,6 +6,22 @@ title = "SSHA News"
 
 ## **SSHA News**
 <hr width=300; align=left>
+<p><font size="3"><i>December 09, 2020</i></font></p>
+<h3><b>SSHA Zoom Meeting Registration</b></h3>
+<p><font size="4">Dear Members of the Social Science History Association,</font></p>
+
+<p><font size="4">You are invited to a Zoom webinar.<br />
+<b>When:</b> Dec 10, 2020 at 01:00 PM Eastern Time (US and Canada)<br /> 
+<b>Topic:</b> SSHA Annual Business Meeting & Presidential Address<br />
+</font></p>
+
+<p font size="4">Please register through the following link:<br /><a href="https://cornell.zoom.us/webinar/register/WN_ub_GgCsURJqjzgWvgmWfdQ">https://cornell.zoom.us/webinar/register/WN_ub_GgCsURJqjzgWvgmWfdQ</a></font></p>
+
+<p><font size="4"><b>NOTE:</b> After registering, you will receive a confirmation email containing information about joining the webinar.</font></p>
+
+
+<br /><hr width=400>
+
 <p><font size="3"><i>November 27, 2020</i></font></p>
 <h3><b>Social Science History Association, 2020-2021 Election of Officers</b></h3>
 <br />
