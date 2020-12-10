@@ -4,38 +4,27 @@ title = "SSHA Officers"
 
 +++
 
-### 2019-2020 Officers
+### 2020-2021 Officers
 
 **President**  
-Philip Hoffman  
-California Institute of Technology (Economics)  
-
-**Vice President**  
 Manali Desai  
 Cambridge University (Sociology)  
+
+**Vice President**  
+Julian Go  
+University of Chicago (Sociology)  
 
 **Executive Director**  
 William C. Block  
 Cornell University (CISER)  
 
 **Treasurer**  
-Katherine A. Lynch  
-Carnegie Mellon University (History)  
+Damon Mayrl  
+Colby College (Sociology)  
 
 ----
 
 ### Executive Committee
-
-*Term Expires 2020*
-
-- Martin Dribe  
-Lund University (History)  
-
-- Mara Loveman  
-University of California, Berkeley (Sociology)  
-
-- Emily Erikson  
-Yale University (Sociology)  
 
 *Term Expires 2021*
 
@@ -59,17 +48,20 @@ Washington and Lee University (History)
 - Diego Ramiro-Fariñas  
  Consejo Superior de Investigaciones Científicas (Demography)
 
+ *Term Expires 2023*
+
+- Lisa Dillon  
+University of Montréal (Demography)  
+
+- Aliza Luft  
+University of California, Los Angeles (Sociology)  
+
+- Jaeeun Kim  
+ University of Michigan (Sociology)
+
 ----
 
-### Publications Committee
-
-*Term Expires 2020*
-
-- Richard Lachmann  
-SUNY Albany (Sociology)  
-
-- Alice O’Connor  
-University of California, Santa Barbara (History)  
+### Publications Committee  
 
 *Term Expires 2021*
 
@@ -87,25 +79,37 @@ Université Laval (Geography)
 - Dorit Geva  
 Central European University (Sociology)
 
+*Term Expires 2023*  
+
+- Claire Decoteau  
+University of Illinois Chicago (Sociology)  
+
+- Ana Villarreal  
+Boston University (Sociology)
+
 ----
 
-### 2020 Program Committee
-
-Linda S. Reeder  
-University of Missouri (History)
-
-Jonas Helgertz  
-University of Minnesota/Lund University (Economic History)
-
-Tim Thurber  
-Virginia Commonwealth University (History)
+### 2021 Program Committee
 
 Steven Sprick Schuster  
 Middle Tennessee State University (Economics)
 
+Tim Thurber  
+Virginia Commonwealth University (History)
+
+Sadia Saeed  
+University of San Francisco (Sociolog)
+
+Ho-Fung Hung  
+Johns Hopkins University (Sociolog) 
+
 ----
 
 ### Past Presidents
+
+Philip Hoffman  
+California Institute of Technology (Economics)  
+2019-2020
 
 Steven Ruggles  
 University of Minnesota (History)  
