@@ -20,7 +20,7 @@ Submissions for the 2020 Allan Sharlin Memorial Book Award will open soon, detai
 
 A $1000 prize is awarded annually for a meritorious first work by an early-career scholar. Entrants are judged on scholarly significance, interdisciplinary reach, and methodological innovativeness within monographs analyzing past structures and events and change over time. Books with a copyright date of the previous year that are published within eight years of the author's Ph.D. are eligible for consideration.
 
-**2019 Winner:**  Seth Archer  <a href="https://www.cambridge.org/us/academic/subjects/history/history-native-american-peoples/sharks-upon-land-colonialism-indigenous-health-and-culture-hawaii-17781855?format=HB&isbn=9781107174566" target="_blank"><i>Sharks upon the Land: Colonialism, Indigenous Health, and Culture in Hawai’i, 1778–1855.</i></a>   Cambridge University Press (May 25, 2018)
+**2020 Winner:**  James Poskett  <a href="https://press.uchicago.edu/ucp/books/book/chicago/M/bo38181419.html" target="_blank"><i>Materials of the Mind: Phrenology, Race, and the Global History of Science, 1815-1920.</i></a>   University of Chicago Press (April 26, 2019)
 
 [Learn more and see a list of past winners >>](/awards/president_award/)
 
