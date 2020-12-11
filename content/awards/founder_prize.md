@@ -12,6 +12,7 @@ A $1,000 prize to be awarded annually for the best article published in the prec
 
 *Year* | &emsp; | *Author* | &emsp; | *Title*
 :--- | :--- | :--- | :--- | :---
+&emsp; | &emsp; | &emsp;| &emsp;| &emsp;
 2018 | | Lisa D. Cook, Trevon D. Logan and John M. Parman | | [Racial Segregation and Southern Lynching.](https://doi.org/10.1017/ssh.2018.21)
 &emsp; | &emsp; | &emsp;| &emsp;| &emsp;
 2017 | | Richard Sutch | | [The One Percent across Two Centuries: A Replication of Thomas Picketty's Data on the Concentration of Wealth in the United States.](https://doi.org/10.1017/ssh.2017.27)
