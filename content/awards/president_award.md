@@ -1,5 +1,5 @@
 +++
-date = "2020-08-10T13:53:36-04:00"
+date = "2020-12-10T13:53:36-04:00"
 title = "Social Science History"
 
 +++
@@ -8,35 +8,7 @@ title = "Social Science History"
 
 A $1000 prize is awarded annually for a meritorious first work by an early-career scholar. Entrants are judged on scholarly significance, interdisciplinary reach, and methodological innovativeness within monographs analyzing past structures and events and change over time. Books with a copyright date of the previous year that are published within eight years of the author's Ph.D. are eligible for consideration.  
 
-Submissions for the 2020 SSHA Presidents Book Award are now open. Submissions with a postmark of August 31 (or earlier) will be accepted. Late entries will not be considered. Authors or publishers wishing to nominate a book should <u>mail an author’s curriculum vitae and a copy of the nominated book to each member of the award committee</u> (listed below).  
-
-**IMPORTANT: The deadline for submissions is August 31, 2020; submissions postmarked later than August 31, 2020 will not be considered.** 
-
-### Award Committee
-
-- Michael Fortner, Chair (City University of New York, Political Science)  
-4306 Walnut Street  
-Third Floor  
-Philadephia PA 19104  
-
-- Nancy Tatarek (Ohio University, Anthropology)  
-2649 Two Ridge Ave.  
-Lancaster, OH, 43130  
-
-- Sasha Mullally (University of New Brunswick, History)  
-24 Esher St.  
-Charlottetown, PE  
-C1A 5G4  
-Canada  
-
-- Leah Gordon (Brandeis University, Education and History)  
-25 Lancaster Rd.  
-Arlington, MA 02476  
-
-- Seth Archer (Utah State University, History)  
-History Department  
-0710 Old Main Hill  
-Logan, UT 84322-0710  
+### Award Committee  
 
 - William Block (SSHA, Executive Director)  
 President's Book Award  
