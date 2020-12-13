@@ -41,9 +41,9 @@ A. **Executive Committee**
 
 B. **Publications Committee**
 
-1. Six members serving staggered three-year terms (see amendment to Constitution)
+1. Six members serving staggered three-year terms (see amendment to Constitution).
 
-2. Responsible for overseeing publications of Association: currently SOCIAL SCIENCE HISTORY (current contract with Cambridge University Press
+2. Responsible for overseeing publications of Association: currently SOCIAL SCIENCE HISTORY (current contract with Cambridge University Press).
 
 3. Responsible for selecting editors of the Journal and members of President's Book Award Committee.
 
@@ -57,7 +57,7 @@ C. **President's Book Award Committee**
 
 1. Three members selected by the Publications Committee for three-year, staggered terms.  Member serving third year of term chairs the committee. Fourth member of committee serves one year term and is usually the previous year's Award winner.
 
-2. Prepare announcement of President's Book Award, solicit and read manuscripts for Award.  The prize of $1000 rewards an especially meritorious first work by an early-career scholar.  Submissions for the President’s Book Award in any year must bear a copyright date from the previous year and be published within eight years of the author’s Ph.D..
+2. Prepare announcement of President's Book Award, solicit and read manuscripts for Award.  The prize of $1000 rewards an especially meritorious first work by an early-career scholar.  Submissions for the President’s Book Award in any year must bear a copyright date from the previous year and be published within eight years of the author’s Ph.D.
 
 3. Send name of winner(s) for annual award to Executive Director before annual meeting. Committee chair makes announcement of winner at annual meeting.
 
@@ -69,9 +69,9 @@ D. **Nominating Committee**
 
 3. Timing: During the summer and early fall the committee should decide which disciplines, genders, etc. are needed for each slot and generate names for the slots. It is wise to have more names than needed since some people will refuse.
 
-4. Candidates for elected office should demonstrate commitment and familiarity with  the principles of the Social Science History Association as demonstrated by regular attendance at the annual meeting and  service such as previous elected office, network chair, member of the Editorial Board of Social Science History or organizing panels  As an aid for selection process: obtain copies of List of Past Officers, Committee Members, network chairs and conference participants from the Executive Director.
+4. Candidates for elected office should demonstrate commitment and familiarity with the principles of the Social Science History Association as demonstrated by regular attendance at the annual meeting and service such as previous elected office, network chair, member of the Editorial Board of Social Science History or organizing panels. As an aid for the selection process: obtain copies of List of Past Officers, Committee Members, network chairs and conference participants from the Executive Director.
 
-5. Inform President and Executive Director of final candidates selected. Send list of candidates for each open position (with names, disciplines, institutional affiliations, and bios for the ballot) to Executive Director for balloting. Electronic balloting completed in time to announce the results at the Annual Meeting.
+5. Inform the President and Executive Director of final candidates selected. Send list of candidates for each open position (with names, disciplines, institutional affiliations, and bios for the ballot) to Executive Director for balloting. Electronic balloting should be completed in time to announce the results at the Annual Meeting.
 
 6. Executive Director reports results of online election to President, Vice President, and Nominations Committee Chair.
 
@@ -101,8 +101,8 @@ A. **President**
   - Represent Association for year of presidency.
   - Aid program chairs.Preside at Executive Committee business meetings.
   - Consult with Executive Committee or other appropriate committees and Executive Director as problems arise during year of presidency.
-  - Deliver Presidential Address at annual meeting.
-
+  - Deliver Presidential Address at annual meeting.  
+  
 3. Occupies the complimentary "Presidential Suite" provided to the Association, at the meeting in which this person's presidential address is given (2-bedroom suite has traditionally been shared with the Executive Director).
 
 B. **Vice President**
@@ -116,8 +116,8 @@ B. **Vice President**
   - Two members of the Alan Sharlin Memorial Award Committee.
   - Chair of Publications Committee.
   - Timetable for selections: Chair and co-chair of Program Committee: aim for January. Nominating Committee should be appointed by the Spring before the annual meeting. Sharlin Committee members also by  Spring preceding the annual meeting which initiates first year of two- year term. Chair of Publications Committee should be appointed by time of annual meeting.
-  - Inform Executive Director of Program co-chairs and Committee appointments as soon as they are made.   Send institutional affiliation and full addresses of nominees when communicating names to Executive Director.
-
+  - Inform Executive Director of Program co-chairs and Committee appointments as soon as they are made.   Send institutional affiliation and full addresses of nominees when communicating names to Executive Director.  
+  
 3. Chairs annual business meeting at plenary session from "head table" that also seats outgoing President, Executive Director, Treasurer, incoming President, co-chairs of following year's Program Committee, editor(s) of SOCIAL SCIENCE HISTORY and the two Book Award Committee chairs. Agenda includes thanking the program chairs and committee for current meeting, thanking local arrangements and other committees, report from Executive Director, reports from President's Book Award and Sharlin Award committee chairs (in which winners are announced and awards presented), awarding of SSHA Graduate Student Travel awards, awarding of the SSHA Founders’ Prize, other reports, awards, or business as needed, and introduction of outgoing President for the Presidential Address.
 
 4. Accedes to presidency after predecessor's Presidential Address.
@@ -134,7 +134,7 @@ D. **Executive Director**
 
 1. For election see Constitution.
 
-2. Arranges site for annual meeting in cooperation with IUCB..
+2. Arranges site for annual meeting in cooperation with IUCB.
 
 3. In charge of all communications to membership. Arranges for electronic balloting, announces election results at Annual Business meeting.
 
@@ -144,7 +144,7 @@ D. **Executive Director**
 
 6. Represents Association with Cambridge University Press for publication of SOCIAL SCIENCE HISTORY Journal.
 
-7. Honorarium from Association currently ca $6500 per year.
+7. Honorarium from Association currently is approximately $6500 per year.
 
 E. **Editor(s) of <i>Social Science History</i>**
 
@@ -173,13 +173,13 @@ B. **Network Representatives**
 
 C. **Call For Papers**
 
-1. The President draw sup the Call for Papers, including date and place of meeting, deadline for submission of papers and panels, committee members with contact information  and other pertinent instructions.
+1. The President draws up the Call for Papers, including date and place of meeting, deadline for submission of papers and panels, committee members with contact information and other pertinent instructions.
 
 2. The President and Program Committee Co-Chairs may decide on a particular emphasis or theme for special sessions.
 
 D. **Call For Papers Distribution**
 
-1. The Call for Papers is sent to the Executive Director who posts it on the Association’s website and distributes at the preceding annual meeting.
+The Call for Papers is sent to the Executive Director who posts it on the Association’s website and distributes at the preceding annual meeting.
 
 E. **Program Committee Co-Chairs' and Network Representatives' Responsibilities**
 
@@ -197,7 +197,7 @@ G. **Program Materials**
 
 1. Program Committee Co-chairs set deadlines for Network Committee members’  submissions of completed program materials to them about  March 15.
 
-2. Program Committee Co-chairs create an electronic list to facilitate communication among Network Chairs  during the planning process.
+2. Program Committee Co-chairs create an electronic list to facilitate communication among Network Chairs during the planning process.
 
 3. Program Committee Co-chairs, in conjunction with the President, Executive Director, and SSHA’s professional conference organizer, make decisions about the starting and ending times of the program and the number of time slots, and thus total number of panels, to be included. While the number of total submissions will of course factor into any scheduling decision, the schedule from year to year should feel familiar to conference attendees and emphasis should be placed on retaining what works well for SSHA.
 
@@ -233,14 +233,13 @@ K. **Preparing the Program**
 
 2. Preliminary program is produced as an online document.
 
-3. Deadline for delivering the final program to IUCB is late August. IUC handles the printing and delivery (at the conference site) of the final program.
+3. Deadline for delivering the final program to IUCB is late August. IUCB handles the printing and delivery (at the conference site) of the final program.
 
-L. F**unding**
+L. **Funding**
 
 1. Program Committee Co-chairs will likely benefit from financial support from their departments, either in the form of student or secretarial assistance or as phone, mail and fax support.
 
 2. It is important to consult early and regularly about budgetary matters with previous co-chairs (who can give some indication of costs in previous years) and with the SSHA Executive Director, who oversees the financial status of the annual conference as well as of the Association as a whole.
-
 
 V. ***Membership Information***
 
@@ -250,11 +249,10 @@ V. ***Membership Information***
 
 3. The SSHA List of Past Officers, Committee Members, and conference participation is revised annually. The list is useful to Nominating Committee, Program Committee, and officers.
 
-
 VI. ***Prizes***
 
 1. President's Book Award for a first monograph. The President’s Book Award Committee solicits manuscripts and reads them to make a decision. The award gives the author $1000.00.
 
 2. Alan Sharlin Memorial Prize for best book published in proceeding year. Sharlin Committee determines award. $500 given annually.
 
-3. Graduate Student Travel Awards are for the most outstanding paper being presented by a graduate student in each network.  Depending on funding availability, several of the larger networks sometimes make more than one award.  Selection of awardees is made by the Network Representatives.
+3. Graduate Student Travel Awards are for the most outstanding paper being presented by a graduate student in each network. Depending on funding availability, several of the larger networks sometimes make more than one award.  Selection of awardees is made by the Network Representatives.
