@@ -7,11 +7,19 @@ canonifyURLs = true
 publishDir = "build"
 
 [params]
-    author="Alex Kindel"
+    author="Social Science History Association"
     description="Interdisciplinary perspectives on the past"
     accent="#006dc7"
     showBorder = false
     font="Zilla Slab"
+
+[deployment]
+
+[[deployment.targets]]
+name = "ssha.org"
+URL = "s3://aws-website-ssha-o06c3?region=us-east-1"
+
+cloudFrontDistributionID =  "E1R2XXNL0UQGFN"
 
 
 ## Main menu ##
