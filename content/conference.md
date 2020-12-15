@@ -5,15 +5,16 @@ title = "Annual Conference"
 +++
 
 ## **SSHA Annual Conference**
-
+---
 <hr width=300; align=left>
 
 **Update:** SSHA 2020 Annual Business Meeting and Presidential Address
 
 The Social Science history Association will hold it's **Annual Business Meeting and Presidential Address** via Zoom on **Thursday, December 10, from 1:00pm - 2:30pm EST.** The registration link and additional instructions can be found here: 
 
-<a href="https://ssha.org/news/">SSHA Zoom Meeting Registration</a>
-<br /><hr width="300">
+[SSHA Zoom Meeting Registration](https://ssha.org/news/)  
+<br>  
+<br>  
 
 We meet every fall, usually in November. The location changes according to the following logic: once every three years in Chicago, once every three years somewhere on the ‘East Coast’ and once every three years somewhere else. Since 2010, the Association has extended its reach to include Canadian cities as possible locations. The conference involves over a thousand scholars from around the world, although graduate students and faculty from the leading American universities predominate.
 
@@ -27,7 +28,7 @@ Registration fee includes admittance to all paper sessions, as well as Thursday 
 
 &emsp;
 
-<center>*Registration Type*</center> | &emsp; | *Regular* | &emsp; | *Student*
+*Registration Type* | &emsp; | *Regular* | &emsp; | *Student*
 :---: | --- | :--- | --- | :---
 Session Participant and Current Member Rate (presenter, author, discussant, chair, current member) | | $315 | | $60
 Non-Session Participant (non-member rate) | | $410 | | $10

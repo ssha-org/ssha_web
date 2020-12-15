@@ -1,7 +1,7 @@
 baseURL = "https://ssha.org/"
 languageCode = "en-us"
 title = "Social Science History Association"
-contact = "akindel@princeton.edu"
+contact = "jbeemer@mit.edu"
 theme = "minimal"
 canonifyURLs = true
 publishDir = "build"

@@ -5,8 +5,8 @@ title = "Social Science History"
 +++
 
 ## **Social Science History**
-
-<hr width=300; align=left>
+----
+<br>  
 
 *Social Science History* is dedicated to the study of social theory within an empirical historical context. Our interdisciplinary readership includes anthropologists, demographers, economists, geographers, historians, political scientists, and sociologists, all in pursuit of a deep understanding of societies, past and present. The journal invites articles that blend empirical research with theoretical work, undertake comparisons across time and space, or contribute to the development of quantitative and qualitative methods of analysis. As the official journal of the Social Science History Association, *Social Science History* reflects the interests of members who are active in the Association’s diverse range of research networks. However, it also welcomes submissions from the broader international research community of historically informed social scientists.
 
@@ -30,6 +30,7 @@ Dan Slater and Hillel David Soifer "[The Indigenous Inheritance: Critical Antece
 Winter 2020, Volume 44 -- Issue 4  
 https://cambridge.org/core/journals/social-science-history/latest-issue  
 
+![Current Issue](/images/SSH_44-4.jpg)
 <div class="col-md-10">
     <img src="/images/SSH_44-4.jpg", style="width: 100%"></img>
 </div>
