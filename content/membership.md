@@ -4,9 +4,7 @@ title = "Social Science History Membership"
 
 +++
 
-## **Membership in SSHA**  
-----  
-<br>  
+## **Membership in SSHA**
 
 <hr width=300; align=left>
 
@@ -22,8 +20,8 @@ Membership is on a rolling basis – good for 12 months from the date of your jo
 
 &emsp;
 
-*Membership Types* | &emsp; | *Membership Rates*
-:---: | --- | :---: 
+*Membership Types* | &emsp; | *Membership Rates*  
+:--- | --- | :---: 
 Senior Scholar 1-Year Membership | | $90
 Early- and Mid-Career 1-Year Membership | | $60
 Student 1-Year Membership | | $30

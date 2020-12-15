@@ -10,7 +10,7 @@ title = "About SSHA"
 
 The Social Science History Association was created in 1974 by scholars interested in using social science methods and theories to better understand the past. [Read more >>](/about_ssha/)
 
-----
+<br />
 
 ### [SSHA Officers >>](/officers/)
 

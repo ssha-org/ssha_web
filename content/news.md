@@ -4,7 +4,8 @@ title = "SSHA News"
 
 +++  
 
-## **SSHA News**
+## **SSHA News**  
+
 <hr width=300; align=left>
 <p><font size="3"><i>December 10, 2020</i></font></p>
 <h3><b>2021 SSHA Call for Papers</b></h3>
@@ -27,7 +28,6 @@ title = "SSHA News"
 
 <p><font size="4"><b>NOTE:</b> After registering, you will receive a confirmation email containing information about joining the webinar.</font></p>
 
-
 <br /><hr width=400>
 <p><font size="3"><i>November 27, 2020</i></font></p>
 <h3><b>Social Science History Association, 2020-2021 Election of Officers</b></h3>
@@ -44,7 +44,7 @@ It is not too late to **renew your membership and receive a ballot to vote in th
 
 [PDF with active links](/files/SSHACommunity.pdf)
 
-<img src="/images/Dear_SSHA_Community.png", style="width: 100%"></img>
+<img src="/images/Dear_SSHA_Community.png" style="width: 100%"></img>
 
 <br /><hr width=400> 
 <p><font size="3"><i>July 15, 2020</i></font></p>
