@@ -9,7 +9,8 @@ title = "SSHA News"
 <hr width=300; align=left>
 <p><font size="3"><i>December 10, 2020</i></font></p>
 <h3><b>2021 SSHA Call for Papers</b></h3>
-<a href="https://ssha.org/files/2021_SSHA_CFP.pdf">SSHA Call for Papers PDF</a>
+
+[SSHA Call for Papers PDF](/files/2021_SSHA_CFP.pdf)  
 <br />
 <img src="/images/2021_SSHA_CFP.png" style="width: 100%; vertical-align:left"></img><br />
 
