@@ -8,12 +8,9 @@ title = "Annual Conference"
 
 <hr width=300; align=left>
 
-**Update:** SSHA 2020 Annual Business Meeting and Presidential Address
+The 2021 conference will be held in Philadelphia on November 11-14, at the DoubleTree by Hilton Philadelphia Center City. This will mark the 47th annual meeting of the Social Science History Association. The conference theme this year is “Crisis, Conjunctures, Turning Points: Theory and Method in Turbulent Times.” Please refer to the [**SSHA Call for Papers**](/files/2021_SSHA_CFP.pdf) for information on submitting individual papers and/or panel proposals, submission deadlines, and Graduate Student Travel Grants.
 
-The Social Science history Association will hold it's **Annual Business Meeting and Presidential Address** via Zoom on **Thursday, December 10, from 1:00pm - 2:30pm EST.** The registration link and additional instructions can be found here: 
-
-[SSHA Zoom Meeting Registration](https://ssha.org/news/)  
-<br />  
+### When, Where and Who 
 
 We meet every fall, usually in November. The location changes according to the following logic: once every three years in Chicago, once every three years somewhere on the ‘East Coast’ and once every three years somewhere else. Since 2010, the Association has extended its reach to include Canadian cities as possible locations. The conference involves over a thousand scholars from around the world, although graduate students and faculty from the leading American universities predominate.
 
