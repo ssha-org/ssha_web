@@ -73,8 +73,8 @@ University of Hawai‘i-Mānoa (Economics)
 
 *Term Expires 2022*  
 
-- Matthew Hatvany  
-Université Laval (Geography)  
+- Alberto Giordano  
+Texas State University (Geography)  
 
 - Dorit Geva  
 Central European University (Sociology)
