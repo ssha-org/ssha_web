@@ -28,6 +28,6 @@ Dan Slater and Hillel David Soifer "[The Indigenous Inheritance: Critical Antece
 ### Current Issue
 
 Spring 2021, Volume 45 -- Issue 1  
-https://cambridge.org/core/journals/social-science-history/latest-issue  
+https://www.cambridge.org/core/journals/social-science-history/latest-issue  
 
 ![Current Issue](/images/SSH_45-1.jpg)
