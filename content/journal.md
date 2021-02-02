@@ -18,11 +18,9 @@ title = "Social Science History"
 
 ### Featured Articles
 
-Frederick F. Wherry "[SSHA Presidential Address: The Pathways to Disadvantage.](https://doi.org/10.1017/ssh.2019.47)" *Social Science History* &nbsp;Volume 44, Issue 1 (Spring 2020), pp. 1-18.  **Open Access Article**
+Björn Quanjer and Jan Kok "[Drafting the Dutch: Selection Biases in Dutch Conscript Records in the Second Half of the Nineteenth Century.](https://doi.org/10.1017/ssh.2020.13)" *Social Science History* &nbsp;Volume 44, Issue 3 (Fall 2020), pp. 501-524.  **Open Access Article**  
 
-Desiree Abu-Odeh, Shamus Khan and Constance A. Nathanson "[Social Constructions of Rape at Columbia University and Barnard College, 1955–90.](https://doi.org/10.1017/ssh.2019.49)" *Social Science History* &nbsp;Volume 44, Issue 2 (Summer 2020). **First View Article**
-
-Dan Slater and Hillel David Soifer "[The Indigenous Inheritance: Critical Antecedents and State Building in Latin America and Southeast Asia.](https://doi.org/10.1017/ssh.2020.2)" *Social Science History* &nbsp;Volume 44, Issue 2 (Summer 2020). **First View Article**
+Martin Dribe, J. David Hacker, and Francesco Scalone "[Immigration and Child Mortality: Lessons from the United States at the Turn of the Twentieth Century.](https://doi.org/10.1017/ssh.2019.42)" *Social Science History* &nbsp;Volume 44, Issue 1 (Spring 2020), pp. 57-89.  **Open Access Article**
 
 
 ### Current Issue
