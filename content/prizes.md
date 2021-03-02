@@ -25,7 +25,7 @@ A $1000 prize is awarded annually for a meritorious first work by an early-caree
 
 A $1,000 prize is awarded annually for an outstanding book in social science history to honor the memory of Allan Sharlin. Allen exemplified the finest traditions of social science history. His training and scholarship were broadly interdisciplinary and he used both quantitative and more traditional methodologies. Books published in the previous year are eligible for consideration.
 
-**2020 Winner:** TBA
+**Submissions for the Allan Sharlin Memorial Book Award are now open.** For further information on nominating a book, please visit: <a href="https://ssha.org/awards/sharlin_award/">Allan Sharlin Memorial Book Award</a>
 
 [Learn more and see a list of past winners >>](/awards/sharlin_award/)
 

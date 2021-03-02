@@ -6,16 +6,54 @@ title = "Social Science History"
 
 ## Allan Sharlin Memorial Book Award
 
-A $1,000 prize is awarded annually for an outstanding book in social science history to honor the memory of Allan Sharlin. Allen exemplified the finest traditions of social science history. His training and scholarship were broadly interdisciplinary and he used both quantitative and more traditional methodologies. Books published in the previous year are eligible for consideration.
-
-**Submissions for the 2020 book awards competition will open soon, details to be posted shortly.**  
+Submissions for the Allan Sharlin Memorial Book Award are now open. Books published in 2019 and 2020 are eligible for consideration. Submissions with a postmark of April 30th (or earlier) will be accepted. Late entries will not be considered. Authors or publishers wishing to nominate a book should mail a book to each member of the award committee. Self-nominations are accepted. 
+ 
+A $1,000 prize is awarded annually for an outstanding book in social science history to honor the memory of Allan Sharlin. Allan exemplified the finest traditions of social science history. His training and scholarship were broadly interdisciplinary and he used both quantitative and more traditional methodologies.  
+ 
+To submit a book for consideration, please mail a copy of the book to EACH of the committee members listed below.   Please also send an email to all committee members to let them know to expect your book in the mail.
 
 ### Award Committee
 
-The full list of committee members for the Allan Sharlin Memorial Book Award will be posted shortly.  
+- Angel Adams Parham (Chair of the Committee)  
+Department of Sociology  
+6363 St. Charles Ave., Box 30  
+New Orleans, LA 70118  
+aaparham@loyno.edu   
+ 
+- Randy Roth  
+6987 Grandee Cliffs Drive  
+Dublin OH 43016  
+roth.5@osu.edu  
+ 
+- Allan Greer  
+3485 Westmore Ave,  
+Montreal, QC,  
+Canada H4B 1Z7  
+allan.greer@mcgill.ca  
+ 
+- Stephanie Mudge  
+Department of Sociology  
+One Shields Avenue  
+Davis, CA 95616  
+mudge@ucdavis.edu  
+ 
+- Ayşe Zarakol  
+19 Mill Road, Cambridge, CB1 2AB, UK  
+az319@cam.ac.uk  
+ 
+- James Lee  
+Room 2834 Academic Bldg  
+The Hong Kong University of Science and Technology  
+Clear Water Bay, Kowloon, Hong Kong  
+jqljzl@ust.hk  
+ 
+- Joseph Jewell  
+315 Second Street  
+Apt. 408  
+Ann Arbor, MI 48103  
+jjewell@tamu.edu  
 
-
-- William Block (Cornell University)  
+- William Block  
 Social Science History Association  
 391 Pine Tree Rd  
 Ithaca, NY 14850
