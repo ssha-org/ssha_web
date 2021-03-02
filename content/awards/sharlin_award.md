@@ -56,7 +56,8 @@ jjewell@tamu.edu
 - William Block  
 Social Science History Association  
 391 Pine Tree Rd  
-Ithaca, NY 14850
+Ithaca, NY 14850  
+block@cornell.edu  
 
 ### Past Winners
 
