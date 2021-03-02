@@ -10,7 +10,7 @@ Submissions for the Allan Sharlin Memorial Book Award are now open. Books publis
  
 A $1,000 prize is awarded annually for an outstanding book in social science history to honor the memory of Allan Sharlin. Allan exemplified the finest traditions of social science history. His training and scholarship were broadly interdisciplinary and he used both quantitative and more traditional methodologies.  
  
-To submit a book for consideration, please mail a copy of the book to EACH of the committee members listed below.   Please also send an email to all committee members to let them know to expect your book in the mail.
+To submit a book for consideration, please **<u>mail a copy</u>** of the book to EACH of the committee members listed below.   Please also send an email to all committee members to let them know to expect your book in the mail.
 
 ### Award Committee
 
