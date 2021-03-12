@@ -42,7 +42,12 @@ Melissa Kocias
 
 ### Awards and Grants  
 
-The Association promotes high quality scholarship through its awards program, which recognize the best work by a younger scholar and the best work by any scholar in our many fields. We also facilitate the participation of graduate students through a travel grant. Please note that students applying for these funds need to fill out the appropriate form and submit it along with their proposed to the network representatives. They will be informed of the result of that competition at the same time as they hear whether or not their paper has been accepted.
+The Association promotes high quality scholarship through its awards program, which recognize the best work by a younger scholar and the best work by any scholar in our many fields. We also facilitate the participation of graduate students through a travel grant. Please note that students applying for these funds need to fill out the appropriate form and submit it along with their proposed to the network representatives. They will be informed of the result of that competition at the same time as they hear whether or not their paper has been accepted.  
+
+**Richard Sutch Student Travel Awards**  
+
+The _Richard Sutch Student Travel Awards_ application is now available for the 2021 SSHA annual conference. To apply, please complete the application form at the following link: 
+<br /><a href="https://forms.gle/sJwf1pkbNi5W6e146" target="_blank">Richard Sutch Student Travel Awards</a>  
 
 ### Future Conferences
 
