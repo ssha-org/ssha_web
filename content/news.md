@@ -8,7 +8,7 @@ title = "SSHA News"
 
 <hr width=300; align=left>
 <p><font size="3"><i>March 16, 2021</i></font></p>
-<h3><b>2021 SSHA Call for Papers (exended deadline)</b></h3>
+<h3><b>2021 SSHA Call for Papers (extended deadline)</b></h3>
 
 [SSHA Call for Papers PDF](/files/2021_SSHA_CFP.pdf)  
 <br />
