@@ -9,7 +9,6 @@ title = "SSHA News"
 <hr width=300; align=left>
 <p><font size="3"><i>April 14, 2021</i></font></p>
 <h3><b>Reminder:  SSHA 2021 Submission Deadline</b></h3>
-  
 <img src="/images/SSHA_Pres_Announce.png" style="width: 100%; vertical-align:left"></img>
 
 <hr width=300; align=left>
