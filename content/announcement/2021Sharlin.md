@@ -11,4 +11,3 @@ Submissions for the Allan Sharlin Memorial Book Award are now open. Books publis
 For further information on nominating a book, please visit: 
 
 <a href="https://ssha.org/awards/sharlin_award/">Allan Sharlin Memorial Book Award</a>
-<br /><hr width="100">  
