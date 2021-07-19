@@ -7,6 +7,30 @@ title = "SSHA News"
 ## **SSHA News**  
 
 <hr width=300; align=left>
+<p><font size="3"><i>July 19, 2021</i></font></p>
+<h3><b>Conference update from SSHA President Manali Desai</b></h3>
+
+<br />
+<p><font size="4">Dear SSHA Community,</font></p> 
+<br />
+<p><font size="4">I’d like to thank you for your patience during what has been an uncertain year with several recent developments on the pandemic front. The good news is that many of us are working behind the scenes to put together an exciting conference, and are planning for both virtual and in-person attendance options.</font></p>  
+
+<p><font size="4">Despite many advances on the vaccine front the situation with COVID remains fluid, and the recent rise in circulation of the Delta variant has once again created new uncertainties. With this in mind we understand that while people may WANT to attend in person, we expect a certain number to attend virtually, with some making their decision at the last minute, and we hope to accommodate everyone as much as possible. We are also aware that our international members and participants will face additional challenges with travel to the United States.</font></p> 
+
+<p><font size="4">IUC, our long-time conference organizer, has gained a lot of experience with virtual meetings in the last year, and we are confident that we can create an excellent conference experience that is simultaneously in-person and virtual. Please note that registration will open later than usual, as we work to sort out the meeting details.</font></p> 
+
+<p><font size="4">To help IUC with planning and logistics, it would be helpful to know how many members are currently leaning toward in-person, virtual, or are unsure about their preferred method of conference attendance.  You can indicate your preference by filling out a <a href="https://ssha.us4.list-manage.com/track/click?u=2c2c3629b0ef59ce74f3208e1&id=e7e8e6229b&e=8333b789c4" target="_blank">simple, one question, no obligation poll:</a></font></p> 
+<br />
+<a href="https://iu.co1.qualtrics.com/jfe/form/SV_879KNROQBIAhZUa" target="_blank">https://iu.co1.qualtrics.com/jfe/form/SV_879KNROQBIAhZUa</a>
+<br /><br />
+<p><font size="4">Again, thank you for your patience while he navigate these unchartered waters. We hope to update you again soon.
+<br /><br />
+Sincerely,
+<br /><br />
+Manali Desai<br />
+SSHA President, 2020-21</font></p> 
+
+<hr width=300; align=left>
 <p><font size="3"><i>April 14, 2021</i></font></p>
 <h3><b>Reminder:  SSHA 2021 Submission Deadline</b></h3>
 <img src="/images/SSHA_Pres_Announce.png" style="width: 100%; vertical-align:left"></img>
