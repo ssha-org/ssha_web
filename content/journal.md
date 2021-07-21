@@ -24,10 +24,9 @@ The emphasis in the mission of the journal is to provide a home for projects and
 
 ### Featured Articles
 
-Björn Quanjer and Jan Kok "[Drafting the Dutch: Selection Biases in Dutch Conscript Records in the Second Half of the Nineteenth Century.](https://doi.org/10.1017/ssh.2020.13)" *Social Science History* &nbsp;Volume 44, Issue 3 (Fall 2020), pp. 501-524.  **Open Access Article**  
+Sebastian Kohl and Jardar Sørvoll "[Varieties of Social Democracy and Cooperativism: Explaining the Historical Divergence between Housing Regimes in Nordic and German-Speaking Countries.](https://doi.org/10.1017/ssh.2021.16)" *Social Science History* &nbsp;Volume 45, Issue 3 (Fall 2021), pp. 1-27.  **Open Access Article**  
 
-Martin Dribe, J. David Hacker, and Francesco Scalone "[Immigration and Child Mortality: Lessons from the United States at the Turn of the Twentieth Century.](https://doi.org/10.1017/ssh.2019.42)" *Social Science History* &nbsp;Volume 44, Issue 1 (Spring 2020), pp. 57-89.  **Open Access Article**
-
+Colin G. Pooley and Marilyn E. Pooley "[Young Women on the Move *Britain circa 1880–1950.*](https://doi.org/10.1017/ssh.2021.14)" *Social Science History* &nbsp;Volume 45, Issue 3 (Fall 2021), pp. 1-23.  **Open Access Article**  
 
 ### Current Issue
 
