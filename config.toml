@@ -35,7 +35,7 @@ cloudFrontDistributionID =  "E1R2XXNL0UQGFN"
 
 [[menu.main]]
     url = "/journal/"
-    name = "Journal"
+    name = "SSH Journal"
     weight = 2
 
 [[menu.main]]
