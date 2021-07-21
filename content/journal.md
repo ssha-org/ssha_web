@@ -31,7 +31,7 @@ Martin Dribe, J. David Hacker, and Francesco Scalone "[Immigration and Child Mor
 
 ### Current Issue
 
-Spring 2021, Volume 45 -- Issue 1  
+Summer 2021, Volume 45 -- Issue 2  
 https://www.cambridge.org/core/journals/social-science-history/latest-issue  
 
-![Current Issue](/images/SSH_45-1.jpg)
+![Current Issue](/images/SSH_45-2.jpg)
