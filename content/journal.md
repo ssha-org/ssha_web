@@ -22,6 +22,16 @@ Social Science History seeks two or more subject and/or methodology experts for 
 
 The emphasis in the mission of the journal is to provide a home for projects and publications that reach beyond the historical case study to address topics of larger importance to an interdisciplinary group. In judging, for example, whether an empirical article is of theoretical import, it is not sufficient that the analysis is embedded within theory but the results must have importance for expanding and developing upon past theoretical arguments. Similarly, historical studies are most aligned with the mission of the journal when they are explicitly comparative and the comparative research design has some salient features which speak to our general understanding of socio-historical phenomena.  
 
+### Statement on Competing Interests  
+
+The editors of Social Science History are committed to transparency with respect to competing interests as they pertain to editors, authors and peer reviewers. Social Science History publishes the journal in accordance with Cambridge University Press’s publishing ethics guidelines and supports the principles of ethical publishing as put forth by the Committee on Publication Ethics (COPE). These guidelines apply to authors, peer reviewers, the editorial office and the journal as a whole.
+
+Authors are required to declare any potential competing interests to the editorial office at the time of initial submission. Reviewers who may have competing interests are asked to disclose those concerns to the editorial office prior to completing article reviews.
+
+All concerns regarding editorial decisions should be addressed to the SSH journal office. Complaints and appeals will be adjudicated by SSH editors and/or SSH editorial board members in consultation with Cambridge University Press.
+
+For further information, please visit: https://www.cambridge.org/core/journals/social-science-history/information/publishing-ethics
+
 ### Featured Articles
 
 Sebastian Kohl and Jardar Sørvoll "[Varieties of Social Democracy and Cooperativism: Explaining the Historical Divergence between Housing Regimes in Nordic and German-Speaking Countries.](https://doi.org/10.1017/ssh.2021.16)" *Social Science History* &nbsp;Volume 45, Issue 3 (Fall 2021), pp. 1-27.  **Open Access Article**  
@@ -30,7 +40,7 @@ Colin G. Pooley and Marilyn E. Pooley "[Young Women on the Move *Britain circa 1
 
 ### Current Issue
 
-Summer 2021, Volume 45 -- Issue 2  
+Fall 2021, Volume 45 -- Issue 3  
 https://www.cambridge.org/core/journals/social-science-history/latest-issue  
 
-![Current Issue](/images/SSH_45-2.jpg)
+![Current Issue](/images/SSH_45-3.jpg)
