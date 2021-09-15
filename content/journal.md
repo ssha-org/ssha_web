@@ -30,14 +30,20 @@ Authors are required to declare any potential competing interests to the editori
 
 All concerns regarding editorial decisions should be addressed to the SSH journal office. Complaints and appeals will be adjudicated by SSH editors and/or SSH editorial board members in consultation with Cambridge University Press.
 
-For further information, please visit: https://www.cambridge.org/core/journals/social-science-history/information/publishing-ethics
+For further information, please visit: https://www.cambridge.org/core/journals/social-science-history/information/publishing-ethics  
+<br />
 
 ### Featured Articles
+  
+Daniel Seligson and Anne E. C. McCants "[Polygamy, the Commodification of Women, and Underdevelopment](https://doi.org/10.1017/ssh.2021.23)" *Social Science History* &nbsp;(Forthcoming 2022), pp. 1-34.  **Open Access Article**  
+<br />
 
-Sebastian Kohl and Jardar Sørvoll "[Varieties of Social Democracy and Cooperativism: Explaining the Historical Divergence between Housing Regimes in Nordic and German-Speaking Countries.](https://doi.org/10.1017/ssh.2021.16)" *Social Science History* &nbsp;Volume 45, Issue 3 (Fall 2021), pp. 1-27.  **Open Access Article**  
+Miguel Carmo and Tiago Domingos "[Agricultural Expansion, Soil Degradation, and Fertilization in Portugal, 1873–1960: From History to Soil and Back Again.](https://doi.org/10.1017/ssh.2021.28)" *Social Science History* &nbsp;(Forthcoming 2021), pp. 1-28.  **First View**  
+<br />
 
-Colin G. Pooley and Marilyn E. Pooley "[Young Women on the Move *Britain circa 1880–1950.*](https://doi.org/10.1017/ssh.2021.14)" *Social Science History* &nbsp;Volume 45, Issue 3 (Fall 2021), pp. 1-23.  **Open Access Article**  
-
+Dylan Riley, Rebecca Jean Emigh and Patricia Ahmed  "[The Social Foundations of Positivism: The Case of Late-Nineteenth-Century Italy,](https://doi.org/10.1017/ssh.2021.22)" *Social Science History* &nbsp;(Forthcoming 2022), pp. 1-30.  **First View**  
+<br />
+  
 ### Current Issue
 
 Fall 2021, Volume 45 -- Issue 3  
