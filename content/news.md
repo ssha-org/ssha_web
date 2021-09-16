@@ -7,6 +7,28 @@ title = "SSHA News"
 ## **SSHA News**  
 
 <hr width=300; align=left>
+<p><font size="3"><i>September 16, 2021</i></font></p>
+<h3><b>Conference update from SSHA Executive Director Bill Block</b></h3>
+<br />
+<p><font size="4">Dear SSHA Community,</font></p> 
+<br />
+<p><font size="4">I am writing with exciting news about SSHA's upcoming conference in Philadelphia!</font></p>  
+
+<p><font size="4">The SSHA 2021 Program Committee Co-Chairs are hard at work finalizing the program schedule, and once they are done we will be sending out a link to conference registration in the next few days.</font></p> 
+
+<p><font size="4">...and everyone wants to know what modalities we will be supporting! I'm pleased to confirm that SSHA 2021 will be providing Zoom-style connectivity in every conference session, in an attempt to facilitate the broadest possible access for all conference registrants, physically present or remote.</font></p> 
+
+<p><font size="4">Based on the results of our two recent surveys, we do expect to see many of you in person. Please be assured we will be following the latest scientific advice regarding masks and social distancing during the conference, and we encourage everyone to be fully vaccinated.</font></p> 
+
+<p><font size="4">Please watch your inboxes for the next SSHA communication that will contain information about the conference schedule and registration. Meanwhile, if you are really anxious to "take action" on something SSHA-related, you can always <a href="https://ssha.org/membership/" target="_blank">renew your annual membership</a>!</font></p> 
+<br />
+
+Sincerely,
+<br /><br />
+William Block<br />
+SSHA Executive Director</font></p>  
+
+<hr width=300; align=left>
 <p><font size="3"><i>July 19, 2021</i></font></p>
 <h3><b>Conference update from SSHA President Manali Desai</b></h3>
 
