@@ -30,6 +30,10 @@ Non-Session Participant (non-member rate) | | $410 | | $10
 
 &emsp;
 
+**Cancellations**  
+
+Cancellation requests must be received in writing to the Conference Registrar at iuconfs@iu.edu no later than October 22, 2021 to be eligible for a refund (less a $50 cancellation fee).  No refunds will be issued after that date.  
+
 **Registration Questions**
 
 For questions about registration (**2020 Conference canceled**), please contact:
