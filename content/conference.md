@@ -36,7 +36,7 @@ Cancellation requests must be received in writing to the Conference Registrar at
 
 **Registration Questions**
 
-For questions about registration (**2020 Conference canceled**), please contact:
+For questions about registration please contact:
 
 Melissa Kocias  
 <iuconfs@iu.edu>  
