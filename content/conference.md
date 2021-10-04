@@ -71,8 +71,8 @@ The _Richard Sutch Student Travel Awards_ application is now available for the 2
 
 ### Future Conferences
 
-- Philadelphia, PA, USA, 11-14 November, 2021
+- Philadelphia, PA, USA, November 11-14, 2021
 - Chicago, IL, USA, November 17-20, 2022
-- Washington, DC, USA, 16-19 November, 2023
+- Washington, DC, USA, November 16-19, 2023
 
 ### [Past Conference Programs >>](/programs/)
