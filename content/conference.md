@@ -8,7 +8,7 @@ title = "Annual Conference"
 
 <hr width=300; align=left>
 
-The 2021 conference will be held in Philadelphia on November 11-14, at the DoubleTree by Hilton Philadelphia Center City. This will mark the 47th annual meeting of the Social Science History Association. The conference theme this year is “Crisis, Conjunctures, Turning Points: Theory and Method in Turbulent Times.” Conference Program is available here: [SSHA 2021 Conference Program](/files/SSHA2021_Final_Program.pdf).
+The 2021 conference will be held in Philadelphia on November 11-14, at the DoubleTree by Hilton Philadelphia Center City. This will mark the 47th annual meeting of the Social Science History Association. The conference theme this year is “Crisis, Conjunctures, Turning Points: Theory and Method in Turbulent Times.” The conference program is available here: [SSHA 2021 Conference Program](/files/SSHA2021_Final_Program.pdf).
 
 ### Registration
 
