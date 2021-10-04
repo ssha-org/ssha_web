@@ -7,10 +7,26 @@ title = "SSHA News"
 ## **SSHA News**  
 
 <hr width=300; align=left>
-<p><font size="3"><i>October 4, 2021</i></font></p>
-<h3><b>Conference registration is now open</b></h3>
+<p><font size="3"><i>October 04, 2021</i></font></p>
+<h3><b>SSHA 2021 Registration and Program now available</b></h3>
 <br />
-<p><font size="4">For more information on conference and hotel registration details please visit the following: <a href="https://ssha.org/conference/">2021 Conference Registration</a></font></p>
+<p><font size="4">Dear SSHA Community,</font></p> 
+<br />
+<p><font size="4">Thank you for your patience while we worked on plans for our upcoming hybrid conference! Links to conference registration, a PDF of the program, and hotel details have now been posted at <a href="https://ssha.org" target="_blank">https://ssha.org</a>.</font></p>  
+
+<p><font size="4">Meanwhile, I'd like to highlight an exciting opportunity made possible by the hybrid nature of our 2021 conference environment:  SSHA is extending its long-standing (usually local) graduate student $10 "non-program participant rate" to graduate students everywhere to remotely join the conference and see what our Association is all about. Any student that is not already part of the program is eligible for this greatly reduced rate and will be able to join the conference from afar. Please pass this news along to interested graduate students.
+</font></p> 
+
+<p><font size="4">Finally, many thanks to our 2021 Program Committee Co-Chairs, Timothy Thurber, Steven Sprick Schuster, Sadia Saeed, and Ho-fung Hung, for their efforts putting the final touches on the engaging content for next month's meeting.</font></p> 
+
+<p><font size="4">We look forward to seeing many of you next month, either in-person (vaccinated, masked) or remotely!</font></p> 
+
+<br />
+
+Sincerely,
+<br /><br />
+William Block<br />
+SSHA Executive Director</font></p> 
 
 <hr width=300; align=left>
 <p><font size="3"><i>September 16, 2021</i></font></p>
