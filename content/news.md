@@ -7,6 +7,12 @@ title = "SSHA News"
 ## **SSHA News**  
 
 <hr width=300; align=left>
+<p><font size="3"><i>October 4, 2021</i></font></p>
+<h3><b>Conference registration is now open</b></h3>
+<br />
+<p><font size="4">For more information on conference and hotel registration details please visit the following: <a href="https://ssha.org/conference/">2021 Conference Registration</a></font></p>
+
+<hr width=300; align=left>
 <p><font size="3"><i>September 16, 2021</i></font></p>
 <h3><b>Conference update from SSHA Executive Director Bill Block</b></h3>
 <br />
