@@ -28,7 +28,7 @@ Ithaca, NY 14850
 &emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp;  
 2017 | |William Rankin | |Yale | After the Map: Cartography, Navigation, and the Transformation of Territory in the Twentieth Century  
 &emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp;  
-2016 | |Jonathan Wyrtzen | |Cornell University |Making Morocco: Colonial Intervention and the Politics of Identity  
+2016 | |Jonathan Wyrtzen | |Yale |Making Morocco: Colonial Intervention and the Politics of Identity  
 &emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp;  
 2015 | |Aaron Panofsky | |University of Chicago |Misbehaving Science: Controversy and the Development of Behavior Genetics  
 &emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp;  
