@@ -5,6 +5,6 @@ title = "2021 Conference Program"
 +++
 
 **The 2021 SSHA conference program is now available.**  
-<a href="/files/SSHA2021_Final_Program.pdf" target="_blank">Official Program</a>
+<a href="/files/SSHA2021_Full_Program.pdf" target="_blank">Preliminary Program</a>
 
 <hr width="100"> 
