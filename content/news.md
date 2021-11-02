@@ -12,7 +12,7 @@ title = "SSHA News"
 <br />
 <p><font size="4">Dear SSHA Community,</font></p>  
 
-<p><font size="4">We are looking forward to seeing many of you, either in-person or virtually, at next week's SSHA Annual Meeting in Philadelphia!  The following email contains information about how our hybrid conference will work.</p>  
+<p><font size="4">We are looking forward to seeing many of you, either in-person or virtually, at next week's SSHA Annual Meeting in Philadelphia!  The following message contains information about how our hybrid conference will work.</p>  
 
 <p><font size="4"><b>COVID-19 Attestation</b><br />
 Everyone attending SSHA 2021 in person will be required to attest to either being fully vaccinated against COVID-19 OR having had a negative COVID-19 test within 48 hours of the start of the conference. Conference attendees will be able to attest to their vaccination status prior to arrival, or on-site during conference check-in.  Please watch your email for information about advance, online COVID-19 attestation from Indiana University Conferences (IUC), but if you don’t complete this step prior to arrival be assured we will have attestation available at the conference registration booth.</font></p> 
