@@ -7,6 +7,61 @@ title = "SSHA News"
 ## **SSHA News**  
 
 <hr width=300; align=left>
+<p><font size="3"><i>November 02, 2021</i></font></p>
+<h3><b>How will SSHA 2021 work?</b></h3>
+<br />
+<p><font size="4">Dear SSHA Community,</font></p>  
+
+<p><font size="4">We are looking forward to seeing many of you, either in-person or virtually, at next week's SSHA Annual Meeting in Philadelphia!  The following email contains information about how our hybrid conference will work.</p>  
+
+<p><font size="4"><b>COVID-19 Attestation</b><br />
+Everyone attending SSHA 2021 in person will be required to attest to either being fully vaccinated against COVID-19 OR having had a negative COVID-19 test within 48 hours of the start of the conference. Conference attendees will be able to attest to their vaccination status prior to arrival, or on-site during conference check-in.  Please watch your email for information about advance, online COVID-19 attestation from Indiana University Conferences (IUC), but if you don’t complete this step prior to arrival be assured we will have attestation available at the conference registration booth.</font></p> 
+
+<p><font size="4"><b>Mask up</b><br />
+We will be requiring that everyone wear masks while inside of the hotel, whether it be the hallways or in session rooms.  Presenters, who may prefer or need to remove their masks while speaking, will be placed at least six feet away in session rooms. For receptions, you will be allowed, of course, to remove your mask to eat and drink.
+</font></p> 
+
+<p><font size="4"><b>Social Distancing</b><br />
+We will be doing our best to accommodate social distancing in both seating and in the areas around the conference venue. Attendees are asked to keep social distancing in mind at all times, and to recognize that individuals have various degrees of comfort with levels of physical proximity and contact during normal times, and more so during a pandemic.  Let’s be respectful of differences and socially distance from each other, to help make the conference as good as it can be for every in-person attendee!</font></p>
+
+<p><font size="4"><b>Sanitization Protocols</b><br />
+The DoubleTree by Hilton Philadelphia Center City has increased their sanitization protocols in response to the pandemic to provide guests with a clean and safe environment to gather. We will also be having hand sanitizer stations placed throughout the space for easy access.</font></p>
+
+<p><font size="4"><b>Logistics for In-person Attendees</b><br />
+For in-person attendees, the SSHA 2021 conference will look very familiar and follow SSHA’s long-held Thursday-Sunday format. One difference, and this is important for everyone to note: all scheduled session times are 105 minutes (one hour 45 minutes) in length. This scheduling was required to make the logistics of the conference work within the various constraints we faced this year. The other main difference that in-person attendees will see is the presence of virtual attendees in each session room, network meeting, committee meeting, etc.</font></p>
+
+<p><font size="4"><b>Logistics for Virtual Attendees</b><br />
+For virtual attendees, each session room will equipped to be fully hybrid, so that everyone can participate, regardless of whether they are in-person or remote. Our goal is to make physical proximity as irrelevant as possible to joining, and participating in, an SSHA conference session. Indiana University Conferences will be using the virtual conference platform Whova to make all of this possible, and you can think of Whova as a shell or interface that wraps around Zoom. If you have used Zoom in the last 18 or so months, you’ll be able to use Whova. Whova can be accessed via the web or through a mobile app available for Apple and Android devices, so it will be useful to both in-person and remote attendees. And in order to access Whova at SSHA 2021, you must be registered for the SSHA conference, so IUC knows to give you access.</font></p>
+
+<p><font size="4">Using Whova, virtual attendees will be able to join any session they wish to livestream – no need to mess around with any zoom links. When entering a conference session, virtual attendees will see a camera feed of the in-person presenter(s). And—because this is Zoom embedded within Whova, remote attendee video and audio will be part of the virtual meeting and projected on screen and via speakers into the session room.* Microphones in the room will allow you to hear presenters speaking as well as any in-person audience member who asks questions into the Q&A microphone at the front of the room, and as long as remote participants have their camera and microphone turned on, we hope it will be almost as good as being present in person!</font></p>
+
+<p><font size="4">*<i>If remote participants so choose. Generally it is recommended that remote participants join with their camera on and their microphone muted (unless speaking), unless circumstances or personal preference dictate otherwise.</i></font></p>
+<br />
+<p><font size="4"><b>Some Questions and Answers</b><br />
+Q: Will you be recording SSHA conference sessions?<br />
+A:  Yes, we plan on recording all sessions so that you won’t have to worry about missing out on any other concurrent paper session. All recordings will be available for 6 months following the conference.
+<br /><br />
+Q: When and how will I receive my Whova link?<br />
+A:  Indiana University Conferences will be sending out Whova credentials via email on or about November 5th.  If you haven’t received your Whova details by November 7th, contact IU Conferences at iucvrtl@iu.edu.
+<br /><br />
+Q:  How long are SSHA 2021 sessions?<br />
+A:  All sessions are 105 minutes in length, or one hour 45 minutes.
+<br /><br />
+Q:  Some or all of my session’s participants are going to be remote.  Do we need to alert anyone in advance?<br />
+A:  No, because we are setting up each room with video and audio in both directions, a conference session can take place whether all, some, or none of the presenters are physically present (and the same goes for the audience, etc.).*</font></p>
+
+<p><font size="4">*<i>At least that is the theory!  Please bear with us as we “go live” with this brave new approach to conferencing on November 11. Undoubtedly there will be some glitches, but we will have staff in place to work through them and hope to offer a great conference experience for all.</i></font></p>  
+
+<p><font size="4">A version of this information will be posted at <a href=https://ssha.org>https://ssha.org</a>, and it is not too late to register for the conference. Please help spread the word. Thank you!</font></p>  
+
+<br />
+
+Sincerely,
+<br /><br />
+William Block<br />
+SSHA Executive Director</font></p>  
+
+<hr width=300; align=left>
 <p><font size="3"><i>October 04, 2021</i></font></p>
 <h3><b>SSHA 2021 Registration and Program now available</b></h3>
 <br />
