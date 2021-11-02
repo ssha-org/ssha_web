@@ -6,7 +6,7 @@ title = "2021 Conference Logistics"
 
 **Update on Conference Logistics.**  
 
-Information regarding COVID-19 protocols, Logistics for in-person and virtual attendees, etc., is now available.  
+Information regarding COVID-19 protocols, Logistics for in-person and virtual attendees, and other key details, is now available.  
 
 <a href="https://ssha.org/news/" target="_blank">How will SSHA 2021 work?</a>
 <hr width="100">
