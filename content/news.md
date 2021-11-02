@@ -52,7 +52,7 @@ A:  No, because we are setting up each room with video and audio in both directi
 
 <p><font size="4">*<i>At least that is the theory!  Please bear with us as we “go live” with this brave new approach to conferencing on November 11. Undoubtedly there will be some glitches, but we will have staff in place to work through them and hope to offer a great conference experience for all.</i></font></p>  
 
-<p><font size="4">A version of this information will be posted at <a href=https://ssha.org>https://ssha.org</a>, and it is not too late to register for the conference. Please help spread the word. Thank you!</font></p>  
+<p><font size="4">It is not too late to register for the conference. Please help spread the word. Thank you!</font></p>  
 
 <br />
 
