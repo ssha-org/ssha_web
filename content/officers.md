@@ -1,18 +1,18 @@
 +++
-date = "2020-12-09T13:53:36-04:00"
+date = "2021-11-13T13:53:36-04:00"
 title = "SSHA Officers"
 
 +++
 
-### 2020-2021 Officers
+### 2021-2022 Officers
 
 **President**  
-Manali Desai  
-Cambridge University (Sociology)  
-
-**Vice President**  
 Julian Go  
 University of Chicago (Sociology)  
+
+**Vice President**  
+Anne McCants  
+Massachusetts Institute of Technology (History)
 
 **Executive Director**  
 William C. Block  
@@ -25,17 +25,6 @@ Colby College (Sociology)
 ----
 
 ### Executive Committee
-
-*Term Expires 2021*
-
-- Stephanie Mudge  
-University of California, Davis (Sociology)  
-
-- Trevon Logan  
-Ohio State University (Economics)  
-
-- Elisabeth Engberg  
-Umeå University (History)  
 
 *Term Expires 2022*
 
@@ -57,19 +46,23 @@ University of Montréal (Demography)
 University of California, Los Angeles (Sociology)  
 
 - Jaeeun Kim  
- University of Michigan (Sociology)
+ University of Michigan (Sociology)  
+
+ *Term Expires 2024*
+
+- Sasha Mullally  
+University of New Brunswick (History)  
+
+- Sakari Saaritsa  
+University of Helsinki (Economic and Social History)  
+
+- Angel Adams Parham  
+University of Virginia (Sociology)  
+
 
 ----
 
 ### Publications Committee  
-
-*Term Expires 2021*
-
-- Evan Roberts  
-University of Minnesota (Sociology)  
-
-- Sumner Lacroix  
-University of Hawai‘i-Mānoa (Economics)  
 
 *Term Expires 2022*  
 
@@ -87,25 +80,40 @@ University of Illinois Chicago (Sociology)
 - Ana Villarreal  
 Boston University (Sociology)
 
+*Term Expires 2024*  
+
+- J. David Hacker  
+University of Minnesota (History)  
+
+- Ho-Fung Hung   
+Johns Hopkins University (Sociology)  
+
 ----
 
-### 2021 Program Committee
+### 2022 Program Committee
 
-Steven Sprick Schuster  
-Middle Tennessee State University (Economics)
+Cristina Groeger  
+Lake Forest College (History)
 
-Tim Thurber  
-Virginia Commonwealth University (History)
-
-Sadia Saeed  
-University of San Francisco (Sociolog)
+Ricarda Hammer  
+University of Michigan (Weiser Center for Emerging Democracies)
 
 Ho-Fung Hung  
-Johns Hopkins University (Sociolog) 
+Johns Hopkins University (Sociology)
+
+George Lawson  
+Australian National University (International Relations)  
+
+Alexandre White  
+Johns Hopkins University (History of Medicine/Sociology)  
 
 ----
 
 ### Past Presidents
+
+Manali Desai  
+Cambridge University (Sociology)  
+2020-2021
 
 Philip Hoffman  
 California Institute of Technology (Economics)  
