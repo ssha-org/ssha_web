@@ -7,6 +7,15 @@ title = "SSHA News"
 ## **SSHA News**  
 
 <hr width=300; align=left>
+
+<p><font size="3"><i>November 14, 2021</i></font></p>
+<h3><b>2022 SSHA Call for Papers</b></h3>
+
+[SSHA Call for Papers PDF](/files/2022_SSHA_CFP.pdf)  
+<br />
+<img src="/images/2022_SSHA_CFP.png" style="width: 100%; vertical-align:left"></img><br />  
+<hr width=300; align=left>  
+
 <p><font size="3"><i>November 02, 2021</i></font></p>
 <h3><b>How will SSHA 2021 work?</b></h3>
 <br />
