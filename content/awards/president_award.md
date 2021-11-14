@@ -20,6 +20,8 @@ Ithaca, NY 14850
 
 *Year* | &emsp; | *Author* | &emsp; | *Institution* | *Title*
 --- | --- | :--- | --- | :--- | :---  
+2020 | |James Poskett | |University of Warwick | Materials of the Mind: Phrenology, Race, and the Global History of Science, 1815-1920
+&emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp;
 2019 | |Seth Archer |  |Utah State University  |Sharks upon the Land: Colonialism, Indigenous Health, and Culture in Hawai'i, 1778–1855
 &emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp;  
 2018 | |Keri Leigh Merritt | |Independent Scholar | Masterless Men: Poor Whites and Slavery in the Antebellum South  
