@@ -7,13 +7,14 @@ body {
     display: flex;
     text-align: center;
     flex-direction: column;
+    max-width: 100%;
 }
 
 main {
     margin: auto;
     padding: 25px;
     flex: 1 0 auto;
-    max-width: 1150px;
+    max-width: 100%;
 }
 
 .text-justify {
