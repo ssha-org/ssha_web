@@ -21,8 +21,8 @@ Jeffrey K. Beemer, Social Science History Association, USA
 
 **Editorial Board**  
 
-Martin Dribe, Economic Demography, Lund University, Sweden  
 Andrew Curley, Geography, University of Arizona, USA  
+Martin Dribe, Economic Demography, Lund University, Sweden    
 Donald Fyson, History, Université Laval, Canada  
 Danielle Gauvreau, Sociology and Anthropology, Concordia University, Canada  
 Joseph Jewell, Sociology, Texas A&M University, USA  
@@ -30,9 +30,9 @@ Kimberley Johnson, Political Science, New York University, USA
 Chulhee Lee, Economics, Seoul National University, South Korea  
 Susan Leonard, ICPSR, University of Michigan, USA  
 Robert Lieberman, Political Science, Johns Hopkins University, USA  
-Mary Jo Maynes, History, University of Minnesota, USA  
-Angel Adams Parham, Sociology, University of Virginia, USA  
+Mary Jo Maynes, History, University of Minnesota, USA    
 Stephanie Mudge, Sociology, University of California, Davis, USA  
+Angel Adams Parham, Sociology, University of Virginia, USA  
 Tawney Paul, History, University of California, Los Angeles, USA  
 Silvia Pedraza, Sociology, University of Michigan, USA  
 Tirthankar Roy, Economic History, London School of Economics, UK  
@@ -41,4 +41,3 @@ Ken Sylvester, History, ICPSR and University of Michigan-Flint, USA
 Jessica Vechbanyongratana, Economics, Chulalongkorn University, Thailand  
 Marlous van Waijenburg, Economics, Harvard University, USA  
 Dingxin Zhao, Sociology, University of Chicago, USA  
-
