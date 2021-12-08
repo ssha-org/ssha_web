@@ -46,7 +46,7 @@ Dylan Riley, Rebecca Jean Emigh and Patricia Ahmed  "[The Social Foundations of 
   
 ### Current Issue
 
-Fall 2021, Volume 45 -- Issue 3  
+Winter 2021, Volume 45 -- Issue 4  
 https://www.cambridge.org/core/journals/social-science-history/latest-issue  
 
-![Current Issue](/images/SSH_45-3.jpg)
+![Current Issue](/images/SSH_45-4.jpg)
