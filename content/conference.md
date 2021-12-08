@@ -8,7 +8,11 @@ title = "Annual Conference"
 
 <hr width=300; align=left>
 
-The 2022 conference will be held in Chicago on November 17-20, at the Palmer House Hilton. This will mark the 48th annual meeting of the Social Science History Association. The conference theme this year is “Reverberations of Empire: Histories, Legacies & Lineages.” The 2022 SSHA Call for Papers is available here: [2022 SSHA Call for Papers](/files/2022_SSHA_CFP.pdf).
+### 2022 Annual Conference submissions opens on December 13th, 2021
+
+SSHA will begin accepting paper and session submissions for the 2022 Annual Conference on December 13th, 2021. Please visit our submission portal <a href="http://ssha2022.ssha.org/" target="_blank"><b>ssha2022.ssha.org</b></a> to submit a paper or session proposal beginning on December 13th, 2021.  
+
+The 2022 conference will be held in Chicago on November 17-20, at the Palmer House Hilton. This will mark the 48th annual meeting of the Social Science History Association. The conference theme this year is “Reverberations of Empire: Histories, Legacies & Lineages.” The 2022 SSHA Call for Papers is available here: [2022 SSHA Call for Papers](/files/2022_SSHA_CFP.pdf).  
 
 ### Registration
 
