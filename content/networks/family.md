@@ -34,6 +34,6 @@ We especially appreciate receiving entire panels, consisting of four papers, wit
 Please contact the Family/Demography Network Representatives for comments, questions, assistance creating a panel, or help with submissions.
 
 ### Network Representatives
-
-- [Mary Louise Nagata](mailto:mnagata@fmarion.edu)
-- [Richard Zijdeman](mailto:richard.zijdeman@iisg.nl)
+  
+- [Richard Zijdeman](mailto:richard.zijdeman@iisg.nl)  
+- [Ingrid van Dijk](mailto:ingrid.van_dijk@ekh.lu.se)  
