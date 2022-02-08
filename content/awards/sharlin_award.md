@@ -4,7 +4,7 @@ title = "Social Science History"
 
 +++
 
-## Allan Sharlin Memorial Book Award
+## Allan Sharlin Memorial Book Award  
 
 Submissions for the Allan Sharlin Memorial Book Award are now open. Books published in 2019 and 2020 are eligible for consideration. Submissions with a postmark of April 30th (or earlier) will be accepted. Late entries will not be considered. Authors or publishers wishing to nominate a book should mail a book to each member of the award committee. Self-nominations are accepted. 
  
@@ -12,7 +12,7 @@ A $1,000 prize is awarded annually for an outstanding book in social science his
  
 **Please note:** the 2022 award committees are still being formed. Please check back periodically for updates.
 
-### Award Committee
+### Award Committee (in process)  
 
 - William Block  
 Social Science History Association  
