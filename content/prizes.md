@@ -10,6 +10,8 @@ title = "Prizes"
 
 The Association awards two annual prizes for outstanding books in social science history.<br />  
 
+**Please note:** the 2022 award committees for both __*Presidents*__ and __*Allan Sharlin Memorial*__ book awards are still being formed. Please check back periodically for updates.
+
 ### Presidents Book Award
 
 A $1000 prize is awarded annually for a meritorious first work by an early-career scholar. Entrants are judged on scholarly significance, interdisciplinary reach, and methodological innovativeness within monographs analyzing past structures and events and change over time. Books with a copyright date of the previous year that are published within eight years of the author's Ph.D. are eligible for consideration.
