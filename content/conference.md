@@ -12,7 +12,8 @@ title = "Annual Conference"
 
 SSHA is now accepting paper and session submissions for the 2022 Annual Conference. Please visit our <a href="http://ssha2022.ssha.org/" target="_blank"><b>2022 SSHA SUBMISSION PORTAL</b></a> to submit a paper, session proposal, or a book session/roundtable. The submission deadline is February 16, 2022.  
 
-**PLEASE NOTE: you must first log in to the: <a href="http://ssha2022.ssha.org/" target="_blank">2022 SSHA SUBMISSION PORTAL</a> in order to submit a paper, a full session, or a book session/roundtable for the conference.**  
+<br />
+**PLEASE NOTE: you must first log in to the <a href="http://ssha2022.ssha.org/" target="_blank">2022 SSHA SUBMISSION PORTAL</a> in order to submit a paper, a full session, or a book session/roundtable for the conference.**  
 
 <br />
 - *Instructions for submitting a paper, a full session, or a book session/roundtable for the conference.*  
