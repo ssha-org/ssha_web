@@ -6,6 +6,46 @@ title = "SSHA News"
 
 ## **SSHA News**  
 
+<hr width=300; align=left>  
+
+<p><font size="3"><i>February 16, 2022</i></font></p>
+<h3><b>Conference & Submission Updates from SSHA President Julian Go</b></h3>
+<br />
+<p><font size="4">Dear Friends,</font></p>  
+
+<p><font size="4">I am delighted to serve as your President this year and to alert you to some important information about the upcoming SSHA Annual Conference, “Reverberations of Empire: Histories, Legacies & Lineages,” to be held in Chicago, November 17-20, 2022.</p>  
+
+<p><font size="4"><b>Submission Deadline</b><br />
+The deadline for submission to the Annual Conference has been extended from February 16, 2022 to March 4, 2022. More information on the conference, submission and the submission portal can be found at <a href="http://ssha2022.ssha.org/" target="_blank"><b>http://ssha2022.ssha.org/</b></a></font></p>  
+
+<p><font size="4"><b>Format</b><br />
+Our 2021 meetings were hybrid and were, comparatively speaking, a success. While there were sporadic technical glitches, as might be expected, the technology was of the highest standard, thanks to the team at Indiana University Conferences. But we recognize the value of in-person meetings which provide important social and networking opportunities that we all prize. Therefore, we are planning for our 2022 meeting to be in-person (COVID restrictions permitting). We are currently exploring options for virtual capabilities to allow participation from members who might not attend otherwise. But at this point we are not exactly sure what that configuration will look like, or if and how it might occur at all. Holding a fully equipped hybrid meeting is very expensive, with significant added costs to the Association. This, alongside the typical expectation that the registration cost for virtual attendance be less than the cost of in-person attendance, makes hybrid meetings all the more complicated to support financially. We hope to have some clarification on this before registration begins. For now, I invite those of you who wish to participate contingent upon virtual capabilities to nonetheless get the process rolling by submitting your papers and panels. There is no financial cost to submission.  
+</font></p> 
+
+<p><font size="4"><b>Registration Fees</b><br />
+Given the uncertainty of the conference format, as well as the financial burden of hosting a hybrid meeting, we cannot at this point predict whether the registration fees will align with past fees. The Association, however, is committed to making the conference fees affordable for all who wish to participate, and, in particular, to finding ways to limit the financial burden on students as well as postdoctoral researchers and contingent, non-tenure track faculty. We plan also to consider the feasibility of a sliding fee scale (perhaps based upon rank or salary). We are currently trying to work through the many complexities and hope to reach an amenable solution before registration opens for the 2022 meeting.</font></p>
+
+<p><font size="4"><b>Conference Program Committee</b><br />
+Finally, I’d like you to join me in thanking the Association’s officers: Vice President Anne McCants, Executive Director William Block, and Treasurer Damon Mayrl. And a special thanks to this year’s Network Representatives--who comprise the heart of the Program Committee--for their hard work in such uncertain times. Our annual meetings would not be possible without their immense labor (which, by the way, is done on a volunteer basis), so they are deserving of all our gratitude. The program co-chairs are:</font></p>  
+
+- [Cristina Groeger](mailto:groeger@lakeforest.edu)  
+Lake Forest College  
+- [Ricarda Hammer](mailto:ricarda@umich.edu)  
+University of Michigan
+- [Ho-Fung Hung](mailto:hofung@jhu.edu)  
+Johns Hopkins University
+- [George Lawson](mailto:George.Lawson@anu.edu.au)  
+Australian National University
+- [Alexandre White](mailto:alexandrewhite@jhu.edu)  
+Johns Hopkins University  
+
+
+<p><font size="4">Looking forward to seeing you in Chicago in November 2022.</font></p>  
+
+Sincerely,  
+Julian</font></p><br />  
+
+
 <hr width=300; align=left>
 
 <p><font size="3"><i>November 14, 2021</i></font></p>
