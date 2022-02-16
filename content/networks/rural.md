@@ -25,5 +25,5 @@ At the annual meeting, there is a scheduled network meeting where ideas for the 
 
 ### Network Representatives
 
-- [Susan Hautaniemi Leonard](mailto:hautanie@umich.edu)
+- [Amanda McMillan Lequieu ](mailto:aml524@drexel.edu)
 - [Josh MacFadyen](mailto:jdmacfadyen@upei.ca)
