@@ -11,23 +11,6 @@ The Labor Network of the Social Science History Association (SSHA) brings togeth
 
 Embracing "worker self-organization" as a principle for SSHA conferences and democratic collaborative in its practice, the labor network aims to not only provide a forum for intellectual exchange on labor and labor movements, but also to encourage networking, mentoring, and active support for our shared research interests. Our network has common interests with most SSHA networks and organizes and crosslists panels across network lines.
 
-The Labor Network continues to be interested in the following topics looking ahead to the 2020 conference in Washington, DC, November 19-22:
-
-- Comparative labor history and politics
-- Gender, race, and working-class movements
-- Career Diversity and the Shifting Labor Market in Higher Education
-- Politicization of Police Unions
-- Mass Incarceration and Class and Labor Politics
-- "Fake News" and the Labor Movement
-- Global Anti-Fascism
-- Left and Right Populism and the Working Classes
-- Health and Class Inequality: The Opioid Epidemic, Declining Life Expectancy, and Working-Class Bodies
-- Queering Labor History
-- Digital Labor and Working-Class History Projects
-- New Frontiers for Labor Organizing
-- Anniversaries:  World War I Russian Revolution
-- Politics and Working-Class Movements in the Middle East and North Africa and Globally
-
 ### Network Representatives
 
 - [Christina Groeger](mailto:groeger@lakeforest.edu)
