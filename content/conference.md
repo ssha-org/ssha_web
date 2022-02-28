@@ -62,7 +62,7 @@ Melissa Kocias
 
 **Important!!**
 
-SSHA recognizes that you have a number of options when securing hotel accommodations for the annual meeting.  It is important to keep in mind that SSHA has made a major commitment to the Palmer House Hilton in order to secure a large block of quality hotel rooms at competitive prices in a convenient location.  SSHA is legally bound to fill these rooms.  Not to do so has severe financial implications for SSHA, both in 2022 and in years to come and will almost certainly raise your costs of attending future annual meetings.  If you require a hotel in Philadelphia, we would very much appreciate it if you would reserve your room at the Palmer House Hilton.  
+SSHA recognizes that you have a number of options when securing hotel accommodations for the annual meeting.  It is important to keep in mind that SSHA has made a major commitment to the Palmer House Hilton in order to secure a large block of quality hotel rooms at competitive prices in a convenient location.  SSHA is legally bound to fill these rooms.  Not to do so has severe financial implications for SSHA, both in 2022 and in years to come and will almost certainly raise your costs of attending future annual meetings.  If you require a hotel in Chicago, we would very much appreciate it if you would reserve your room at the Palmer House Hilton.  
 
 <i>Palmer House Hilton  
 17 East Monroe Street  
