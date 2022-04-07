@@ -77,7 +77,7 @@ The Association promotes high quality scholarship through its awards program, wh
 
 **Richard Sutch Student Travel Awards**  
 
-The _Richard Sutch Student Travel Awards_ application will be available for the 2022 SSHA annual conference in the spring of 2022. The deadline for applying is **TBD**.  
+The _Richard Sutch Student Travel Awards_ application will be available for the 2022 SSHA annual conference in the spring of 2022. The deadline for applying is **April 15, 2022**. To apply, please complete the application form at: <a href="https://forms.gle/4rWx4wKiv5rxWAbY9" target="_blank">Richard Sutch Student Travel Awards</a>  
 
 ### Future Conferences
 
