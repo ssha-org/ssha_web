@@ -8,24 +8,6 @@ title = "Annual Conference"
 
 <hr width=300; align=left>
 
-### 2022 Annual Conference submissions now open  
-
-SSHA is now accepting paper and session submissions for the 2022 Annual Conference. Please visit our <a href="http://ssha2022.ssha.org/" target="_blank"><b>2022 SSHA SUBMISSION PORTAL</b></a> to submit a paper, session proposal, or a book session/roundtable. The submission **deadline has been extended to March 4th, 2022**.  
-
-<br />
-**PLEASE NOTE: you must first log in to the <a href="http://ssha2022.ssha.org/" target="_blank">2022 SSHA SUBMISSION PORTAL</a> in order to submit a paper, a full session, or a book session/roundtable for the conference.**  
-
-<br />
-- *Instructions for submitting a paper, a full session, or a book session/roundtable for the conference.*  
-
-    - <a href=https://ssha2022.ssha.org/hps/SSHA-Submittingapaper.pdf target="_blank">How to submit a paper to the SSHA conference</a>
-
-    - <a href=https://ssha2022.ssha.org/hps/SSHA-Submittingasession.pdf  target="_blank">How to submit a full session to the SSHA conference</a>
-
-    - <a href=https://ssha2022.ssha.org/hps/SSHA-Submittingabooksession.pdf  target="_blank">How to submit a book session/roundtable to the SSHA conference</a><br />  
-
-The 2022 conference will be held in Chicago on November 17-20, at the Palmer House Hilton. This will mark the 48th annual meeting of the Social Science History Association. The conference theme this year is “Reverberations of Empire: Histories, Legacies & Lineages.” The 2022 SSHA Call for Papers is available here: [2022 SSHA Call for Papers](/files/2022_SSHA_CFP.pdf).  
-
 ### Registration
 
 SSHA requires that all session participants register for the annual meeting and be (or become) members of the SSHA.  If your membership is not current, you will not be able to register for the conference as a member.  Please sign up for membership, or renew your membership prior to filling out the conference registration form.
