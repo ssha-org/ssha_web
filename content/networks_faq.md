@@ -8,9 +8,7 @@ title = "Networks"
 
 <hr width=300; align=left>
 
-- How do I submit a paper, a full session, or a book session/roundtable for the conference?<br />  
-
-    - **To submit a paper, a full session, or a book session/roundtable for the conference, you must first log in to the:  <a href="http://ssha2022.ssha.org/" target="_blank">2022 SSHA SUBMISSION PORTAL</a>**  
+- How do I submit a paper, a full session, or a book session/roundtable for the conference?<br />   
 
     - <a href=https://ssha2022.ssha.org/hps/SSHA-Submittingapaper.pdf target="_blank">How to submit a paper to the SSHA conference</a>
 
