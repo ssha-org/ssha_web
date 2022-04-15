@@ -6,7 +6,7 @@ title = "Social Science History"
 
 ## Allan Sharlin Memorial Book Award  
 
-Submissions for the Allan Sharlin Memorial Book Award are now open. Books published in 2021 are eligible for consideration. Submissions with a postmark of TBA (or earlier) will be accepted. Late entries will not be considered. Authors or publishers wishing to nominate a book should mail a book to each member of the award committee. Self-nominations are accepted. 
+**Submissions for the Allan Sharlin Memorial Book Award are now open.** Books published in 2021 are eligible for consideration. Submissions with a postmark of TBA (or earlier) will be accepted. Late entries will not be considered. Authors or publishers wishing to nominate a book should mail a book to each member of the award committee. Self-nominations are accepted. 
  
 A $1,000 prize is awarded annually for an outstanding book in social science history to honor the memory of Allan Sharlin. Allan exemplified the finest traditions of social science history. His training and scholarship were broadly interdisciplinary and he used both quantitative and more traditional methodologies.  
 
@@ -14,7 +14,7 @@ Authors or publishers wishing to nominate a book should mail copies to each memb
 
 ### Award Committee  
 
-- Steven J. Pfaff  
+- Steven J. Pfaff (Chair)  
 Department of Sociology  
 University of Washington  
 211 Savery Hall, Box 353340  
