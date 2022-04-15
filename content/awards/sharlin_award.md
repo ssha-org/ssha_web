@@ -6,13 +6,33 @@ title = "Social Science History"
 
 ## Allan Sharlin Memorial Book Award  
 
-Submissions for the Allan Sharlin Memorial Book Award are now open. Books published in 2019 and 2020 are eligible for consideration. Submissions with a postmark of April 30th (or earlier) will be accepted. Late entries will not be considered. Authors or publishers wishing to nominate a book should mail a book to each member of the award committee. Self-nominations are accepted. 
+Submissions for the Allan Sharlin Memorial Book Award are now open. Books published in 2021 are eligible for consideration. Submissions with a postmark of TBA (or earlier) will be accepted. Late entries will not be considered. Authors or publishers wishing to nominate a book should mail a book to each member of the award committee. Self-nominations are accepted. 
  
 A $1,000 prize is awarded annually for an outstanding book in social science history to honor the memory of Allan Sharlin. Allan exemplified the finest traditions of social science history. His training and scholarship were broadly interdisciplinary and he used both quantitative and more traditional methodologies.  
- 
-**Please note:** the 2022 award committees are still being formed. Please check back periodically for updates.
 
-### Award Committee (in process)  
+Authors or publishers wishing to nominate a book should mail copies to each member of the award committee.  
+
+### Award Committee  
+
+- Steven J. Pfaff  
+Department of Sociology  
+University of Washington  
+211 Savery Hall, Box 353340  
+Seattle, WA 98195-3340  
+pfaff@uw.edu  
+
+- Andrew G. Walder  
+Department of Sociology  
+Stanford University  
+Stanford, CA 94305-2047  
+walder@stanford.edu  
+
+- Diana Magnuson  
+Institute for Social Research & Data Innovation  
+University of Minnesota  
+225 19th Avenue S, 50 Willey Hall  
+Minneapolis, MN 55455  
+magn0031@umn.edu  
 
 - William Block  
 Social Science History Association  
