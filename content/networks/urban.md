@@ -34,5 +34,4 @@ Planning takes place at the urban network business meeting at the conference sit
 
 ### Network Representatives
 
-- [Pranathi Diwakar](mailto:pranathi@uchicago.edu)
 - [Zachary Levenson](mailto:zachary.levenson@uncg.edu)
