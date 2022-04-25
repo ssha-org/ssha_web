@@ -18,4 +18,4 @@ We invite submissions of papers or (preferably) full panels by February. We were
 - [Joyce Burnett](mailto:burnettj@wabash.edu)
 - [Jari Eloranta](mailto:jari.eloranta@helsinki.fi)
 - [Sakari Saaritsa](mailto:Sakari.Saaritsa@helsinki.fi)
-- [Steven Sprick Schuster](mailto:ssprickschuster@colgate.edu)
+- [Peter Meyer](mailto:Meyer.Peter@bls.gov)
