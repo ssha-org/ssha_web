@@ -27,5 +27,4 @@ The submission deadline is February 16, 2020; submissions can be made via the fo
 
 ### Network Representatives
 
-- [Stephanie Mudge](mailto:slmudge@ucdavis.edu)
 - [Tim Thurber](mailto:tnthurber@vcu.edu)
