@@ -11,6 +11,7 @@ The culture network seeks work exploring culture in two ways. First, we are eage
 
 ### Network Representatives
 
-- [Catherine Arnold](mailto:crnold13@memphis.edu)
-- [Barış Büyükokutan](mailto:bbuyukokutan@ku.edu.tr)
 - [Shai Dromi](mailto:shai.dromi@g.harvard.edu)
+- [Tad Skotnicki](tpskotni@uncg.edu)
+- [Elisabeth Becker](elisabeth.becker-topkara@mwi.uni-heidelberg.de)
+- [Robert Woodberry](robert_woodberry@baylor.edu)
