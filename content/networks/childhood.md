@@ -26,6 +26,5 @@ We invite submissions of papers or (preferably) full panels by February.  We esp
 ### Network Representatives
 
 - [Kristine Alexander](mailto:kristine.alexander@uleth.ca)
-- [Elizabeth Dillenburg](mailto:eadillenburg@gmail.com)
-- [Birgitte Søland](mailto:soland.1@osu.edu)
+- [Catherine Ellis](mailto:cellis@ryerson.ca )
 - [Mateusz Świetlicki](mailto:mateusz.swietlicki@uwr.edu.pl)
