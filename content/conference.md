@@ -52,7 +52,7 @@ SSHA recognizes that you have a number of options when securing hotel accommodat
 
 **Reservations**  
 
-SSHA has a special group rate of $189  for both single and double occupancy per night plus tax.  The hotel has set up a special reservation site for the Social Science History Association. **To access the hotel reservation site and make your reservation, please click this link:** <a href="https://book.passkey.com/go/SocialScienceHistory" target="_blank">Hilton Reservations</a>.
+SSHA has a special group rate of $189  for both single and double occupancy per night plus tax.  The hotel has set up a special reservation site for the Social Science History Association. **To access the hotel reservation site to make your reservation, please click the following link:** <a href="https://book.passkey.com/go/SocialScienceHistory" target="_blank">Hilton Reservations</a>.
 
 If you would like to reserve your room before or after the event dates shown, please call the Hilton Reservations Department directly at 1-800-445-8667 and reference group code SSH.  Group rates cannot be guaranteed after October 15, 2022.  
 
