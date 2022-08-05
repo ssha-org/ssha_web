@@ -10,6 +10,8 @@ title = "Social Science History"
  
 A $1,000 prize is awarded annually for an outstanding book in social science history to honor the memory of Allan Sharlin. Allan exemplified the finest traditions of social science history. His training and scholarship were broadly interdisciplinary and he used both quantitative and more traditional methodologies.  
 
+**The submission deadline** for the Allan Sharlin Memorial Book Award is **June 15, 2022.**  
+
 Authors or publishers wishing to nominate a book should mail copies to each member of the award committee.  
 
 ### Award Committee  
