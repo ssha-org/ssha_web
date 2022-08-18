@@ -90,7 +90,7 @@ block@cornell.edu
 &emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp;
 2002  | | Deborah Cohen  | | Northwestern University  | | The War Come Home
 &emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp;
-2001  | | Ann Farnsworth-Alvear  | | University of Pennsylvania  | | Dulcinea in the Factory: Myths, Morals, and Women in Columbia's Industrial Experiment
+2001  | | Ann Farnsworth-Alvear  | | University of Pennsylvania  | | Dulcinea in the Factory: Myths, Morals, and Women in Colombia's Industrial Experiment
 &emsp; | &emsp; | &emsp;| &emsp;
 2000  | | Steve Hochstadt  | | Illinois College  | | Mobility and Modernity
 &emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp;
