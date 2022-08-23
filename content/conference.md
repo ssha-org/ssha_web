@@ -15,7 +15,7 @@ Our 2022 conference will be held in Chicago on November 17-20, 2022.  It will be
 <br />
 <i>Participation & Program</i>   
 
-Acceptances for the program went out by email in June 2022. If you submitted a panel or paper and did not receive an email about its status, please check your “Spam” folder. If you still cannot find it, please log into the submission portal and you can check the status of your submission there (https://ssha2022.ssha.org/).  
+Acceptances for the program went out by email in June 2022. If you submitted a panel or paper and did not receive an email about its status, please check your “Spam” folder. If you still cannot find it, please log into the submission portal and you can check the status of your submission there: https://ssha2022.ssha.org/.  
 
 **The preliminary program is now available online at:** https://ssha2022.ssha.org/. You can browse the preliminary program by Day/Time, Network, and/or Participant.   
 <br />
