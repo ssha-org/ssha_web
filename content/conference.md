@@ -16,14 +16,14 @@ Our 2022 conference will be held in Chicago on November 17-20, 2022.  It will be
 <i>Participation & Program</i>   
 
 Acceptances for the program went out by email in June 2022. If you submitted a panel or paper and did not receive an email about its status, please check your “Spam” folder. If you still cannot find it, please log into the submission portal and you can check the status of your submission there (https://ssha2022.ssha.org/).  
-<br />
-Preliminary program information listing tentative dates and times of sessions will be available by September 1, 2022.  
+
+**The preliminary program is now available online at:** https://ssha2022.ssha.org/. You can browse the preliminary program by Day/Time, Network, and/or Participant.   
 <br />
 <i>Registration</i>
 
 SSHA requires that all session participants register for the annual meeting and be (or become) members of the SSHA.  If your membership is not current, you will not be able to register for the conference as a member.  Please sign up for membership, or renew your membership prior to filling out the conference registration form. Membership information is below, following registration information.  
-<br />
-To register for the 2022 conference, please go to: TBA  
+
+**To register for the 2022 conference, please go to:** <a href="https://indianauniv.ungerboeck.com/prod/emc00/register.aspx?OrgCode=10&EvtID=10985&AppCode=REG&CC=122080803651" target="_blank">SSHA 2022 Conference Registration</a>.  
 
 Registration fee includes admittance to all paper sessions, as well as Thursday and Saturday receptions. All session participants must register for the conference and be (or become) a member of SSHA.  
 
@@ -35,6 +35,18 @@ Registration fee includes admittance to all paper sessions, as well as Thursday 
  
 **Non-Member Price**- $550  
 **Non-Member Student Price**- $100  
+<br />
+**Visa Information:**  
+
+For additional information regarding travel visa’s please visit the U.S. Department of State- Bureau of Consular Affairs link to attain the correct visa for your visit https://travel.state.gov/content/travel/en/us-visas.html. Wait times vary by point of origin. Please plan accordingly.
+
+**Visa Letters:**  
+
+If you require a confirmation letter for your visa application, please send of proof of paid registration, your name as it appears on your passport, and your current address to: 
+<iuconfs@iu.edu> 
+
+<u>Please DO NOT send birthdate or passport numbers.</u>  
+
 <br />
 <i>Membership</i>  
 
@@ -56,14 +68,16 @@ Melissa Kocias
 <br />  
 <i>Hotel Information & Reservations</i>  
 
-SSHA recognizes that you have a number of options when securing hotel accommodations for the annual meeting.  It is important to keep in mind that SSHA has made a major commitment to the Palmer House Hilton in order to secure a large block of quality hotel rooms at competitive prices in a convenient location.  SSHA is legally bound to fill these rooms.  Not to do so has severe financial implications for SSHA, both in 2022 and in years to come and will almost certainly raise your costs of attending future annual meetings.  If you require a hotel in Chicago, we would very much appreciate it if you would reserve your room at the Palmer House Hilton.  
+SSHA recognizes that you have a number of options when securing hotel accommodations for the annual meeting.  It is important to keep in mind that SSHA has made a major commitment to the Palmer House Hilton in order to secure a large block of quality hotel rooms at competitive prices in a convenient location.  SSHA is legally bound to fill these rooms.  Not to do so has severe financial implications for SSHA, both in 2022 and in years to come and will almost certainly raise your costs of attending future annual meetings.  If you require a hotel in Chicago, we would very much appreciate it if you would reserve your room at the Palmer House Hilton.   
 &emsp;  
-SSHA has a special group rate for both single and double occupancy per night plus tax. Group rates cannot be guaranteed after October 15, 2022.  
-&emsp;  
-The hotel has set up a special reservation site for the Social Science History Association. **To access the hotel reservation site to make your reservation, please click the following link:** <a href="https://book.passkey.com/go/SocialScienceHistory" target="_blank">Hilton Reservations</a>.  
-&emsp;  
-If you would like to reserve your room before or after the event dates shown, please call the Hilton Reservations Department directly at 1-800-445-8667 and reference group code SSH.  Group rates cannot be guaranteed after October 15, 2022.  
+Reserve your hotel room at the Palmer House by Hilton, located on the Magnificent Mile which is Chicago’s premier commercial district. The vibrant, bustling area is home to upscale shops, luxe fashion outlets, with fine dining and gorgeous panoramic city views.  
 
+SSHA attendees receive a discounted hotel rate of $189.00++ per night. Make your reservation before October 14, 2022, to take advantage of hotel availability and rate. Prices and availability will not be guaranteed after October 14, so make your reservation soon to take advantage of the discounted conference rate.  
+
+**To access the hotel reservation site to make your reservation, please click the following link:** <a href="https://book.passkey.com/go/SocialScienceHistory" target="_blank">SSHA Hilton Reservations</a>.  
+&emsp;  
+If you would like to reserve your room before or after the event dates shown, please call the Hilton Reservations Department directly at 1-800-445-8667 and reference group code: SSH.    
+&emsp;  
 <i>Palmer House Hilton  
 17 East Monroe Street  
 Chicago, Illinois 60603  
@@ -82,4 +96,4 @@ The _Richard Sutch Student Travel Awards_ application will be available for the 
 - Washington, DC, USA, November 16-19, 2023  
 - Philadelphia, PA, USA: TBD, 2024
 
-**Past Conference Programs >>** https://ssha.org/programs/  
+**Past Conference Programs>>** https://ssha.org/programs/  
