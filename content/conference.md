@@ -36,13 +36,14 @@ Registration fee includes admittance to all paper sessions, as well as Thursday 
 **Non-Member Price**- $550  
 **Non-Member Student Price**- $100  
 <br />
+
 **Visa Information:**  
 
 For additional information regarding travel visa’s please visit the U.S. Department of State- Bureau of Consular Affairs link to attain the correct visa for your visit https://travel.state.gov/content/travel/en/us-visas.html. Wait times vary by point of origin. Please plan accordingly.
 
 **Visa Letters:**  
 
-If you require a confirmation letter for your visa application, please send of proof of paid registration, your name as it appears on your passport, and your current address to: 
+If you require a confirmation letter for your visa application, please send proof of paid registration, your name as it appears on your passport, and your current address to: 
 <iuconfs@iu.edu> 
 
 <u>Please DO NOT send birthdate or passport numbers.</u>  
