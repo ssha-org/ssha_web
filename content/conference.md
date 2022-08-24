@@ -26,6 +26,15 @@ SSHA requires that all session participants register for the annual meeting and 
 **To register for the 2022 conference, please go to:** <a href="https://indianauniv.ungerboeck.com/prod/emc00/register.aspx?OrgCode=10&EvtID=10985&AppCode=REG&CC=122080803651" target="_blank">SSHA 2022 Conference Registration</a>.  
 
 Registration fee includes admittance to all paper sessions, as well as Thursday and Saturday receptions. All session participants must register for the conference and be (or become) a member of SSHA.  
+<br />
+<i>Format</i>  
+
+The SSHA will have fully hybrid capabilities (just as with the 2021 meetings). We hope this will permit those who cannot travel for health reasons or other concerns, students, and foreign members who cannot come to Chicago to participate. It also means that anyone around the world can see all of the sessions at the SSHA should they choose to.  
+
+**Please note that the registration fee for virtual participants is the same as for in-person attendance.**  
+
+We hope participants will understand that a fully hybrid conference is incredibly expensive. It is more costly than having an in-person conference. This is because of the added technical and labor costs, as well as the potential loss of hotel room revenue (the SSHA had made agreements years ago with the Palmer House Hilton to meet a quota of reserved rooms and if that quota is not met the Association has to pay for the losses). I understand this will be disappointing to some but we hope that the savings virtual participants will get on travel, hotel and related expenses will compensate for having to pay the regular registration fee.  
+<br />
 
 **Conference Registration Member Price:**  
 1. Senior/Tenured: $450  
