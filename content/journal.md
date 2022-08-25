@@ -43,18 +43,15 @@ For further information, please visit: https://www.cambridge.org/core/journals/s
 
 ### Featured Articles
   
-Daniel Seligson and Anne E. C. McCants "[Polygamy, the Commodification of Women, and Underdevelopment](https://doi.org/10.1017/ssh.2021.23)" *Social Science History* &nbsp;(Forthcoming 2022), pp. 1-34.  **Open Access Article**  
+Claire Lemercier and Francesca Trivellato "[1751 and Thereabout: A Quantitative and Comparative Approach to Notarial Records](https://doi.org/10.1017/ssh.2022.8)" *Social Science History* &nbsp;46 (3), pp. 555-83.  **Open Access Article**  
 <br />
 
-Miguel Carmo and Tiago Domingos "[Agricultural Expansion, Soil Degradation, and Fertilization in Portugal, 1873–1960: From History to Soil and Back Again.](https://doi.org/10.1017/ssh.2021.28)" *Social Science History* &nbsp;(Forthcoming 2021), pp. 1-28.  **First View**  
-<br />
-
-Dylan Riley, Rebecca Jean Emigh and Patricia Ahmed  "[The Social Foundations of Positivism: The Case of Late-Nineteenth-Century Italy,](https://doi.org/10.1017/ssh.2021.22)" *Social Science History* &nbsp;(Forthcoming 2022), pp. 1-30.  **First View**  
+ María-Isabel Ayuda, Javier Puche, and José Miguel Martínez-Carrión "[Select Determinants of Nutritional Differences in Mediterranean Rural Spain, 1840–1965 Birth Cohorts: A Comparison between Irrigated and Dry Farming Agriculture.](https://doi.org/10.1017/ssh.2022.11)" *Social Science History* &nbsp;46 (3), pp. 585-616.  **Open Access Article**  
 <br />
   
 ### Current Issue
 
-Winter 2021, Volume 45 -- Issue 4  
+Fall 2022, Volume 45 -- Issue 3  
 https://www.cambridge.org/core/journals/social-science-history/latest-issue  
 
-![Current Issue](/images/SSH_45-4.jpg)
+![Current Issue](/images/SSH_46-3.jpg)
