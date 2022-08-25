@@ -51,7 +51,7 @@ Claire Lemercier and Francesca Trivellato "[1751 and Thereabout: A Quantitative 
   
 ### Current Issue
 
-Fall 2022, Volume 45 -- Issue 3  
+Fall 2022, Volume 46 -- Issue 3  
 https://www.cambridge.org/core/journals/social-science-history/latest-issue  
 
 ![Current Issue](/images/SSH_46-3.jpg)
