@@ -8,6 +8,53 @@ title = "SSHA News"
 
 <hr width=300; align=left>  
 
+<p><font size="3"><i>24 August 2022, Chicago</i></font></p>
+<h3><b>2022 Conference Updates from SSHA President Julian Go</b></h3>
+<br />
+<p><font size="4">Dear Friends,</font></p>  
+
+<p><font size="4">I am delighted to serve as your President this year and to provide you with the latest updates regarding the upcoming SSHA Annual Conference, “Reverberations of Empire: Histories, Legacies & Lineages,” to be held in Chicago in November 17-20, 2022, at the Palmer House Hilton. The information below can also be found at: <a href="https://ssha.org/conference/">https://ssha.org/conference/</a>.</font></p>  
+
+<p><font size="4"><i><b>Participation & Preliminary Program Information</b></i><br />
+The preliminary program is now available online at <a href="https://ssha2022.ssha.org/">https://ssha2022.ssha.org/</a>. You can browse the preliminary program by Day/Time, Network, and/or Participant.</font></p>  
+
+<p><font size="4">Acceptances for the program went out by email in June 2022. If you submitted a panel or paper and did not receive an email about its status, please check your “Spam” folder. If you still cannot find it, please log into the submission portal and you can check the status of your submission there (<a href="https://ssha2022.ssha.org/">https://ssha2022.ssha.org/</a>) or contact the Representative of the Network where you submitted your paper. Network and Representatives can be found at: <a href="https://ssha.org/networks/">https://ssha.org/networks/</a>.</font></p>  
+
+<p><font size="4"><i><b>Registration</b></i><br />
+We are pleased to announce that this year we have instituted a gradated registration system to account for differences among the SSHA membership. For more information please see <a href="https://ssha.org/conference/">https://ssha.org/conference/</a>. You can also register directly at the <a href="https://indianauniv.ungerboeck.com/prod/emc00/register.aspx?OrgCode=10&EvtID=10985&AppCode=REG&CC=122080803651" target="_blank">conference registration page</a>.</font></p>  
+
+<p><font size="4">SSHA requires that all session participants register for the annual meeting and be (or become) members of the SSHA.  If your membership is not current, you will not be able to register for the conference as a member.  <b>Please sign up for membership or renew your membership prior to filling out the conference registration form.</b> To sign up for an SSHA membership, please visit the <a href="https://indianauniv-web.ungerboeck.com/mbd/mbd_p23_add_member.aspx?oc=10&cc=SSHA-MEMBER" target="_blank">SSHA membership registration website</a>.</font></p>  
+
+<p><font size="4"><i><b>Hotel</b></i><br />
+The SSHA has made a major commitment to the Palmer House Hilton in order to secure a large block of quality hotel rooms at competitive prices in a convenient location. SSHA is legally bound to fill these rooms. Not to do so has severe financial implications for SSHA, both in 2022 and in years to come and will almost certainly raise your costs of attending future annual meetings. If you require a hotel in Chicago, we would very much appreciate it if you would reserve your room at the Palmer House Hilton. SSHA has a special group rate for both single and double occupancy per night plus tax. Group rates cannot be guaranteed after October 15, 2022.</font></p>  
+
+<p><font size="4">The hotel has set up a special reservation site for the Social Science History Association. To access the hotel reservation site to make your reservation, please click the following link: <a href="https://book.passkey.com/go/SocialScienceHistory" target="_blank">Hilton Reservations</a>.</font></p>  
+
+<p><font size="4"><i><b>Format</b></i><br />  
+The SSHA will have fully hybrid capabilities (just as with the 2021 meetings). We hope this will permit those who cannot travel for health reasons or other concerns, students, and foreign members who cannot come to Chicago to participate. It also means that anyone around the world can see all of the sessions at the SSHA should they choose to.</font></p>  
+
+<p><font size="4">Please note that registration fee for virtual participants is the same as for in-person attendance. We hope participants will understand that a fully hybrid conference is incredibly expensive. It is more costly than having an in-person conference. This is because of the added technical and labor costs, as well as the potential loss of hotel room revenue (the SSHA had made agreements years ago with the Palmer House Hilton to meet a quota of reserved rooms and if that quota is not met the Association has to pay for the losses). I understand this will be disappointing to some but we hope that the savings virtual participants will get on travel, hotel and related expenses will compensate for having to pay the regular registration fee.</font></p>  
+
+<p><font size="4">Finally, a special thanks goes out to our conference co-chairs who have done an incredible job so far:</font></p>  
+
+- Cristina Groeger  
+- Ricarda Hammer  
+- Ho-Fung Hung  
+- George Lawson  
+- Alexandre White  
+
+<p><font size="4">Thanks also to Cristian Rodriguez for handling the program software and Jeffrey Beemer for keeping the website updated. And thanks also to the Network Represenatives, Damon Maryl, William Block, the IU Conferences team and VP Anne McCants for helping with all of the conference preparations.</font></p>  
+
+<p><font size="4">I look forward to seeing you all in November!</font></p>  
+<br />
+<p><font size="4">Best wishes,<br />
+Julian Go<br />
+SSHA President 2022</font></p><br />  
+
+
+<hr width=300; align=left>
+
+
 <p><font size="3"><i>February 16, 2022</i></font></p>
 <h3><b>Conference & Submission Updates from SSHA President Julian Go</b></h3>
 <br />

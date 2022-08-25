@@ -82,7 +82,7 @@ SSHA recognizes that you have a number of options when securing hotel accommodat
 &emsp;  
 Reserve your hotel room at the Palmer House by Hilton, located on the Magnificent Mile which is Chicago’s premier commercial district. The vibrant, bustling area is home to upscale shops, luxe fashion outlets, with fine dining and gorgeous panoramic city views.  
 
-SSHA attendees receive a discounted hotel rate of $189.00++ per night. Make your reservation before October 14, 2022, to take advantage of hotel availability and rate. Prices and availability will not be guaranteed after October 14, so make your reservation soon to take advantage of the discounted conference rate.  
+SSHA attendees receive a discounted hotel rate of $189.00++ per night. Make your reservation before October 15, 2022, to take advantage of hotel availability and rate. Prices and availability will not be guaranteed after October 15, so make your reservation soon to take advantage of the discounted conference rate.  
 
 **To access the hotel reservation site to make your reservation, please click the following link:** <a href="https://book.passkey.com/event/50326880/owner/1455/home" target="_blank">SSHA Hilton Reservations</a>.  
 &emsp;  
