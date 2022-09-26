@@ -4,7 +4,7 @@ title = "Annual Conference"
 
 +++
 
-### **!!!** <a href="https://indianauniv.ungerboeck.com/prod/emc00/register.aspx?OrgCode=10&EvtID=10985&AppCode=REG&CC=122080803651" target="_blank">SSHA 2022 Conference Registration</a> **!!!**
+### <h2><a href="https://indianauniv.ungerboeck.com/prod/emc00/register.aspx?OrgCode=10&EvtID=10985&AppCode=REG&CC=122080803651" target="_blank" role="button" class="btn btn-default btn-lg"><i><h2>2022 SSHA Conference Registration</h2></i></a></h2>
 
 ### **ABOUT THE SSHA ANNUAL CONFERENCE**  
 
