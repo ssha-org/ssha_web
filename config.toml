@@ -40,7 +40,7 @@ cloudFrontDistributionID =  "E1R2XXNL0UQGFN"
 
 [[menu.main]]
     url = "/conference/"
-    name = "Conference"
+    name = "Conference Registration"
     weight = 3
 
 [[menu.main]]
