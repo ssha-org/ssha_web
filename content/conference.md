@@ -23,11 +23,14 @@ Acceptances for the program went out by email in June 2022. If you submitted a p
 <br />
 <i>Registration</i>
 
-SSHA requires that all session participants register for the annual meeting and be (or become) members of the SSHA.  If your membership is not current, you will not be able to register for the conference as a member.  Please sign up for membership, or renew your membership prior to filling out the conference registration form. Membership information is below, following registration information.  
+Registration fees include admittance to all paper sessions, as well as Thursday and Saturday receptions. All session participants must register for the conference and be (or become) a member of SSHA.  
 
-**To register for the 2022 conference, please go to:** <a href="https://indianauniv.ungerboeck.com/prod/emc00/register.aspx?OrgCode=10&EvtID=10985&AppCode=REG&CC=122080803651" target="_blank">SSHA 2022 Conference Registration</a>.  
+**This year the SSHA is pleased to introduce a sliding scale of registration fees which reduces the cost of registration for contingent/adjunct/post docs/students and tenure track ASTPs.**  
 
-Registration fee includes admittance to all paper sessions, as well as Thursday and Saturday receptions. All session participants must register for the conference and be (or become) a member of SSHA.  
+If your membership is not current, you will not be able to register for the conference as a member.  Please sign up for membership, or renew your membership prior to filling out the conference registration form. Membership information is below, following registration information.  
+
+**To register for the 2022 conference, please go to:** &emsp;<a href="https://indianauniv.ungerboeck.com/prod/emc00/register.aspx?OrgCode=10&EvtID=10985&AppCode=REG&CC=122080803651" target="_blank">SSHA 2022 Conference Registration</a>.
+
 <br />
 <i>Format</i>  
 
