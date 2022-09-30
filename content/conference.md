@@ -29,7 +29,7 @@ Registration fees include admittance to all paper sessions, as well as Thursday 
 
 If your membership is not current, you will not be able to register for the conference as a member.  Please sign up for membership, or renew your membership prior to filling out the conference registration form. Membership information is below, following registration information.  
 
-**To register for the 2022 conference, please go to:** &emsp;<a href="https://indianauniv.ungerboeck.com/prod/emc00/register.aspx?OrgCode=10&EvtID=10985&AppCode=REG&CC=122080803651" target="_blank">SSHA 2022 Conference Registration</a>.
+**To register for the 2022 conference, please go to:**&emsp;<a href="https://indianauniv.ungerboeck.com/prod/emc00/register.aspx?OrgCode=10&EvtID=10985&AppCode=REG&CC=122080803651" target="_blank">SSHA 2022 Conference Registration</a>.
 
 <br />
 <i>Format</i>  
