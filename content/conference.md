@@ -48,7 +48,7 @@ We hope participants will understand that a fully hybrid conference is incredibl
 4. Student: $65  
  
 **Non-Member Price**- $550  
-**Non-Member Student Price**- $100  
+**Non-Member Student Price**- $25 **(for students who are not presenting papers; student presenters should sign up for SSHA membership and pay the Student registration).**   
 <br />
 
 **Visa Information:**  
