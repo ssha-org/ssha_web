@@ -4,6 +4,6 @@ title = "Program Summary"
 
 +++
 
-### <a href="https://ssha2022.ssha.org/summary" target="_blank">SSHA Annual Meeting Program Summary</a>  
+### <a href="https://ssha2022.ssha.org/summary" target="_blank">SSHA Annual Conference Program Summary</a>  
 
 <hr width="100">  
