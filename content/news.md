@@ -8,6 +8,28 @@ title = "SSHA News"
 
 <hr width=300; align=left>  
 
+<p><font size="3"><i>27 Ocotber 2022, Chicago</i></font></p>
+<h3><b>Conference Update from SSHA President Julian Go</b></h3>
+<br />
+<p><font size="4">Dear Friends,</font></p>  
+
+<p><font size="4">I am so looking forward to welcoming all of you back to Chicago’s historic Palmer House for the 2022 Annual Meeting of the Social Science History Association. This email is to provide you with some information that may help with your planning.</font></p>  
+
+<p><font size="4"><b><i>1.</i></b> The preliminary program has been available online (ssha.org) but I’m pleased to say that the final program will soon be available. We will also make available an app for your smart devices that will have the program information and schedule.</font></p>  
+
+<p><font size="4"><b><i>2.</i></b> Beyond the regular sessions, there will plenty of other exciting events to attend: I will be giving the Presidential Address, “The Presence of Imperial Pasts,” on Saturday 19th in the Monroe Room at 6:30 pm that will be followed by food and drink at the President’s Reception. Prior to the Address, the Business Meeting will be hold at 6:00 pm in the Monroe Room. On Thursday evening at 6 pm, the Opening Reception will offer an opportunity for us to see old friends and make new ones over nibbles and beverages. On Friday, the Networks will hold their organizational meetings and everyone is invited to join (12 and 12:45 pm).</font></p>  
+
+<p><font size="4"></font><b><i>3.</i></b> For non-member students who are not presenting at the meetings but want to attend, either in-person or virtually, there is a special registration rate of $25. Do encourage your students and friends. See <a href="https://ssha.org/conference/" target="_blank">https://ssha.org/conference/</a> for more.</p>  
+
+<p><font size="4">I look forward to seeing you all,</font></p>  
+<br />
+Julian Go<br />
+University of Chicago<br />
+2022 President of the Social Science History Association</font></p><br />  
+
+
+<hr width=300; align=left>  
+
 <p><font size="3"><i>24 August 2022, Chicago</i></font></p>
 <h3><b>2022 Conference Updates from SSHA President Julian Go</b></h3>
 <br />
