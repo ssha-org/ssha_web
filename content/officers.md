@@ -4,7 +4,7 @@ title = "SSHA Officers"
 
 +++
 
-### 2021-2022 Officers
+### 2022-2023 Officers
 
 **President**  
 Anne McCants  
