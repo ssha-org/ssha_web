@@ -12,9 +12,7 @@ The Association awards two annual prizes for outstanding books in social science
 
 ### Presidents Book Award
 
-A $1000 prize is awarded annually for a meritorious first work by an early-career scholar. Entrants are judged on scholarly significance, interdisciplinary reach, and methodological innovativeness within monographs analyzing past structures and events and change over time. Books with a copyright date of the previous year that are published within eight years of the author's Ph.D. are eligible for consideration.  
-
-**Please note:** the 2022 award committee for the __*Presidents*__ book award is still being formed. Please check back periodically for updates.  
+A $1000 prize is awarded annually for a meritorious first work by an early-career scholar. Entrants are judged on scholarly significance, interdisciplinary reach, and methodological innovativeness within monographs analyzing past structures and events and change over time. Books with a copyright date of the previous year that are published within eight years of the author's Ph.D. are eligible for consideration.   
 
 **2020 Winner:**  James Poskett, <a href="https://press.uchicago.edu/ucp/books/book/chicago/M/bo38181419.html" target="_blank"><i>Materials of the Mind: Phrenology, Race, and the Global History of Science, 1815-1920.</i></a>   University of Chicago Press (April 26, 2019)
 
@@ -25,29 +23,13 @@ A $1000 prize is awarded annually for a meritorious first work by an early-caree
 
 A $1,000 prize is awarded annually for an outstanding book in social science history to honor the memory of Allan Sharlin. Allen exemplified the finest traditions of social science history. His training and scholarship were broadly interdisciplinary and he used both quantitative and more traditional methodologies. Books published in the previous year are eligible for consideration.  
 
-**Submissions for the Allan Sharlin Memorial Book Award have now closed**. Please visit the [Allan Sharlin Memorial Book Award](/awards/sharlin_award/)  
+Please visit the [Allan Sharlin Memorial Book Award](/awards/sharlin_award/)    
 
-**The submission deadline** for the Allan Sharlin Memorial Book Award is **June 15, 2022.**  
-<br />  
+**2022 Winner:**  Martha Wilfahrt <a href="https://www.cambridge.org/core/books/precolonial-legacies-in-postcolonial-politics/AC53415517557472924C75C1BE2915D0#" target="_blank"><i>Precolonial Legacies in Postcolonial Politics. Representation and Redistribution in Decentralized West Africa.</i></a>Cambridge University Press (August 2021)   
 
-**2020 Winner:**  Andrew G. Walder <a href="https://www.hup.harvard.edu/catalog.php?isbn=9780674238329" target="_blank"><i>Agents of Disorder. Inside China’s Cultural Revolution.</i></a>
-Harvard University Press (October 8, 2019)   
-<br />
+**2022 Honorable Mentions:** Elisabeth Anderson <a href="https://press.princeton.edu/books/paperback/9780691220895/agents-of-reform" target="_blank"><i>Agents of Reform: Child Labor and the Origins of the Welfare State.</i></a> Princeton University Press (October 12, 2021)  
 
-**2020 Honorable Mentions:** Amy C. Offner, <a href="https://press.princeton.edu/books/hardcover/9780691190938/sorting-out-the-mixed-economy" target="_blank"><i>Sorting Out the Mixed Economy: The Rise and Fall of Welfare and Developmental States in the Americas.</i></a> Princeton University Press (September 17, 2019)  
-
-Philip T. Hoffman, Gilles Postel-Vinay and Jean-Laurent Rosenthal <a href="https://press.princeton.edu/books/hardcover/9780691182179/dark-matter-credit" target="_blank"><i>Dark Matter Credit: The Development of Peer-to-Peer Lending and Banking in France.</i></a> Princeton University Press (February 5, 2019)  
-
-<hr width="400">
-
-**2021 Co-Winners:** Steven Pfaff and Michael Hechter, <a href="https://www.cambridge.org/core/books/genesis-of-rebellion/A539D6E86D957A09EDAC4223C5EBD0C0" target="_blank"><i>The Genesis of Rebellion: Governance, Grievance, and Mutiny in the Age of Sail</i></a> Cambridge University Press (September 3, 2020)  
-
-Isaac Ariail Reed <a href="https://press.uchicago.edu/ucp/books/book/chicago/P/bo48408506.html" target="_blank"><i>Power in Modernity Agency Relations and the Creative Destruction of the King’s Two Bodies.</i></a> University of Chicago Press (March 25, 2020)  
-<br />
-
-**2021 Honorable Mention:** Diana S. Kim <a href="https://press.princeton.edu/books/hardcover/9780691172408/empires-of-vice" target="_blank"><i>Empires of Vice: The Rise of Opium Prohibition across Southeast Asia.</i></a> Princeton University Press (February 18, 2020)  
-
-[Learn more and see a list of past winners >>](/awards/sharlin_award/)
+[Learn more and see a list of past winners >>](/awards/sharlin_award/)  
 
 <hr>
 
@@ -57,12 +39,12 @@ The Association promotes high quality scholarship through its awards program, wh
 
 ### Founder's Prize 
 
-**2020 Winner:** Steven Sprick Schuster, Matthew Jaremski and Elisabeth Ruth Perlman "[An Empirical History of the US Postal Savings System.](https://doi.org/10.1017/ssh.2020.31)" *Social Science History* Volume 44, Issue 4 (Winter 2020), pp. 667-696.
+**2022 Winner:** Hyun Hye Bae and Lance Freeman "[Residential Segregation at the Dawn of the Great Migration: Evidence from the 1910 and 1920 Census.](https://doi.org/10.1017/ssh.2020.36)" *Social Science History* Volume 45, Issue 1 (Spring 2021), pp. 27-53.
 
 [Learn more and see a list of past winners >>](/awards/founder_prize/)
 
 ### Graduate Student Paper Prize  
 
-**2019 Winner:** Nate Ela "[Use-Based Welfare: Property Experiments in Chicago, 1895–1935.](https://doi.org/10.1017/ssh.2019.12)" *Social Science History*&nbsp;&nbsp;Volume 43, Issue 2 (Summer 2019), pp. 319-344.
+**2022 Winner:** Kerice Doten-Snitker "[Contexts of State Violence: Jewish Expulsions in the Holy Roman Empire.](https://doi.org/10.1017/ssh.2020.39)" *Social Science History*&nbsp;&nbsp;Volume 45, Issue 1 (Spring 2021), pp. 131-163.
 
 [Learn more and see a list of past winners >>](/awards/graduate_prize/)
