@@ -7,16 +7,16 @@ title = "SSHA Officers"
 ### 2021-2022 Officers
 
 **President**  
-Julian Go  
-University of Chicago (Sociology)  
-
-**Vice President**  
 Anne McCants  
 Massachusetts Institute of Technology (History)
 
+**Vice President**  
+Lisa Dillon  
+University of Montréal (Demography)
+
 **Executive Director**  
-William C. Block  
-Cornell University (CISER)  
+Jeffrey K. Beemer  
+Social Science History Association (Sociology)  
 
 **Treasurer**  
 Damon Mayrl  
@@ -25,17 +25,6 @@ Colby College (Sociology)
 ----
 
 ### Executive Committee
-
-*Term Expires 2022*
-
-- Don Lafreniere  
-Michigan Technological University (Geography)  
-
-- Molly Michelmore  
-Washington and Lee University (History)  
-
-- Diego Ramiro-Fariñas  
- Consejo Superior de Investigaciones Científicas (Demography)
 
  *Term Expires 2023*
 
@@ -59,18 +48,21 @@ University of Helsinki (Economic and Social History)
 - Angel Adams Parham  
 University of Virginia (Sociology)  
 
+*Term Expires 2025*
+
+- Shari Eli  
+University of Toronto (Economics)  
+
+- Nicholas Wilson  
+Stony Brook University (Sociology)  
+
+- Simone M. Caron  
+Wake Forest University (History)
+
 
 ----
 
 ### Publications Committee  
-
-*Term Expires 2022*  
-
-- Alberto Giordano  
-Texas State University (Geography)  
-
-- Dorit Geva  
-Central European University (Sociology)
 
 *Term Expires 2023*  
 
@@ -88,28 +80,34 @@ University of Minnesota (History)
 - Ho-Fung Hung   
 Johns Hopkins University (Sociology)  
 
+*Term Expires 2025* 
+
+- Fiona Rose Greenland  
+University of Virginia (Sociology)  
+
+- Joshua MacFadyen  
+University of Prince Edward Island (Geospatial Humanities)
+
 ----
 
-### 2022 Program Committee
+### 2023 Program Committee
 
-Cristina Groeger  
-Lake Forest College (History)
+Joyce Burnette  
+Wabash College (Economics)
 
-Ricarda Hammer  
-University of Michigan (Weiser Center for Emerging Democracies)
+Sakari Saaritsa  
+University of Helsinki (Economic and Social History)
 
-Ho-Fung Hung  
-Johns Hopkins University (Sociology)
-
-George Lawson  
-Australian National University (International Relations)  
-
-Alexandre White  
-Johns Hopkins University (History of Medicine/Sociology)  
+Richard Zijdeman  
+International Institute of Social History  (Data & Augmentation)
 
 ----
 
 ### Past Presidents
+
+Julian Go  
+University of Chicago (Sociology)  
+2021-2022  
 
 Manali Desai  
 Cambridge University (Sociology)  
