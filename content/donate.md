@@ -15,10 +15,10 @@ SSHA recently named the Student Travel Awards in honor of Richard Sutch, disting
 To make a donation by mail, please send a check or money order (payable to the *Social Science History Association*) to:  
 
 <br /> 
-William Block, Executive Director  
+Jeffrey Beemer, Executive Director  
 Social Science History Association  
-391 Pine Tree Rd  
-Ithaca, NY 14850  
+176 Savery Rd  
+Searsport, ME 04974  
 
 <br /> 
 For US based individuals fixing federal taxes, the donations are tax deductible because the SSHA has 401(*c*)(3) status. Thank you for supporting the SSHA!
