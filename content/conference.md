@@ -52,7 +52,7 @@ Melissa Kocias
 <br />  
 <i>Hotel Information & Reservations</i>  
 
-SSHA recognizes that you have a number of options when securing hotel accommodations for the annual meeting.  It is important to keep in mind that SSHA has made a major commitment to the Palmer House Hilton in order to secure a large block of quality hotel rooms at competitive prices in a convenient location.  SSHA is legally bound to fill these rooms.  Not to do so has severe financial implications for SSHA, both in 2023 and in years to come, and will almost certainly raise your costs of attending future annual meetings.   
+SSHA recognizes that you have a number of options when securing hotel accommodations for the annual meeting.  It is important to keep in mind that SSHA has made a major commitment to the conference hotel in order to secure a large block of quality hotel rooms at competitive prices in a convenient location.  SSHA is legally bound to fill these rooms.  Not doing so has severe financial implications for SSHA, both in the current year and in years to come, and will almost certainly raise your costs of attending future annual meetings.  
  
 <br />
 <i>Awards and Grants</i>  
@@ -66,6 +66,6 @@ The _Richard Sutch Student Travel Awards_ application will be available for the 
 ### **FUTURE CONFERENCES**  
 
 - Washington, DC, USA, November 16-19, 2023  
-- TBD, 2024
+- TBD, 2024  
 
 **Past Conference Programs>>** https://ssha.org/programs/  
