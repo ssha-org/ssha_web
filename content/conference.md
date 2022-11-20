@@ -4,10 +4,6 @@ title = "Annual Conference"
 
 +++
 
-### <h2><a href="https://indianauniv.ungerboeck.com/prod/emc00/register.aspx?OrgCode=10&EvtID=10985&AppCode=REG&CC=122080803651" target="_blank" role="button" class="btn btn-default btn-lg"><i><h2>2022 SSHA Conference Registration</h2></i></a></h2>  
-
-### <h2><a href="https://ssha2022.ssha.org/summary" target="_blank" role="button" class="btn btn-default btn-lg"><i><h2>2022 SSHA Annual Conference Program Summary</h2></i></a></h2>  
-
 ### **ABOUT THE SSHA ANNUAL CONFERENCE**  
 
 The SSHA conference meets annually, usually in November. The location changes according to the following logic: once every three years in Chicago, once every three years somewhere on the ‘East Coast’ and once every three years somewhere else. Since 2010, the Association has extended its reach to include Canadian cities as possible locations. The conference involves over a thousand scholars from around the world, although graduate students and faculty from the leading American universities predominate.  
@@ -111,6 +107,6 @@ The _Richard Sutch Student Travel Awards_ application will be available for the 
 ### **FUTURE CONFERENCES**  
 
 - Washington, DC, USA, November 16-19, 2023  
-- Philadelphia, PA, USA: TBD, 2024
+- TBD, 2024
 
 **Past Conference Programs>>** https://ssha.org/programs/  
