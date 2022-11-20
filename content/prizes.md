@@ -27,7 +27,7 @@ Please visit the [Allan Sharlin Memorial Book Award](/awards/sharlin_award/)
 
 **2022 Winner:**  Martha Wilfahrt <a href="https://www.cambridge.org/core/books/precolonial-legacies-in-postcolonial-politics/AC53415517557472924C75C1BE2915D0#" target="_blank"><i>Precolonial Legacies in Postcolonial Politics. Representation and Redistribution in Decentralized West Africa.</i></a>Cambridge University Press (August 2021)   
 
-**2022 Honorable Mentions:** Elisabeth Anderson <a href="https://press.princeton.edu/books/paperback/9780691220895/agents-of-reform" target="_blank"><i>Agents of Reform: Child Labor and the Origins of the Welfare State.</i></a> Princeton University Press (October 12, 2021)  
+**2022 Honorable Mention:** Elisabeth Anderson <a href="https://press.princeton.edu/books/paperback/9780691220895/agents-of-reform" target="_blank"><i>Agents of Reform: Child Labor and the Origins of the Welfare State.</i></a> Princeton University Press (October 12, 2021)  
 
 [Learn more and see a list of past winners >>](/awards/sharlin_award/)  
 
