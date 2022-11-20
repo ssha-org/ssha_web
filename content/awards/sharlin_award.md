@@ -46,6 +46,18 @@ block@cornell.edu
 
 *Year* | &emsp; | *Author* | &emsp; | *Institution* | &emsp; | *Title*
 --- | --- | :--- | --- | :--- | --- | :---
+2021  | | Steven Pfaff and Michael Hechter | | University of Washington & Arizona State University | | Genesis of Rebellion: Governance, Grievance, and Mutiny in the Age of Sail 
+&emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp;  
+2021  | | Isaac Ariail Reed | | University of Virginia | | Power in Modernity Agency Relations and the Creative Destruction of the King’s Two Bodies 
+&emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp;  
+2021  | | Diana S. Kim | | Georgetown University | | Empires of Vice: The Rise of Opium Prohibition across Southeast Asia  (Honorable Mention) 
+&emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp;
+2020  | | Andrew G. Walder | | Stanford | | Agents of Disorder. Inside China’s Cultural Revolution 
+&emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp;  
+2020  | | Amy C. Offner | | University of Pennsylvania | | Sorting Out the Mixed Economy: The Rise and Fall of Welfare and Developmental States in the Americas  (Honorable Mention) 
+&emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp;  
+2020  | | Philip T. Hoffman, Gilles Postel-Vinay and Jean-Laurent Rosenthal | | Caltech | | Dark Matter Credit: The Development of Peer-to-Peer Lending and Banking in France  (Honorable Mention) 
+&emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp;
 2019  | | Alan Greer | | McGill | | Property and Dispossession: Natives, Empires and Land in Early Modern North America 
 &emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp;
 2019  | | Devin Caughey | | MIT | | The Unsolid South: Mass Politics and National Representation in a One-Party Enclave  (Honorable Mention) 
