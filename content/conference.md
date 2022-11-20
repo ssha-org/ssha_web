@@ -9,45 +9,16 @@ title = "Annual Conference"
 The SSHA conference meets annually, usually in November. The location changes according to the following logic: once every three years in Chicago, once every three years somewhere on the ‘East Coast’ and once every three years somewhere else. Since 2010, the Association has extended its reach to include Canadian cities as possible locations. The conference involves over a thousand scholars from around the world, although graduate students and faculty from the leading American universities predominate.  
 <br />  
 
-### **THE 2022 ANNUAL CONFERENCE**  
+### **THE 2023 ANNUAL CONFERENCE**  
 
-Our 2022 conference will be held in Chicago on November 17-20, 2022.  It will be held at the Palmer House Hilton, Chicago, Illinois USA. This year’s theme is <i>“Reverberations of Empire: Histories, Legacies & Lineages.”</i> For a description of the theme and the CFP, please go to https://ssha.org/files/2022_SSHA_CFP.pdf  
+Our 2023 conference will be held in Washington DC on November 16-20, 2023.  This year’s theme is <i>“Pursuits of Wellbeing.”</i> For a description of the theme and the CFP, please go to https://ssha.org/files/2023_SSHA_CFP.pdf  
 <br />
-<i>Participation & Program</i>   
 
-Acceptances for the program went out by email in June 2022. If you submitted a panel or paper and did not receive an email about its status, please check your “Spam” folder. If you still cannot find it, please log into the submission portal and you can check the status of your submission there: https://ssha2022.ssha.org/.  
-
-**The preliminary program is now available online at:** https://ssha2022.ssha.org/. You can browse the preliminary program by Day/Time, Network, and/or Participant.   
-<br />
 <i>Registration</i>
 
 Registration fees include admittance to all paper sessions, as well as Thursday and Saturday receptions. All session participants must register for the conference and be (or become) a member of SSHA.  
 
-**This year the SSHA is pleased to introduce a sliding scale of registration fees which reduces the cost of registration for contingent/adjunct/post docs/students and tenure track ASTPs.**  
-
-If your membership is not current, you will not be able to register for the conference as a member.  Please sign up for membership, or renew your membership prior to filling out the conference registration form. Membership information is below, following registration information.  
-
-**To register for the 2022 conference, please go to:**&emsp;<a href="https://indianauniv.ungerboeck.com/prod/emc00/register.aspx?OrgCode=10&EvtID=10985&AppCode=REG&CC=122080803651" target="_blank">SSHA 2022 Conference Registration</a>.
-
-<br />
-<i>Format</i>  
-
-The SSHA will have fully hybrid capabilities (just as with the 2021 meetings). We hope this will permit those who cannot travel for health reasons or other concerns, students, and foreign members who cannot come to Chicago to participate. It also means that anyone around the world can see all of the sessions at the SSHA should they choose to.  
-
-**Please note that the registration fee for virtual participants is the same as for in-person attendance.**  
-
-We hope participants will understand that a fully hybrid conference is incredibly expensive. It is more costly than having an in-person conference. This is because of the added technical and labor costs, as well as the potential loss of hotel room revenue (the SSHA had made agreements years ago with the Palmer House Hilton to meet a quota of reserved rooms and if that quota is not met the Association has to pay for the losses). I understand this will be disappointing to some but we hope that the savings virtual participants will get on travel, hotel and related expenses will compensate for having to pay the regular registration fee.  
-<br />
-
-**Conference Registration Member Price:**  
-1. Senior/Tenured: $450  
-2. Tenure Track ASTP: $345  
-3. Contingent/Adjunct/Post Doc: $195  
-4. Student: $65  
- 
-**Non-Member Price**- $550  
-**Non-Member Student Price**- $25 **(for students who are not presenting papers; student presenters should sign up for SSHA membership and pay the Student registration).**   
-<br />
+If your membership is not current, you will not be able to register for the conference as a member.  Please sign up for membership, or renew your membership prior to filling out the conference registration form. Membership information is below.  
 
 **Visa Information:**  
 
@@ -81,20 +52,8 @@ Melissa Kocias
 <br />  
 <i>Hotel Information & Reservations</i>  
 
-SSHA recognizes that you have a number of options when securing hotel accommodations for the annual meeting.  It is important to keep in mind that SSHA has made a major commitment to the Palmer House Hilton in order to secure a large block of quality hotel rooms at competitive prices in a convenient location.  SSHA is legally bound to fill these rooms.  Not to do so has severe financial implications for SSHA, both in 2022 and in years to come and will almost certainly raise your costs of attending future annual meetings.  If you require a hotel in Chicago, we would very much appreciate it if you would reserve your room at the Palmer House Hilton.   
-&emsp;  
-Reserve your hotel room at the Palmer House by Hilton, located on the Magnificent Mile which is Chicago’s premier commercial district. The vibrant, bustling area is home to upscale shops, luxe fashion outlets, with fine dining and gorgeous panoramic city views.  
-
-SSHA attendees receive a discounted hotel rate of $189.00++ per night. Make your reservation before October 15, 2022, to take advantage of hotel availability and rate. Prices and availability will not be guaranteed after October 15, so make your reservation soon to take advantage of the discounted conference rate.  
-
-**To access the hotel reservation site to make your reservation, please click the following link:** <a href="https://book.passkey.com/event/50326880/owner/1455/home" target="_blank">SSHA Hilton Reservations</a>.  
-&emsp;  
-If you would like to reserve your room before or after the event dates shown, please call the Hilton Reservations Department directly at 1-800-445-8667 and reference group code: SSH.    
-&emsp;  
-<i>Palmer House Hilton  
-17 East Monroe Street  
-Chicago, Illinois 60603  
-USA</i>  
+SSHA recognizes that you have a number of options when securing hotel accommodations for the annual meeting.  It is important to keep in mind that SSHA has made a major commitment to the Palmer House Hilton in order to secure a large block of quality hotel rooms at competitive prices in a convenient location.  SSHA is legally bound to fill these rooms.  Not to do so has severe financial implications for SSHA, both in 2023 and in years to come, and will almost certainly raise your costs of attending future annual meetings.   
+ 
 <br />
 <i>Awards and Grants</i>  
 
@@ -102,7 +61,7 @@ The Association promotes high quality scholarship through its awards program, wh
 <br />
 <i>Richard Sutch Student Travel Awards</i>  
 
-The _Richard Sutch Student Travel Awards_ application will be available for the 2022 SSHA annual conference in the spring of 2022. The deadline for applying is **July 15, 2022**. To apply, please complete the application form at: <a href="https://forms.gle/4rWx4wKiv5rxWAbY9" target="_blank">Richard Sutch Student Travel Awards</a>  
+The _Richard Sutch Student Travel Awards_ application will be available for the 2023 SSHA annual conference in June of 2023.
 <br />
 ### **FUTURE CONFERENCES**  
 
