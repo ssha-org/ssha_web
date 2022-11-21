@@ -8,15 +8,15 @@ title = "Social Science History"
 
 A $1000 prize is awarded annually for a meritorious first work by an early-career scholar. Entrants are judged on scholarly significance, interdisciplinary reach, and methodological innovativeness within monographs analyzing past structures and events and change over time. Books with a copyright date of the previous year that are published within eight years of the author's Ph.D. are eligible for consideration.
 
-**Please note:** the 2022 award committees are still being formed. Please check back periodically for updates.
+**Please note:** the 2023 award committees are still being formed. Please check back periodically for updates.
 
 ### Award Committee (in process)  
 
-- William Block (SSHA, Executive Director)  
+- Jeffrey Beemer (SSHA, Executive Director)  
 President's Book Award  
 Social Science History Association  
-391 Pine Tree Rd.  
-Ithaca, NY 14850  
+176 Savery Rd  
+Searsport, ME 04974  
 
 ### Past Winners
 
