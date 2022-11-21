@@ -16,7 +16,7 @@ Authors or publishers wishing to nominate a book should mail copies to each memb
 
 ### Award Committee (in process)  
 
-- Jeffrey Beemer (SSHA, Executive Director) 
+- Jeffrey Beemer (SSHA, Executive Director)  
 Social Science History Association  
 176 Savery Rd  
 Searsport, ME 04974  
