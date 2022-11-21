@@ -16,31 +16,11 @@ Authors or publishers wishing to nominate a book should mail copies to each memb
 
 ### Award Committee  
 
-- Steven J. Pfaff (Chair)  
-Department of Sociology  
-University of Washington  
-211 Savery Hall, Box 353340  
-Seattle, WA 98195-3340  
-pfaff@uw.edu  
-
-- Andrew G. Walder  
-Department of Sociology  
-Stanford University  
-Stanford, CA 94305-2047  
-walder@stanford.edu  
-
-- Diana Magnuson  
-Institute for Social Research & Data Innovation  
-University of Minnesota  
-225 19th Avenue S, 50 Willey Hall  
-Minneapolis, MN 55455  
-magn0031@umn.edu  
-
-- William Block  
+- Jeffrey Beemer  
 Social Science History Association  
-391 Pine Tree Rd  
-Ithaca, NY 14850  
-block@cornell.edu  
+176 Savery Rd  
+Searsport, ME 04974  
+jbeemer@ssha.org  
 
 ### Past Winners
 
