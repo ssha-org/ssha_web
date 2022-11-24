@@ -11,7 +11,6 @@ The Data Infrastructure Network is interested in broadly addressing issues and t
 
 ### Network Representatives
 
-- [Diana Magnuson](mailto:magn0031@umn.edu)  
-- [William Block](mailto:block@cornell.edu)  
-- [Richard Zijdeman](mailto:richard.zijdeman@iisg.nl)  
-- [Peter Meyer](mailto:Meyer.Peter@bls.gov)  
+- [Diana Magnuson](mailto:magn0031@umn.edu) 
+- [Rick Mourits](mailto:rick.mourits@iisg.nl)  
+- [Eve Snyder](mailto:historyforge@thehistorycenter.net)  
