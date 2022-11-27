@@ -11,6 +11,6 @@ The Data Infrastructure Network is interested in broadly addressing issues and t
 
 ### Network Representatives
 
-- [Diana Magnuson](mailto:magn0031@umn.edu) 
-- [Rick Mourits](mailto:rick.mourits@iisg.nl)  
+- [Diana Magnuson](mailto:magn0031@umn.edu)  
+- [Rick Mourits](mailto:r.j.mourits@ru.nl)  
 - [Eve Snyder](mailto:historyforge@thehistorycenter.net)  
