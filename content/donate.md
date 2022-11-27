@@ -21,7 +21,7 @@ Social Science History Association
 Searsport, ME 04974  
 <br />  
 
-For US based individuals fixing federal taxes, the donations are tax deductible because the SSHA has 401(*c*)(3) status. Thank you for supporting the SSHA!
+For US based individuals fixing federal taxes, the donations are tax deductible because the SSHA has 401(*c*)(3) status. Thank you for supporting the SSHA!  
 
 <br />
 <center><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
