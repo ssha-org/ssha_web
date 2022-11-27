@@ -16,7 +16,7 @@ Rebecca Jean Emigh, Sociology, University of California, Los Angeles, USA
 
 **Managing Editor**  
 
-Jeffrey K. Beemer, Social Science History Association, USA  
+Jeffrey K. Beemer, Sociology, Social Science History Association, USA  
 <br />
 
 **Editorial Board**  
