@@ -20,7 +20,7 @@ The Data Infrastructure Network is interested in broadly addressing issues and t
 
 ### Planning 2023 Sessions
 
-After an enthusiastic launch to the Data Infrastructure Network at SSHA 2022, planning for SSHA 2023 is underway!  Data Infrastructure Network meeting attendees began brainstorming topics/themes and potential contributors for SSHA 2023 sessions. The planning spreadsheet –  [link to "planning spreadsheet"](https://docs.google.com/spreadsheets/d/1l5V5XS_ygYcWMbw_zZ-f-WNVUbYt_ExMUJi13M68T84/edit#gid=0)  – is available to view, and the network reps invite your questions, assistance creating or contributing to a panel, or help with submissions.  
+After an enthusiastic launch to the Data Infrastructure Network at SSHA 2022, planning for SSHA 2023 is underway!  Data Infrastructure Network meeting attendees began brainstorming topics/themes and potential contributors for SSHA 2023 sessions. The [planning spreadsheet](https://docs.google.com/spreadsheets/d/1l5V5XS_ygYcWMbw_zZ-f-WNVUbYt_ExMUJi13M68T84/edit#gid=0) is available to view, and the network reps invite your questions, assistance creating or contributing to a panel, or help with submissions.  
 <br />
 [2023 SSHA Call for Papers](https://ssha.org/files/2023_SSHA_CFP.pdf)  
 
