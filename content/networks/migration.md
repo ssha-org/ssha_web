@@ -45,6 +45,7 @@ We welcome panel and individual paper submissions for the SSHA Annual Meeting th
 
 ### Network Representatives
 
-- [Kelly Condit-Shrestha](mailto:cond0092@umn.edu)
 - [Caroline Waldron](mailto:cwaldron2@udayton.edu)
-- [Linda Reeder](mailto:reederls@missouri.edu)
+- [Madeline Hsu](mailto:myhsu@austin.utexas.edu)  
+- [Vibha Bhalia](mailto:vibhab@bgsu.edu)  
+- [Paige Newhouse](mailto:panew@umich.edu)  

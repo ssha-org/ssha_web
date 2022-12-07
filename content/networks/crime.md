@@ -12,4 +12,4 @@ The Crime, Justice and the Law Network is part of the Social Science History Ass
 ### Network Representatives
 
 - [Talia Shiff](mailto:taliashiff@nlaw.northwestern.edu)
-- [Glenn Svedin](mailto:glenn.svedin@miun.se)
+- [Ron Levi](mailto:ron.levi@utoronto.ca)
