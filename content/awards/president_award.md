@@ -17,6 +17,7 @@ President's Book Award
 Social Science History Association  
 176 Savery Rd  
 Searsport, ME 04974  
+jbeemer@ssha.org  
 
 ### Past Winners
 
