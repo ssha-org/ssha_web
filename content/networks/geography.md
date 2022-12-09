@@ -26,6 +26,6 @@ The Historical Geography and GIS Network focuses on the application of spatial t
 
 ### Network Representatives
 
-- [S. Wright Kennedy](mailto:sk4562@columbia.edu)
+- [S. Wright Kennedy](mailto:w.kennedy@sc.edu)
 - [Dan Trepal](mailto:djtrepal@mtu.edu)
 - [Tim Stone](mailto:tjstone@mtu.edu)
