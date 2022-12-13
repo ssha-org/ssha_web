@@ -15,6 +15,5 @@ For more, please follow us on Twitter at @taxesmatter.
 
 ### Network Representatives
 
-- [Molly Michelmore](mailto:michelmorem@wlu.edu)  
-- [Issac Martin](mailto:iwmartin@ucsd.edu)  
-- [Vanessa Williamson](mailto:vwilliamson@brookings.edu)  
+- [Molly Michelmore](mailto:michelmorem@wlu.edu)
+- [Lucy Barnes](mailto:l.barnes@ucl.ac.uk)
