@@ -8,6 +8,30 @@ title = "SSHA News"
 
 <hr width=300; align=left>  
 
+<h2>Anthology in honor of the life and work of American economist John E. Murray</h2>  
+<br />
+<p><font size="4">This anthology honors the life and work of American economist John E. Murray, whose work on the evolution of the standard of living spanned multiple disciplines. Publishing extensively in the areas of the history of healthcare and health insurance, labor markets, religion, and family-related issues from education to orphanages, fertility, and marriage, Murray was much more than an economic historian and his influence can be felt across the wider scholarly community. Written by Murray’s academic collaborators, mentors, and mentees, this collection of essays covers topics such as the effect of the 1918 influenza pandemic on U.S. life insurance holdings, the relationship between rapid economic growth and type 2 diabetes, and the economics of the early church. This volume will be of use to scholars and students interested in economic history, cliometrics, labor economics, and American and European history, as well as the history of religion.</font></p>  
+
+<style>
+table, th, td {
+padding: 5px 15px;
+margin: 0px;
+text-align: center;
+}
+</style>
+<table style="width:107%">
+<col style="width:100%">
+<tr>
+<th><h3><b>Standard of Living<br />Essays on Economics, History, and Religion<br />in Honor of John E. Murray</b></h3></th>
+</tr>
+<tr>
+<td><a target="_blank" href="https://link.springer.com/book/10.1007/978-3-031-06477-7?">
+<img src="/images/J_Murray.jpg" alt="Murray">
+</a></td>
+</table>  
+
+<br />  
+<hr width=300; align=left>  
 <p><font size="3"><i>27 Ocotber 2022, Chicago</i></font></p>
 <h3><b>Conference Update from SSHA President Julian Go</b></h3>
 <br />
