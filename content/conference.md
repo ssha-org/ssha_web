@@ -14,7 +14,7 @@ The SSHA conference meets annually, usually in November. The location changes ac
 ### **THE 2023 ANNUAL CONFERENCE**  
 
 Our 2023 conference will be held in Washington DC on November 16-19, 2023.  This year’s theme is <i>“Pursuits of Wellbeing.”</i> For a description of the theme and the CFP, please go to https://ssha.org/files/2023_SSHA_CFP.pdf  
-<h2><a href="https://ssha.org/files/2023_SSHA_CFP.pdf" target="_blank" role="button" class="btn btn-default btn-lg"><i><h3>SSHA Call for Papers</h3></i></a></h2>  
+<h2><a href="https://ssha.org/files/2023_SSHA_CFP.pdf" target="_blank" role="button" class="btn btn-default btn-lg"><i><h3>SSHA Call for Papers</h3></i></a></h2><br />  
 
 <i>Registration</i>
 
