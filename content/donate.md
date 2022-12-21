@@ -16,7 +16,8 @@ Your contribution will support our efforts to provide a robust intellectual home
 
 
 ### *Richard Sutch Student Travel Awards*  
-SSHA recently named the Student Travel Awards in honor of Richard Sutch, distinguished social and economic historian, and long time member of SSHA. Richard passed away recently after a battle with Merkel cell carcinoma; you may read about his life and accomplishments at <a href="https://delong.typepad.com/files/sutch-obituary.pdf">https://delong.typepad.com/files/sutch-obituary.pdf</a>.
+SSHA recently named the Student Travel Awards in honor of Richard Sutch, distinguished social and economic historian, and long time member of SSHA. Richard passed away recently after a battle with Merkel cell carcinoma; you may read about his life and accomplishments at <a href="https://delong.typepad.com/files/sutch-obituary.pdf">https://delong.typepad.com/files/sutch-obituary.pdf</a>.  
+<br />
 
 To make a donation by mail, please send a check or money order (payable to the *Social Science History Association*) to:  
 <br />  
