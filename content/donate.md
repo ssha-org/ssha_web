@@ -4,13 +4,19 @@ title = "Donate to SSHA"
 
 +++
 
-## **Richard Sutch Student Travel Awards**  
+## **SSHA Fundraising Campaigns**  
 
-<hr width=300; align=left>
+<hr width=300; align=left> 
 
-### *Our fundraising campaign*
+### *End-of-Year Giving*
 
-SSHA recently named the Student Travel Awards in honor of Richard Sutch, distinguished social and economic historian, and long time member of SSHA. Richard passed away recently after a battle with Merkel cell carcinoma; you may read about his life and accomplishments at <a href="https://delong.typepad.com/files/sutch-obituary.pdf">https://delong.typepad.com/files/sutch-obituary.pdf</a>. All donations received through the end of the year will be devoted to endowing travel awards in Richard’s name.
+As the year draws to a close, we know many of you will be making donations in support of organizations and causes you support. As you do so, we invite you to consider making a donation to SSHA.
+
+Your contribution will support our efforts to provide a robust intellectual home for the social scientific study of the past, through our annual conference, student travel fellowships, and our journal, Social Science History. Your contribution need not be large to make an impact; in light of inflation and foreign exchange rates, any amount helps. And since SSHA is a 501(c)(3) organization, donations are tax deductible for U.S. citizens.
+
+
+### *Richard Sutch Student Travel Awards*  
+SSHA recently named the Student Travel Awards in honor of Richard Sutch, distinguished social and economic historian, and long time member of SSHA. Richard passed away recently after a battle with Merkel cell carcinoma; you may read about his life and accomplishments at <a href="https://delong.typepad.com/files/sutch-obituary.pdf">https://delong.typepad.com/files/sutch-obituary.pdf</a>.
 
 To make a donation by mail, please send a check or money order (payable to the *Social Science History Association*) to:  
 <br />  
@@ -21,7 +27,7 @@ Social Science History Association
 Searsport, ME 04974  
 <br />  
 
-For US based individuals fixing federal taxes, the donations are tax deductible because the SSHA has 401(*c*)(3) status. Thank you for supporting the SSHA!  
+For US based individuals fixing federal taxes, the donations are tax deductible because the SSHA has 501(c)(3) status. Thank you for supporting the SSHA!  
 
 <br />
 <center><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
