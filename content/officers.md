@@ -26,10 +26,7 @@ Colby College (Sociology)
 
 ### Executive Committee
 
- *Term Expires 2023*
-
-- Lisa Dillon  
-University of Montréal (Demography)  
+ *Term Expires 2023*  
 
 - Aliza Luft  
 University of California, Los Angeles (Sociology)  
