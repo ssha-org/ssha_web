@@ -14,7 +14,7 @@ title = "Social Science History"
 
 ### Submission Information
 
-*Social Science History* takes submissions via the online platform supported by Editorial Manager. To submit an article, please visit the [**SSH Editorial Manager**](https://www.editorialmanager.com/ssha/default.aspx) website. If this is your first time using Editorial Manager, you will need to register. Then follow the instructions on the site. Articles should be typed double-spaced, including quotations, notes, information in tables, and the list of references. Brief parenthetical citations are included in the text, all complete references are listed alphabetically at the end of the article, and notes are used only for discursive comments and appear immediately before the list of references. For detailed information on this journal’s style, contributors should refer to the [**SSH style guide**](https://www.cambridge.org/core/journals/social-science-history/information/instructions-contributors); a PDF copy of our style guide can be found here: [SSHStyleGuide.pdf](https://ssha.org/files/SSHStyleGuide.pdf). The Social Science History Association does not accept responsibility for statements of fact or opinion made by the contributors.  
+*Social Science History* takes submissions via the online platform supported by Editorial Manager. To submit an article, please visit the [**SSH Editorial Manager**](https://www.editorialmanager.com/ssha/default.aspx) website. If this is your first time using Editorial Manager, you will need to register. Then follow the instructions on the site. Articles should be typed double-spaced, including quotations, notes, information in tables, and the list of references. Brief parenthetical citations are included in the text, all complete references are listed alphabetically at the end of the article, and footnotes are used only for discursive comments. For detailed information on this journal’s style, contributors should refer to the [**SSH style guide**](https://www.cambridge.org/core/journals/social-science-history/information/instructions-contributors); a PDF copy of our style guide can be found here: [SSHStyleGuide.pdf](https://ssha.org/files/SSHStyleGuide.pdf). The Social Science History Association does not accept responsibility for statements of fact or opinion made by the contributors.  
 <br />
 **Guidelines for Special Issue, Special Section, and Book Symposia Proposals**  
 
@@ -51,7 +51,7 @@ Claire Lemercier and Francesca Trivellato "[1751 and Thereabout: A Quantitative 
   
 ### Current Issue
 
-Fall 2022, Volume 46 -- Issue 3  
+Winter 2022, Volume 46 -- Issue 4  
 https://www.cambridge.org/core/journals/social-science-history/latest-issue  
 
-![Current Issue](/images/SSH_46-3.jpg)
+![Current Issue](/images/SSH_46-4.jpg)
