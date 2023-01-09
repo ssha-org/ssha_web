@@ -26,4 +26,4 @@ At the annual meeting, there is a scheduled network meeting where ideas for the 
 ### Network Representatives
 
 - [Amanda McMillan Lequieu ](mailto:aml524@drexel.edu)
-- [Josh MacFadyen](mailto:jdmacfadyen@upei.ca)
+- [Danielle Schmidt](mailto:dschmidt25@wisc.edu)
