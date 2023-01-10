@@ -10,7 +10,24 @@ title = "Social Science History"
 
 *Social Science History* is dedicated to the study of social theory within an empirical historical context. Our interdisciplinary readership includes anthropologists, demographers, economists, geographers, historians, political scientists, and sociologists, all in pursuit of a deep understanding of societies, past and present. The journal invites articles that blend empirical research with theoretical work, undertake comparisons across time and space, or contribute to the development of quantitative and qualitative methods of analysis. As the official journal of the Social Science History Association, *Social Science History* reflects the interests of members who are active in the Association’s diverse range of research networks. However, it also welcomes submissions from the broader international research community of historically informed social scientists.  
 
-*Social Science History* is published by [**Cambridge University Press**](https://www.cambridge.org/core/journals/social-science-history). The contact email for the editorial office is <socialsciencehistory@ssha.org>. Information about the Editors and Editorial Board can be found here: [**SSH Editors and Editorial Board**](/editors_board/).
+*Social Science History* is published by [**Cambridge University Press**](https://www.cambridge.org/core/journals/social-science-history). The contact email for the editorial office is <socialsciencehistory@ssha.org>. Information about the Editors and Editorial Board can be found here: [**SSH Editors and Editorial Board**](/editors_board/).  
+
+
+### Featured Articles
+  
+Claire Lemercier and Francesca Trivellato "[1751 and Thereabout: A Quantitative and Comparative Approach to Notarial Records](https://doi.org/10.1017/ssh.2022.8)" *Social Science History* &nbsp;46 (3), pp. 555-83.  **Open Access Article**  
+<br />
+
+ María-Isabel Ayuda, Javier Puche, and José Miguel Martínez-Carrión "[Select Determinants of Nutritional Differences in Mediterranean Rural Spain, 1840–1965 Birth Cohorts: A Comparison between Irrigated and Dry Farming Agriculture.](https://doi.org/10.1017/ssh.2022.11)" *Social Science History* &nbsp;46 (3), pp. 585-616.  **Open Access Article**  
+<br />
+  
+### Current Issue
+
+Winter 2022, Volume 46 -- Issue 4  
+https://www.cambridge.org/core/journals/social-science-history/latest-issue  
+
+![Current Issue](/images/SSH_46-4.jpg)  
+<br />
 
 ### Submission Information
 
@@ -21,22 +38,22 @@ title = "Social Science History"
 
 <i>Social Science History</i> publishes the following article types:  
 
-1.	Research Articles*  
-2.	Presidential Addresses*  
-3.	Book Symposia*  
-4.	Special Section Articles*  
-5.	Special Issue Articles*  
-6.	Special Issue Introductions*  
-7.	Review Essays*  
+1.	Research Articles  
+2.	Presidential Addresses  
+3.	Book Symposia  
+4.	Special Section Articles  
+5.	Special Issue Articles  
+6.	Special Issue Introductions  
+7.	Review Essays  
 
-*These article types may be eligible for APC waivers or discounts under one of the [Open Access publishing agreements](https://www.cambridge.org/core/services/open-access-policies/waivers-discounts) Cambridge University Press has made to support open access.  
+The above article types may be eligible for APC waivers or discounts under one of the [Open Access publishing agreements](https://www.cambridge.org/core/services/open-access-policies/waivers-discounts) Cambridge University Press has made to support open access.  
 
 Although research articles comprise the great majority of content for <i>Social Science History</i> we also publish book symposia, review articles and clusters of thematically-linked articles in a special issue or special section of an issue. Guidelines for these kinds of content follow.  
 <br />
 
 **Guidelines for Book Symposia Proposals**  
 
-Every year the Association’s conference includes a number of ‘author meets critic’ sessions intended for critical discussion of a recent monograph. Occasionally, a book-related symposium is of particular interest for publication in the journal. Accordingly, we invite proposals for the publication of book symposia in <I>SSH</i>. The kind of book symposium of interest for publication is one that provide clear intellectual debate and engagement, even criticism, rather than extended praise of the book. Proposals should include: 1) symposium title and date of SSHA conference panel for the book; 2) names, affiliations, and contact information for all panelists, book authors, and panel organizers; 3) book title, publication date, all other bibliographical information, and a summary of the book’s contribution highlighting cross-disciplinary appeal (no longer than 500 words); 4) an indication that all panelists and authors have agreed to submit the proposal to <i>SSH</i>; 5) a timeline for submission. Final submissions should be no longer than 9,000 words, with each contribution typically 1000 to 1500 words. Proposals should be submitted to <socialsciencehistory@ssha.org> by December 31 following the SSH meetings in November.  
+Every year the Association’s conference includes a number of ‘author meets critic’ sessions intended for critical discussion of a recent monograph. Occasionally, a book-related symposium is of particular interest for publication in the journal. Accordingly, we invite proposals for the publication of book symposia in <I>SSH</i>. The kind of book symposium of interest for publication is one that provides clear intellectual debate and engagement, even criticism, rather than extended praise of the book. Proposals should include: 1) symposium title and date of SSHA conference panel for the book; 2) names, affiliations, and contact information for all panelists, book authors, and panel organizers; 3) book title, publication date, all other bibliographical information, and a summary of the book’s contribution highlighting cross-disciplinary appeal (no longer than 500 words); 4) an indication that all panelists and authors have agreed to submit the proposal to <i>SSH</i>; 5) a timeline for submission. Final submissions should be no longer than 9,000 words, with each contribution typically 1000 to 1500 words. Proposals should be submitted to <socialsciencehistory@ssha.org> by December 31 following the SSH meetings in November.  
 <br />
 
 **Guidelines for Special Issues and Sections**  
@@ -68,18 +85,3 @@ All concerns regarding editorial decisions should be addressed to the SSH journa
 
 For further information, please visit: https://www.cambridge.org/core/journals/social-science-history/information/publishing-ethics  
 <br />
-
-### Featured Articles
-  
-Claire Lemercier and Francesca Trivellato "[1751 and Thereabout: A Quantitative and Comparative Approach to Notarial Records](https://doi.org/10.1017/ssh.2022.8)" *Social Science History* &nbsp;46 (3), pp. 555-83.  **Open Access Article**  
-<br />
-
- María-Isabel Ayuda, Javier Puche, and José Miguel Martínez-Carrión "[Select Determinants of Nutritional Differences in Mediterranean Rural Spain, 1840–1965 Birth Cohorts: A Comparison between Irrigated and Dry Farming Agriculture.](https://doi.org/10.1017/ssh.2022.11)" *Social Science History* &nbsp;46 (3), pp. 585-616.  **Open Access Article**  
-<br />
-  
-### Current Issue
-
-Winter 2022, Volume 46 -- Issue 4  
-https://www.cambridge.org/core/journals/social-science-history/latest-issue  
-
-![Current Issue](/images/SSH_46-4.jpg)
