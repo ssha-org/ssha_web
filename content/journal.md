@@ -45,7 +45,7 @@ https://www.cambridge.org/core/journals/social-science-history/latest-issue
 5.	Special Issue Articles  
 6.	Review Essays  
 
-The above article types may be eligible for APC waivers or discounts under one of the [Open Access publishing agreements](https://www.cambridge.org/core/services/open-access-policies/waivers-discounts) Cambridge University Press has made to support open access.  
+The above article types may be eligible for APC waivers or discounts under one of Cambridge University Press's [Open Access publishing agreements](https://www.cambridge.org/core/services/open-access-policies/waivers-discounts).  
 
 Although research articles comprise the great majority of content for <i>Social Science History</i> we also publish book symposia, review articles and clusters of thematically-linked articles in a special issue or special section of an issue. Guidelines for these kinds of content follow.  
 <br />
