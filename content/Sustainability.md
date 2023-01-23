@@ -6,7 +6,7 @@ title = "Governance and Sustainability"
 
 ## **SSHA Governance and Sustainability**
 
-### I. Objectives  
+### I. Mission Statement  
 <br />
 
 <b>Coming Soon!</b>

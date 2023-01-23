@@ -7,6 +7,13 @@ title = "SSHA News"
 ## **SSHA News**  
 
 <hr width=300; align=left>  
+<h2>2022 SSHA Post-Conference in Chicago Survey Results</h2>
+
+#### For the full set of survey questions and results, please download the survey summary PDF (linked below), which includes the open-ended questions and responses from the survey participants.  
+
+[2022 SSHA Post-Conference in Chicago Survey](https://ssha.org/files/2022_Post-Conference_Survey.pdf)  
+
+<br />
 
 <h2>SSHA Virtual Town Hall</h2>  
 
