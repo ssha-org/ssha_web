@@ -16,6 +16,10 @@ The Social Science History Association was created in 1974 by scholars intereste
 
 ----
 
+### [Governance and Sustainability >>](/sustainability)
+
+----
+
 ### [Lore and Practices >>](/lore/)
 
 ----

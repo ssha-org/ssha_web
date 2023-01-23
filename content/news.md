@@ -8,6 +8,13 @@ title = "SSHA News"
 
 <hr width=300; align=left>  
 
+<h2>SSHA Virtual Town Hall</h2>  
+
+<br />
+<div style="padding:50.63% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/791032292?h=68438bd073&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="SSHA Virtual Town Hall Jan. 18th, 2023"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+<br />  
+<hr width=300; align=left>  
 <h2>Anthology in honor of the life and work of American economist John E. Murray</h2>  
 <br />
 <p><font size="4">This anthology honors the life and work of American economist John E. Murray, whose work on the evolution of the standard of living spanned multiple disciplines. Publishing extensively in the areas of the history of healthcare and health insurance, labor markets, religion, and family-related issues from education to orphanages, fertility, and marriage, Murray was much more than an economic historian and his influence can be felt across the wider scholarly community. Written by Murray’s academic collaborators, mentors, and mentees, this collection of essays covers topics such as the effect of the 1918 influenza pandemic on U.S. life insurance holdings, the relationship between rapid economic growth and type 2 diabetes, and the economics of the early church. This volume will be of use to scholars and students interested in economic history, cliometrics, labor economics, and American and European history, as well as the history of religion.</font></p>  
