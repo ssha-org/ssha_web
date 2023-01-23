@@ -39,9 +39,8 @@ The George Washington University (Political Science)
 <br />  
 
 ### III. Meetings  
-
-<br />  
-<b>SSHA Town Hall #1</b>  
+  
+<h3>SSHA Town Hall #1</h3>  
 
 <div style="padding:50.63% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/791032292?h=68438bd073&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen style="position:absolute;top:0;left:0;width:100%;height:100%;" title="SSHA Virtual Town Hall Jan. 18th, 2023"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
@@ -50,7 +49,7 @@ The George Washington University (Political Science)
 
 ### IV. Data  
 
-<br />
+<h3>2022 SSHA Post-Conference in Chicago Survey Results</h3>  
 
 #### For the full set of survey questions and results, please download the survey summary PDF (linked below), which includes the open-ended questions and responses from the survey participants.  
 
