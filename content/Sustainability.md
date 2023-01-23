@@ -52,7 +52,7 @@ The George Washington University (Political Science)
 
 <br />
 
-#### For the full set of survey questions and results, please download the Survey Summary PDF (link below), which includes the open-ended questions and responses from the survey participants.  
+#### For the full set of survey questions and results, please download the survey summary PDF (linked below), which includes the open-ended questions and responses from the survey participants.  
 
 [2022 SSHA Post-Conference in Chicago Survey](https://ssha.org/files/2022_Post-Conference_Survey.pdf)  
 
