@@ -34,7 +34,10 @@ Lake Forest College (History and Urban Studies)
 Cornell University (Sociology)
 
 - Kimberly Morgan  
-The George Washington University (Political Science)
+The George Washington University (Political Science)  
+
+- Aunrika Tucker-Shabazz  
+University of Michigan (Sociology)  
 
 <br />  
 

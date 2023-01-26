@@ -12,11 +12,18 @@ A $1,000 prize is awarded annually for an outstanding book in social science his
 
 **Please note:** the 2023 award committees are still being formed. Please check back periodically for updates.  
 
-Authors or publishers wishing to nominate a book should mail copies to each member of the award committee.  
+Authors or publishers wishing to nominate a book should <u>**mail copies**</u> to each member of the award committee.  
 
 ### Award Committee (in process)  
 
-- Jeffrey Beemer (SSHA, Executive Director)  
+- Diana Magnuson (Chair)  
+Institute for Social Research & Data Innovation  
+University of Minnesota  
+225 19th Avenue S, 50 Willey Hall  
+Minneapolis, MN 55455  
+magn0031@umn.edu  
+
+- Jeffrey Beemer (SSHA Executive Director)  
 Social Science History Association  
 176 Savery Rd  
 Searsport, ME 04974  
