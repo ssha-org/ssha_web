@@ -68,7 +68,7 @@ The _Richard Sutch Student Travel Awards_ application will be available for the 
 ### **FUTURE CONFERENCES**  
 
 - Washington, DC, USA, November 16-19, 2023  
-- Toronto, Canada, 2024 
+- Toronto, Canada, October 31 - November 3, 2024 
 - Chicago, USA, 2025
 
 **Past Conference Programs>>** https://ssha.org/programs/  
