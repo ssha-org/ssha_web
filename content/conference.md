@@ -6,7 +6,7 @@ title = "Annual Conference"
 
 ### **ABOUT THE SSHA ANNUAL CONFERENCE**  
 
-<h2><a href="http://ssha2023.ssha.org/" target="_blank" role="button" class="btn btn-default btn-lg"><i><h3>2023 Annual Conference Submissions Now Open</h3></i></a></h2><br />
+<h2><a href="http://ssha2023.ssha.org/" target="_blank" role="button" class="btn btn-default btn-lg"><i><h3>2023 Conference Submission Deadline Extended</h3></i></a></h2><br />
 
 The SSHA conference meets annually, usually in November. The location changes according to the following logic: once every three years in Chicago, once every three years somewhere on the ‘East Coast’ and once every three years somewhere else. Since 2010, the Association has extended its reach to include Canadian cities as possible locations. The conference involves over a thousand scholars from around the world, although graduate students and faculty from the leading American universities predominate.  
 <br />  
@@ -68,6 +68,7 @@ The _Richard Sutch Student Travel Awards_ application will be available for the 
 ### **FUTURE CONFERENCES**  
 
 - Washington, DC, USA, November 16-19, 2023  
-- TBD, 2024  
+- Toronto, Canada, 2024 
+- Chicago, USA, 2025
 
 **Past Conference Programs>>** https://ssha.org/programs/  
