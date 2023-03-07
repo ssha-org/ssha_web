@@ -51,7 +51,7 @@ B. **Publications Committee**
 
 5. Report to the officers and Executive Committee at annual meeting.
 
-6. Vice President selects a chair, normally one of the two members entering the third and final year of service.
+6. The President selects a chair, normally one of the two members entering the third and final year of service.
 
 C. **President's Book Award Committee**
 
