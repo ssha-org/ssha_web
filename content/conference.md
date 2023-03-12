@@ -16,11 +16,26 @@ The SSHA conference meets annually, usually in November. The location changes ac
 Our 2023 conference will be held in Washington DC on November 16-19, 2023.  This year’s theme is <i>“Pursuits of Wellbeing.”</i> For a description of the theme and the CFP, please go to https://ssha.org/files/2023_SSHA_CFP.pdf  
 <h2><a href="https://ssha.org/files/2023_SSHA_CFP.pdf" target="_blank" role="button" class="btn btn-default btn-lg"><i><h3>SSHA Call for Papers</h3></i></a></h2><br />  
 
-<i>Registration</i>
+**Registration**
 
-Registration fees include admittance to all paper sessions, as well as Thursday and Saturday receptions. All session participants must register for the conference and be (or become) a member of SSHA.  
+Registration fees include admittance to all paper sessions, as well as Thursday and Saturday receptions. All session participants must register for the conference and be (or become) a member of SSHA.    
 
-If your membership is not current, you will not be able to register for the conference as a member.  Please sign up for membership, or renew your membership prior to filling out the conference registration form. Membership information is below.  
+<u>Conference Registration Pricing:</u>  
+
+| &emsp; | &emsp; | Early Bird | &emsp; | Regular | &emsp; | Late |  
+--- | --- | :---: | :--- | :---: | :--- | :---:  
+| &emsp; | | (Before Jul. 1) | | (Before Oct. 1) | | (Oct. 1 -- after)  
+&emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp; |&emsp;
+Senior/tenured:| | $350 | | $395 | | $450  
+&emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp; |&emsp;  
+Faculty line:| | $300 | | $330  | | $350  
+&emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp; |&emsp;  
+Contingent:| | $195 | | $200 | | $210  
+&emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp; |&emsp;  
+Student:| | $60 |  | $65  | | $70  
+<br />  
+
+**Please Note**: If your membership is not current, you will not be able to register for the conference as a member.  Please sign up for membership, or renew your membership prior to filling out the conference registration form. Membership information is below.
 
 **Visa Information:**  
 
