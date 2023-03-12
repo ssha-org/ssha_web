@@ -20,7 +20,7 @@ Our 2023 conference will be held in Washington DC on November 16-19, 2023.  This
 
 Registration fees include admittance to all paper sessions, as well as Thursday and Saturday receptions. All session participants must register for the conference and be (or become) a member of SSHA.    
 
-<u>Conference Registration Pricing:</u>  
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <u>Conference Registration Pricing</u>
 
 | &emsp; | &emsp; | Early Bird | &emsp; | Regular | &emsp; | Late |  
 --- | --- | :---: | :--- | :---: | :--- | :---:  
