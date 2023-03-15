@@ -5,6 +5,42 @@ title = "SSHA News"
 +++  
 
 ## **SSHA News**  
+ 
+<hr width=300; align=left>  
+<p><font size="3"><i>15 March 2023</i></font></p>
+<h3><b>Conference Update from SSHA President Anne McCants</b></h3>
+<br />
+<p><font size="4">Dear Colleagues,</font></p>  
+
+<p><font size="4">I am delighted to serve as your President this year and to alert you to some important information about the upcoming SSHA Annual Conference, “Pursuits of Wellbeing,” to be held in Washington DC, November 16-19, 2023.</font></p>  
+
+<p><font size="4"><b>Submission Deadline</b><br />
+The deadline for submission to the Annual Conference has been extended to March 17, 2023, so there is still more time in which to submit your proposals. More information on the conference, submissions and the submission portal can be found at: <a href="https://ssha2023.ssha.org/" target="_blank"><b>https://ssha2023.ssha.org/</b></a>.</font></p>  
+
+<p><font size="4"><b>Format</b><br /> 
+The 2022 meeting replicated the hybrid format adopted in the previous year, although in-person participation became the dominant mode again. While there remain some much-appreciated advantages to facilitating remote participation, the full hybrid modality proved both less effective once the balance of participation had shifted to in-person, and very expensive in terms of the vendor labor required to ensure its smooth functioning. That it worked as well as it did in Chicago is thanks to the prodigious efforts of the team at Indiana University Conferences, and a burdensome budget outlay.</font></p>
+ 
+<p><font size="4">Many members who participated in the January survey sent to all members of the Association expressed a strong desire to maintain the focus and value of an in-person meeting as that provides important social and networking opportunities. The survey was followed up by an open zoom Town Hall meeting (the recording of which can be found here: <a href="https://vimeo.com/791032292" target="_blank"><b>https://vimeo.com/791032292</b></a>) where the consensus view was also to prioritize in-person participation, with limited options for remote connection. Therefore, we are planning for our 2023 meeting to be in-person, yet with freely-available virtual access to the Business Meeting and the Presidential Address. We also are working toward accommodating the occasional remote presentation for those in unusual circumstances, similar to pre-COVID conference AV arrangements.</font></p>
+
+<p><font size="4"><b>Registration Fees</b><br /> 
+The newly instituted sliding-scale registration fee structure for our 2022 meeting was a source of much discussion and concern. Many members of the Association have long desired that we adopt a sliding-scale fee, and our first attempt at identifying the categories, and associated fees, did not yet find a balance that served the Association well. Much effort has gone into rethinking the fee structure for the 2023 meeting, but with a continued commitment to supporting a lower fee for junior or adjunct scholars with a higher fee for established and senior scholars. The conference registration fees for 2023 can be found at: <a href="https://ssha.org/conference/" target="_blank"><b>https://ssha.org/conference/</b></a>.</font></p>
+ 
+<p><font size="4">The gap between the highest and lowest fees has been narrowed for this year, by lowering the highest fee from that required last year and raising very modestly the lower fees. Moreover, we are cutting costs as much as we can by dropping the AV services required to run a full-hybrid meeting.</font></p>
+
+<p><font size="4">We are also introducing an Early Bird Registration discount for every category for those who register prior to July 1, 2023. This will be a boon to all of you, as well as offer the program committee valuable information earlier in the conference planning process about the stability of planned sessions.</font></p> 
+
+<p><font size="4"></font><b>Conference Program Committee</b><br />
+Finally, I hope you will join me in thanking the Association’s officers: Vice President Lisa Dillon, Executive Director Jeffrey Beemer, and Treasurer Damon Mayrl. And a special thanks to this year’s Network Representatives--who comprise the heart of the Program Committee--for their hard work of planning and providing input to the several financial/modality issues we had to resolve before they could enjoin their work. Our annual meetings would not be possible without their immense labor (all done on a volunteer basis), so they are deserving of all our gratitude. The program co-chairs are:</font></p>  
+
+- Joyce Burnette, Wabash College
+- Sakari Saaritsa, University of Helsinki
+- Richard Zijdeman, International Institute of Social History
+
+<br />
+<p><font size="4">Sincerely,</font></p>  
+Anne McCants<br />
+SSHA President, 2023</font></p><br />  
+<br />
 
 <hr width=300; align=left>  
 <h2>2022 SSHA Post-Conference in Chicago Survey Results</h2>
