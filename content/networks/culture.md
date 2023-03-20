@@ -14,4 +14,5 @@ The culture network seeks work exploring culture in two ways. First, we are eage
 - [Shai Dromi](mailto:shai.dromi@g.harvard.edu)
 - [Tad Skotnicki](mailto:tpskotni@uncg.edu)
 - [Elisabeth Becker](mailto:elisabeth.becker-topkara@mwi.uni-heidelberg.de)
-- [Robert Woodberry](mailto:robert_woodberry@baylor.edu)
+- [Robert Woodberry](mailto:robert_woodberry@baylor.edu)  
+- [Moira O’Shea](mailto:moshea@uchicago.edu)  
