@@ -15,8 +15,6 @@ We invite submissions of papers or (preferably) full panels by February. We were
 
 ### Network Representatives
 
-- [Joyce Burnett](mailto:burnettj@wabash.edu)  
 - [Jari Eloranta](mailto:jari.eloranta@helsinki.fi)  
-- [Sakari Saaritsa](mailto:Sakari.Saaritsa@helsinki.fi)  
 - [Peter Meyer](mailto:Meyer.Peter@bls.gov)  
 - [James Siodla](mailto:jrsiodla@colby.edu)  
