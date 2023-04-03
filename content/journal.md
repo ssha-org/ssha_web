@@ -4,10 +4,18 @@ title = "Social Science History"
 
 +++
 
-## **Social Science History**
+## **Social Science History**  
 
-<hr width=300; align=left> 
+<hr width=300; align=left>  
 
+## **Call for Papers!**
+
+In the past decade, there has been an explosion of methods to analyze social science data, as well as increase in the raw data available to do so! Even what counts as data has been revolutionized. We announce a new series, **“Advances in Data and Methods” in <i>Social Science History</i>** to keep researchers up to date on these developments. We invite research articles and review essays for this new series that propose, develop or explain new or recently articulated sources and/or methodological techniques for use in social science history. Methods and data can be qualitative or quantitative. In all cases, we envision papers that push open new avenues, in terms of methods and data, to advance research. We invite review essays as well as substantive papers that apply these advances in data and methods. These papers will be published in the journal as they arrive, but they will also be linked in a virtual issue so that the series can be a continuing resource for scholars.  
+
+All papers will be peer reviewed. They are all eligible to win the journal prizes given by Cambridge University Press, the annual Founder’s Prize and the Biannual Graduate Student Prize. *Social Science History* has a wide readership, as it goes to all members of the Social Science History Association. To submit a proposal, please email socialsciencehistory@ssha.org with a one-page abstract, a title, your contact information, and a proposed timeline.  
+<br />  
+
+### The Journal  
 *Social Science History* is dedicated to the study of social theory within an empirical historical context. Our interdisciplinary readership includes anthropologists, demographers, economists, geographers, historians, political scientists, and sociologists, all in pursuit of a deep understanding of societies, past and present. The journal invites articles that blend empirical research with theoretical work, undertake comparisons across time and space, or contribute to the development of quantitative and qualitative methods of analysis. As the official journal of the Social Science History Association, *Social Science History* reflects the interests of members who are active in the Association’s diverse range of research networks. However, it also welcomes submissions from the broader international research community of historically informed social scientists.  
 
 *Social Science History* is published by [**Cambridge University Press**](https://www.cambridge.org/core/journals/social-science-history). The contact email for the editorial office is <socialsciencehistory@ssha.org>. Information about the Editors and Editorial Board can be found here: [**SSH Editors and Editorial Board**](/editors_board/).  
