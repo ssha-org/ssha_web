@@ -13,6 +13,8 @@ A $1,000 prize to be awarded annually for the best article published in the prec
 *Year* | &emsp; | *Author* | &emsp; | *Title*
 :--- | :--- | :--- | :--- | :---
 &emsp; | &emsp; | &emsp;| &emsp;| &emsp;
+2020 | | Steven Sprick Schuster, Matthew Jaremski and Elisabeth Ruth Perlman | | [An Empirical History of the US Postal Savings System.](https://doi.org/10.1017/ssh.2020.31)
+&emsp; | &emsp; | &emsp;| &emsp;| &emsp;
 2019 | | Kinga Makovi | | [The Signatures of Social Structure: Petitioning for the Abolition of the Slave Trade in Manchester.](https://doi.org/10.1017/ssh.2019.25)
 &emsp; | &emsp; | &emsp;| &emsp;| &emsp;
 2018 | | Lisa D. Cook, Trevon D. Logan and John M. Parman | | [Racial Segregation and Southern Lynching.](https://doi.org/10.1017/ssh.2018.21)

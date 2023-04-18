@@ -12,7 +12,10 @@ A $500 prize to be awarded biennially for the best article by a graduate student
 
 *Year* | &emsp; | *Author* | &emsp; | *Title*
 :--- | --- | :--- | --- | :---
-2017 | | Alexandre White. | | [Global Risks, Divergent Pandemics: Contrasting Responses to Bubonic Plague and Smallpox in 1901 Cape Town.](https://doi.org/10.1017/ssh.2017.41)
+&emsp; | &emsp; | &emsp;| &emsp;| &emsp; 
+2019 | | Nate Ela | | [Use-Based Welfare: Property Experiments in Chicago, 1895–1935.](https://doi.org/10.1017/ssh.2019.12)
+&emsp; | &emsp; | &emsp;| &emsp;| &emsp; 
+2017 | | Alexandre White | | [Global Risks, Divergent Pandemics: Contrasting Responses to Bubonic Plague and Smallpox in 1901 Cape Town.](https://doi.org/10.1017/ssh.2017.41)
 &emsp; | &emsp; | &emsp;| &emsp;| &emsp; 
 2015 | | Francisco J. Beltrán Tapia | | [Goths and Vandals” or “Civilized” Farmers?: Common Lands and Agricultural Productivity in Early-Twentieth-Century Spain.](https://doi.org/10.1017/ssh.2015.52)
 &emsp; | &emsp; | &emsp;| &emsp;| &emsp; 
