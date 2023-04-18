@@ -6,11 +6,11 @@ title = "Social Science History"
 
 ## Allan Sharlin Memorial Book Award  
 
-**Submissions for the Allan Sharlin Memorial Book Award will open TBD.** Books published in 2022 are eligible for consideration. Submissions with a postmark of TBD (or earlier) will be accepted. Late entries will not be considered. Authors or publishers wishing to nominate a book should mail a book to each member of the award committee. Self-nominations are accepted. 
+**Submissions for the Allan Sharlin Memorial Book Award will open soon.** Books published in 2022 are eligible for consideration. Submissions with a postmark of TBD (or earlier) will be accepted. Late entries will not be considered. Authors or publishers wishing to nominate a book should mail a book to each member of the award committee. Self-nominations are accepted. 
  
 A $1,000 prize is awarded annually for an outstanding book in social science history to honor the memory of Allan Sharlin. Allan exemplified the finest traditions of social science history. His training and scholarship were broadly interdisciplinary and he used both quantitative and more traditional methodologies.    
 
-**Please note:** the 2023 award committees are still being formed. Please check back periodically for updates.  
+**Please note:** The 2023 award committees are still being formed. Please check back periodically for updates. 
 
 Authors or publishers wishing to nominate a book should <u>**mail copies**</u> to each member of the award committee.  
 
