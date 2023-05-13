@@ -10,8 +10,24 @@ title = "SSHA In Memoriam"
 
 <hr width=300; align=left>  
 
+**Stanley L. Engerman**  
+March 14, 1936 - May 11, 2023  
+<br />
+
+ [Stanley L. Engerman](https://brightonmc.com/obituaries/stanley-lewis-engerman/2632/), devoted husband, father, grandfather, and scholar, died peacefully in his sleep on May 11, 2023, at the age of 87.  He had been battling Myelodysplastic Syndrome (MDS) for much of 2023.  Together with his late wife Judith Rader Engerman (1940-2019), he raised three sons and kept a lively household with a stream of friends and colleagues visiting from near and far.  
+
+They spent much of their lives in Rochester, New York, moving there in 1963 when he was hired as Assistant Professor of Economics at the University of Rochester.  He gravitated to the field of economic history, which he had first been exposed to while completing his doctorate at The Johns Hopkins University.  His most widely read work was Time on the Cross (1974), an economic analysis of American slavery, which he wrote together with Robert Fogel; that book won the Bancroft Prize in American History and is widely recognized for its significant contributions to the understanding of the pre-Civil War South.  In the 1990s, he and collaborator Ken Sokoloff published a series of influential articles that were collected in a volume, Economic Development in the Americas (2012).  Among his many professional honors were elections to the presidencies of the Economic History Association and the Social Science History Association, and appointment as the Pitt Professor in American History at the University of Cambridge.  He retired as the John H. Munro Professor of Economics and History at the University of Rochester in 2017.
+
+Shortly after his retirement, Stan and Judy moved to the Boston area to be closer to their three sons and six grandchildren.  He is predeceased by Judy, who died in 2019; he is survived by his sister Natalie Mayrsohn and by sons David (and wife Stephanie Wratten, children Nina and Simon), Mark (and wife Jill Engerman, children Kaylin and Brandon), and Jeff (and children Maxwell and El, and partner Julia and her two daughters).
+
+A memorial service will be held on Sunday May 21st at 11 am at Brighton Memorial Chapel, 3325 Winton Road South, Rochester New York.  In lieu of flowers, please consider donations in his memory to the Stanley L. Engerman Endowed Fund for Economics at the University of Rochester, or to the American Cancer Society.  
+<br />
+
+<hr width=300; align=left>  
+
 **Augustus Leon (Lee) Beier IV**    
-10/1/41-2/25/23  
+October 1, 1941 - February 25, 2023  
+<br />
 
 He had a big personality to match his tall frame. People remember his enthusiasm for conversation, rock ‘n roll, soccer, basketball (Go, Bulls!), and anything with a motor. Lee Beier, who died on February 25, 2023, after a long battle with Parkinson’s Disease and Lewy Body Dementia, lived his 81 years to the fullest.  
 
