@@ -6,15 +6,17 @@ title = "Social Science History"
 
 ## Allan Sharlin Memorial Book Award  
 
-**Submissions for the Allan Sharlin Memorial Book Award will open soon.** Books published in 2022 are eligible for consideration. Submissions with a postmark of TBD (or earlier) will be accepted. Late entries will not be considered. Authors or publishers wishing to nominate a book should mail a book to each member of the award committee. Self-nominations are accepted. 
+**Submissions for the Allan Sharlin Memorial Book Award are <u>NOW OPEN</u>.**  
+
+Books published in 2022 are eligible for consideration. Submissions with a postmark of June 15, 2023 (or earlier) will be accepted. Late entries will not be considered. Authors or publishers wishing to nominate a book should mail a book to each member of the award committee. Self-nominations are accepted. 
  
 A $1,000 prize is awarded annually for an outstanding book in social science history to honor the memory of Allan Sharlin. Allan exemplified the finest traditions of social science history. His training and scholarship were broadly interdisciplinary and he used both quantitative and more traditional methodologies.    
 
-**Please note:** The 2023 award committees are still being formed. Please check back periodically for updates. 
+**Submission Deadline:** Submissions with a **postmark of June 15, 2023 (or earlier)** will be accepted. Late entries will not be considered. 
 
-Authors or publishers wishing to nominate a book should <u>**mail copies**</u> to each member of the award committee.  
+Authors or publishers wishing to nominate a book should <u>**mail copies to**</u> each member of the award committee.  
 
-### Award Committee (in process)  
+### Award Committee  
 
 - Diana Magnuson (Chair)  
 Institute for Social Research & Data Innovation  
@@ -22,6 +24,16 @@ University of Minnesota
 225 19th Avenue S, 50 Willey Hall  
 Minneapolis, MN 55455  
 magn0031@umn.edu  
+
+- Martha Wilfahrt  
+210 Social Sciences Building  
+Berkeley, CA 94720-1950  
+martha.wilfahrt@berkeley.edu  
+
+- Daniel Scott Smith  
+1428 Grove Street #1  
+San Francisco, CA 94117  
+danielscottsmith@stanford.edu  
 
 - Jeffrey Beemer (SSHA Executive Director)  
 Social Science History Association  
