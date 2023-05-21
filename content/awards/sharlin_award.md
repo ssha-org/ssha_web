@@ -14,7 +14,7 @@ A $1,000 prize is awarded annually for an outstanding book in social science his
 
 **Submission Deadline:** Submissions with a **postmark of June 15, 2023 (or earlier)** will be accepted. Late entries will not be considered. 
 
-Authors or publishers wishing to nominate a book should <u>**mail print copies to**</u> each member of the award committee. **PDF or emailed copies will not be considered.**
+Authors or publishers wishing to nominate a book should <u>**mail print copies to**</u> each member of the award committee. **Electronic (PDF, linked, emailed) copies will not be considered.**
 
 ### Award Committee  
 
