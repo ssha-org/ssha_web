@@ -6,11 +6,32 @@ title = "Social Science History"
 
 ## Presidents Book Award  
 
-**Submissions for the Presidents Book Award will open soon.** A $1000 prize is awarded annually for a meritorious first work by an early-career scholar. Entrants are judged on scholarly significance, interdisciplinary reach, and methodological innovativeness within monographs analyzing past structures and events and change over time. Books with a copyright date of the previous year that are published within eight years of the author's Ph.D. are eligible for consideration.
+**Submissions for the Presidents Book Award are <u>NOW OPEN</u>.**  
 
-**Please note:** The 2023 award committees are still being formed. Please check back periodically for updates.
+A $1000 prize is awarded annually for a meritorious first work by an early-career scholar. Entrants are judged on scholarly significance, interdisciplinary reach, and methodological innovativeness within monographs analyzing past structures and events and change over time. Books with a copyright date of the previous year that are published within eight years of the author's Ph.D. are eligible for consideration.
 
-### Award Committee (in process)  
+**Submission Deadline:** Submissions with a **postmark of June 30, 2023 (or earlier)** will be accepted. Late entries will not be considered. 
+
+Authors or publishers wishing to nominate a book should <u>**mail print copies to**</u> each member of the award committee. **Electronic (PDF, linked, emailed) copies will not be considered.**
+
+### Award Committee
+
+- J. David Hacker (Chair)  
+4840 Vincent Ave S  
+Minneapolis, MN 55410  
+hacke010@umn.edu  
+
+- Fiona Greenland  
+710 Belmont Avenue  
+Charlottesville, VA 22902  
+fg5t@virginia.edu  
+
+- Ho-fung Hung  
+Dept of sociology  
+Johns Hopkins university  
+3400 N Charles street  
+Baltimore, MD 21218  
+hofung@jhu.edu  
 
 - Jeffrey Beemer (SSHA, Executive Director)  
 President's Book Award  
@@ -18,7 +39,7 @@ Social Science History Association
 176 Savery Rd  
 Searsport, ME 04974  
 jbeemer@ssha.org  
-
+<br/>  
 ### Past Winners
 
 *Year* | &emsp; | *Author* | &emsp; | *Institution* | *Title*
