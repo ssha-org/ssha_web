@@ -27,8 +27,8 @@ Charlottesville, VA 22902
 fg5t@virginia.edu  
 
 - Ho-fung Hung  
-Dept of sociology  
-Johns Hopkins university  
+Dept of Sociology  
+Johns Hopkins University  
 3400 N Charles street  
 Baltimore, MD 21218  
 hofung@jhu.edu  
