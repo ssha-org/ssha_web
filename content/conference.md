@@ -4,17 +4,20 @@ title = "Annual Conference"
 
 +++
 
+### **THE 2023 ANNUAL CONFERENCE**  
+
+Our 2023 conference will be held in Washington DC on November 16-19, at the Hilton Washington DC Capitol Hill. This will mark the 49th annual meeting of the Social Science History Association. This year's theme is "Pursuits of Wellbeing." Please refer to the SSHA Call for Papers linked below for Further information.
+<h2><a href="https://ssha.org/files/2023_SSHA_CFP.pdf" target="_blank" role="button" class="btn btn-default btn-lg"><i><h3>SSHA Call for Papers</h3></i></a></h2>  
+<br />  
+
 ### **ABOUT THE SSHA ANNUAL CONFERENCE**  
 
 The SSHA conference meets annually, usually in November. The location changes according to the following logic: once every three years in Chicago, once every three years somewhere on the ‘East Coast’ and once every three years somewhere else. Since 2010, the Association has extended its reach to include Canadian cities as possible locations. The conference involves over a thousand scholars from around the world, although graduate students and faculty from the leading American universities predominate.  
 <br />  
 
-### **THE 2023 ANNUAL CONFERENCE**  
+**Registration**  
 
-Our 2023 conference will be held in Washington DC on November 16-19, 2023.  This year’s theme is <i>“Pursuits of Wellbeing.”</i> For a description of the theme and the CFP, please go to https://ssha.org/files/2023_SSHA_CFP.pdf  
-<h2><a href="https://ssha.org/files/2023_SSHA_CFP.pdf" target="_blank" role="button" class="btn btn-default btn-lg"><i><h3>SSHA Call for Papers</h3></i></a></h2><br />  
-
-**Registration**
+SSHA requires that all session participants register for the annual meeting and be (or become) members of the SSHA.  If your membership is not current, you will not be able to register for the conference as a member.  Please sign up for membership, or renew your membership prior to filling out the conference registration form.  
 
 Registration fees include admittance to all paper sessions, as well as Thursday and Saturday receptions. All session participants must register for the conference and be (or become) a member of SSHA.    
 
