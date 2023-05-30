@@ -6,8 +6,6 @@ title = "Annual Conference"
 
 ### **ABOUT THE SSHA ANNUAL CONFERENCE**  
 
-<h2><a href="http://ssha2023.ssha.org/" target="_blank" role="button" class="btn btn-default btn-lg"><i><h3>2023 Conference Submission Deadline Extended</h3></i></a></h2><br />
-
 The SSHA conference meets annually, usually in November. The location changes according to the following logic: once every three years in Chicago, once every three years somewhere on the ‘East Coast’ and once every three years somewhere else. Since 2010, the Association has extended its reach to include Canadian cities as possible locations. The conference involves over a thousand scholars from around the world, although graduate students and faculty from the leading American universities predominate.  
 <br />  
 
@@ -24,7 +22,7 @@ Registration fees include admittance to all paper sessions, as well as Thursday 
 
 | &emsp; | &emsp; | Early Bird | &emsp; | Regular | &emsp; | Late |  
 --- | --- | :---: | :--- | :---: | :--- | :---:  
-| &emsp; | | (Before Jul. 1) | | (Before Oct. 1) | | (Oct. 1 -- after)  
+| &emsp; | | (Before Jul. 15) | | (Before Oct. 1) | | (Oct. 1 -- after)  
 &emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp; |&emsp;
 Senior/tenured:| | $350 | | $395 | | $450  
 &emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp; |&emsp;  
