@@ -21,7 +21,7 @@ SSHA requires that all session participants register for the annual meeting and 
 
 Registration fees include admittance to all paper sessions, as well as Thursday and Saturday receptions. All session participants must register for the conference and be (or become) a member of SSHA.    
 
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <u>Conference Registration Pricing</u>
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <u>Conference Registration Pricing (member rate)</u>
 
 | &emsp; | &emsp; | Early Bird | &emsp; | Regular | &emsp; | Late |  
 --- | --- | :---: | :--- | :---: | :--- | :---:  
@@ -34,6 +34,17 @@ Faculty line:| | $300 | | $330  | | $350
 Contingent:| | $195 | | $200 | | $210  
 &emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp; |&emsp;  
 Student:| | $60 |  | $65  | | $70  
+<br />  
+
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <u>Non-Session Participant (non-member rate)</u>  	
+
+| &emsp; | &emsp; | Early Bird | &emsp; | Regular | &emsp; | Late |  
+--- | --- | :---: | :--- | :---: | :--- | :---:  
+| &emsp; | | (Before Jul. 15) | | (Before Oct. 1) | | (Oct. 1 -- after)  
+&emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp; |&emsp;
+Faculty line (all):| | $400 | | $425 | | $475  
+&emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp; |&emsp;  
+Student:| | $10 | | $15  | | $20  
 <br />  
 
 **Please Note**: If your membership is not current, you will not be able to register for the conference as a member.  Please sign up for membership, or renew your membership prior to filling out the conference registration form. Membership information is below.
