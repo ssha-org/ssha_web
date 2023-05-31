@@ -6,7 +6,7 @@ title = "Annual Conference"
 
 ### **THE 2023 ANNUAL CONFERENCE**  
 
-Our 2023 conference will be held in Washington DC on November 16-19, at the Hilton Washington DC Capitol Hill. This will mark the 49th annual meeting of the Social Science History Association. This year's theme is "Pursuits of Wellbeing." Please refer to the SSHA Call for Papers linked below for Further information.
+Our 2023 conference will be held in Washington DC on November 16-19. This will mark the 49th annual meeting of the Social Science History Association. This year's theme is "Pursuits of Wellbeing." Please refer to the SSHA Call for Papers linked below for Further information.
 <h2><a href="https://ssha.org/files/2023_SSHA_CFP.pdf" target="_blank" role="button" class="btn btn-default btn-lg"><i><h3>SSHA Call for Papers</h3></i></a></h2>  
 <br />  
 
