@@ -61,23 +61,28 @@ If you require a confirmation letter for your visa application, please send proo
 <u>Please DO NOT send birthdate or passport numbers.</u>  
 
 <br />
-<i>Membership</i>  
+
+**Membership**  
 
 SSHA Membership is on a rolling basis—good for 12 months from the date of your joining/renewal—and includes a subscription to the Social Science History journal. If you have not yet signed up or renewed your membership, please do so before registering for the conference, in order to receive the discounted member registration fee.  
  
-**Membership Price:**  
 Senior Scholars: $90  
 Early Mid-Career: $60  
 Students: $30  
 
 To sign up for an SSHA membership, please visit the <a href="https://indianauniv-web.ungerboeck.com/mbd/mbd_p23_add_member.aspx?oc=10&cc=SSHA-MEMBER" target="_blank">SSHA membership registration website</a>.  
+<br />  
 
-&emsp;  
+**Cancellations**
+
+Cancellation requests must be received in writing to the Conference Registrar at iuconfs@indiana.edu no later than October 19, 2023, to be eligible for a refund (less a $50 cancellation fee). No refunds will be issued after that date.  
+<br />  
+
 For questions about registration please contact:  
 
 Melissa Kocias  
 <iuconfs@iu.edu>  
-812.855.4224 * 800.933.9330 * 812.855.8077 (fax) 
+812.855.4224 * 800.933.9330
 <br />  
 <i>Hotel Information & Reservations</i>  
 
