@@ -10,7 +10,7 @@ title = "Annual Conference"
 **NOTE: Registration for the 2023 SSHA annual conference will open up soon. Please check back for updates.**  
 
 <br />  
-Our 2023 conference will be held in Washington DC on November 16-19. This will mark the 49th annual meeting of the Social Science History Association. This year's theme is "Pursuits of Wellbeing." Please refer to the SSHA Call for Papers linked below for Further information.
+Our 2023 conference will be held in Washington DC on November 16-19 at the Hyatt Regency Washington on Capitol Hill. This will mark the 49th annual meeting of the Social Science History Association. This year's theme is "Pursuits of Wellbeing." Please refer to the SSHA Call for Papers linked below for Further information.
 <h2><a href="https://ssha.org/files/2023_SSHA_CFP.pdf" target="_blank" role="button" class="btn btn-default btn-lg"><i><h3>SSHA Call for Papers</h3></i></a></h2>  
 <br />  
 
@@ -91,6 +91,12 @@ Melissa Kocias
 <i>Hotel Information & Reservations</i>  
 
 SSHA recognizes that you have a number of options when securing hotel accommodations for the annual meeting.  It is important to keep in mind that SSHA has made a major commitment to the conference hotel in order to secure a large block of quality hotel rooms at competitive prices in a convenient location.  SSHA is legally bound to fill these rooms.  Not doing so has severe financial implications for SSHA, both in the current year and in years to come, and will almost certainly raise your costs of attending future annual meetings.  
+<br />
+
+Hyatt Regency Washington on Capitol Hill  
+400 New Jersey Avenue, NW  
+Washington, D.C.  
+USA  
  
 <br />
 <i>Awards and Grants</i>  
@@ -99,7 +105,7 @@ The Association promotes high quality scholarship through its awards program, wh
 <br />
 <i>Richard Sutch Student Travel Awards</i>  
 
-The _Richard Sutch Student Travel Awards_ application will be available for the 2023 SSHA annual conference in June of 2023.
+The _Richard Sutch Student Travel Awards_ application will be available for the 2023 SSHA annual conference on June 15th, 2023.
 <br />
 ### **FUTURE CONFERENCES**  
 
