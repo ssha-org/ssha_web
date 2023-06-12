@@ -14,6 +14,18 @@ Our 2023 conference will be held in Washington DC on November 16-19 at the Hyatt
 <h2><a href="https://ssha.org/files/2023_SSHA_CFP.pdf" target="_blank" role="button" class="btn btn-default btn-lg"><i><h3>SSHA Call for Papers</h3></i></a></h2>  
 <br />  
 
+**Visa Information:**  
+
+For additional information regarding travel visa’s please visit the U.S. Department of State- Bureau of Consular Affairs link to attain the correct visa for your visit https://travel.state.gov/content/travel/en/us-visas.html. Wait times vary by point of origin. Please plan accordingly.
+
+**Visa Letters:**  
+
+If you require a confirmation letter for your visa application, please send proof of paid registration, your name as it appears on your passport, and your current address to: 
+<iuconfs@iu.edu> 
+
+<u>Please DO NOT send birthdate or passport numbers.</u>  
+<br />
+
 ### **ABOUT THE SSHA ANNUAL CONFERENCE**  
 
 The SSHA conference meets annually, usually in November. The location changes according to the following logic: once every three years in Chicago, once every three years somewhere on the ‘East Coast’ and once every three years somewhere else. Since 2010, the Association has extended its reach to include Canadian cities as possible locations. The conference involves over a thousand scholars from around the world, although graduate students and faculty from the leading American universities predominate.  
@@ -52,17 +64,6 @@ Student:| | $10 | | $15  | | $20
 <br />  
 
 **Please Note**: If your membership is not current, you will not be able to register for the conference as a member.  Please sign up for membership, or renew your membership prior to filling out the conference registration form. Membership information is below.
-
-**Visa Information:**  
-
-For additional information regarding travel visa’s please visit the U.S. Department of State- Bureau of Consular Affairs link to attain the correct visa for your visit https://travel.state.gov/content/travel/en/us-visas.html. Wait times vary by point of origin. Please plan accordingly.
-
-**Visa Letters:**  
-
-If you require a confirmation letter for your visa application, please send proof of paid registration, your name as it appears on your passport, and your current address to: 
-<iuconfs@iu.edu> 
-
-<u>Please DO NOT send birthdate or passport numbers.</u>  
 
 <br />
 
