@@ -101,7 +101,7 @@ USA
 <br />
 <i>Awards and Grants</i>  
 
-The Association promotes high quality scholarship through its awards program, which recognize the best work by a younger scholar and the best work by any scholar in our many fields. We also facilitate the participation of graduate students through a travel grant. Please note that students applying for these funds need to fill out the appropriate form and submit it along with their proposed to the network representatives. They will be informed of the result of that competition at the same time as they hear whether or not their paper has been accepted.  
+The Association promotes high quality scholarship through its awards program, which recognize the best work by a younger scholar and the best work by any scholar in our many fields. We also facilitate the participation of graduate students through a limited number of travel grants. Please note that students must apply for these funds and will be informed of the result of that competition via email after the application process has closed (see below).  
 <br />
 <i>Richard Sutch Student Travel Awards</i>  
 
