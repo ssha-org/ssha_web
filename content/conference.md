@@ -6,7 +6,7 @@ title = "Annual Conference"
 
 ### **The 2023 SSHA annual conference registration is now open!**  
 
-<h2><a href="https://indianauniv.ungerboeck.com/prod/emc00/register.aspx?aat=p62TcM7tSGNbheobA6WS0GGmCJn1yK8LbHTLTpkdyck%3d" target="_blank" role="button" class="btn btn-default btn-lg"><i><h3>2023 SSHA Conference Registration</h3></i></a></h2>  
+<h2><a href="https://indianauniv.ungerboeck.com/prod/emc00/register.aspx?aat=p62TcM7tSGNbheobA6WS0GGmCJn1yK8LbHTLTpkdyck%3d" target="_blank" role="button" class="btn btn-default btn-lg"><i><h3>2023 SSHA Conference Registration Here</h3></i></a></h2>  
 <br />  
 
 Our 2023 conference will be held in Washington DC on November 16-19 at the Hyatt Regency Washington on Capitol Hill. This will mark the 49th annual meeting of the Social Science History Association. This year's theme is "Pursuits of Wellbeing." Please refer to the <a href="https://ssha.org/files/2023_SSHA_CFP.pdf" target="_blank">SSHA Call for Papers</a> for further information.  
