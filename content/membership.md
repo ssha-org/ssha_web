@@ -7,6 +7,8 @@ title = "Social Science History Membership"
 ## **Membership in SSHA**
 
 <hr width=300; align=left>
+<h2><a href="https://indianauniv-web.ungerboeck.com/mbd/mbd_p23_add_member.aspx?oc=10&cc=SSHA-MEMBER" target="_blank" role="button" class="btn btn-default btn-lg"><i><h3>Register for your SSHA membership here</h3></i></a></h2>  
+<br />
 
 The Social Science History Association is an interdisciplinary group of scholars that shares interests in social life and theory; historiography, and historical and social-scientific methodologies. SSHA might be best seen as a coalition of distinctive scholarly communities. Our substantive intellectual work ranges from everyday life in the medieval world – and sometimes earlier – to contemporary global politics, but we are united in our historicized approach to understanding human events, explaining social processes, and developing innovative theory.
 
