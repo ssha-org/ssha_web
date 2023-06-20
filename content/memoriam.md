@@ -10,6 +10,26 @@ title = "SSHA In Memoriam"
 
 <hr width=300; align=left>  
 
+**Benita Roth**  
+June 1, 1960 - May 27th, 2023  
+<br />  
+
+[Professor Benita Roth](https://www.binghamton.edu/sociology/faculty/benita-roth.html), a feminist intersectional scholar, union leader, and valued colleague, teacher and advisor, died on May 27th, 2023. She was 62.  
+
+Benita Roth was Professor of Sociology and History, and Director of the transdisciplinary program in Women, Gender and Sexuality Studies at Binghamton University. From 2010-2015, she also served as the associate editor for the Journal of Women’s History.  
+
+Building on feminist intersectional scholarship, Benita Roth’s research foregrounds the work of feminists and those who fought the ravages of AIDS and opioids, even as it unflinchingly captures the inequalities that fissured these movements. In recognition of the important contributions it made, her first book, Separate Roads to Feminism: Black Chicana, and White Feminist Movements in America's Second Wave (Cambridge U. Press, 2004), earned the distinguished book award in sex and gender from the American Sociological Association. According to the [awards committee](https://asasexandgender.files.wordpress.com/2015/02/october6.pdf), the book filled “a critical gap by…taking on the mainstream account that claims women of color came late to feminism.” Instead, as Roth’s work shows, “Black and Chicana feminism emerged at the same time as women's liberation” and that “by incorporating race and class, not just gender, in their analyses, these women-of-color groups anticipated the "intersectional" theorizing that has so influenced our field over the past 20 years.”  
+
+The insights offered by Benita Roth’s research are not limited only to the academic.  They are also strategic, as her [comments](https://shorensteincenter.org/beyond-white-feminism-not-healing-the-us-back-to-an-anti-feminist-future-2/) on how to avoid “‘Healing’ the US back to an Anti-Feminist Future” (January 2021) reveal.  Her second book, The Life and Death of ACT UP/LA (Cambridge U. Press, 2017), tells a “largely lost” success story of “the accomplishments of direct-action anti-AIDS protest.” In keeping with her book’s assessment that gender inequalities undermined the group’s momentum, she [advises activists](https://pinkplaymags.com/2017/08/benita-roth-life-death-act-upla/) to “always be actively conscious of how they construct solidarity, who is included, whose voices are excluded, who gets listened to.” She underscored such strategic lessons when she [interviewed](https://www.youtube.com/watch?v=ZtAVvJMLGGk) former ACT UP/NY activist, Ron Goldberg.  Her most recent research  [project](https://ssha2022.ssha.org/abstracts/220209) --focused on the fight against the opioid epidemic in Central New York by people involved with [Truth Pharm](https://truthpharm.org/) —similarly derived strategic implications for activists facing different local political and institutional contexts.  
+
+Benita Roth’s commitment to equity extended beyond her scholarship to praxis. As described by her colleagues at the [UUP (United University Professions)](https://uupinfo.org/communications/uupdate/230531.php), she vigorously represented the interests of all professionals, including that of faculty, at Binghamton University through more than  fifteen years (2007-2023) of dedicated service: as the elected Chapter President between 2013-2017, and as Vice President for Academics for the Binghamton Chapter of the union since. Most recently, Benita was also a member of the state-wide contract negotiations team and a member of the state UUP Executive Board. As in the case of her early experience of research and activism with ACT UP/LA in the 1990s, her recent work with Truth Pharm also drew her into an immediate fight for justice. In recent years, Benita became a vocal advocate for harm reduction, conducting Narcan trainings in the community.  
+
+In losing Benita, we also lose a dynamic instructor, loyal colleague and friend. A champion of sociology as a seed for social change and a committed advisor to the independent research of both undergraduates and graduate students, Professor Roth received the SUNY Chancellor’s Award for Excellence in Teaching in 2007.  She brought a steady hand and witty repartee to departmental deliberations in Sociology and WGSS, and an infectious confidence in all our endeavors. To many of us at the University and to many more beyond, she was also a trusted friend: one who might admonish self-doubt just as easily as regale with anecdotes of the absurd and the obscene from Hollywood to politics.  
+<br />
+
+<hr width=300; align=left>  
+
+
 **Stanley L. Engerman**  
 March 14, 1936 - May 11, 2023  
 <br />
