@@ -92,6 +92,8 @@ Melissa Kocias
 SSHA recognizes that you have a number of options when securing hotel accommodations for the annual meeting.  It is important to keep in mind that SSHA has made a major commitment to the conference hotel in order to secure a large block of quality hotel rooms at competitive prices in a convenient location.  SSHA is legally bound to fill these rooms.  Not doing so has severe financial implications for SSHA, both in the current year and in years to come, and will almost certainly raise your costs of attending future annual meetings.  
 <br />
 
+**Please Note: The link for hotel registration will be available soon. Stay tuned!**  
+
 Hyatt Regency Washington on Capitol Hill  
 400 New Jersey Avenue, NW  
 Washington, D.C.  
