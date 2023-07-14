@@ -54,7 +54,7 @@ Student:| | $60 |  | $65  | | $70
 
 | &emsp; | &emsp; | Early Bird | &emsp; | Regular | &emsp; | Late |  
 --- | --- | :---: | :--- | :---: | :--- | :---:  
-| &emsp; | | (Before Jul. 15) | | (Before Oct. 1) | | (Oct. 1 -- after)  
+| &emsp; | | (Until Aug. 1) | | (Before Oct. 1) | | (Oct. 1 -- after)  
 &emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp; |&emsp;
 Faculty line (all):| | $400 | | $425 | | $475  
 &emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp; |&emsp;  
