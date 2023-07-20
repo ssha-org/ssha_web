@@ -42,7 +42,7 @@ Shortly after his retirement, Stan and Judy moved to the Boston area to be close
 
 A memorial service will be held on Sunday May 21st at 11 am at Brighton Memorial Chapel, 3325 Winton Road South, Rochester New York.  In lieu of flowers, please consider donations in his memory to the Stanley L. Engerman Endowed Fund for Economics at the University of Rochester, or to the American Cancer Society.  
 
-A write up on Stanley L. Engerman from the University of Rochester can be found here: [https://www.rochester.edu/newscenter/stanley-engerman-economics-history-remembered-560942/](https://www.rochester.edu/newscenter/stanley-engerman-economics-history-remembered-560942/).
+A write up about Stanley Engerman from the University of Rochester can be found here: [https://www.rochester.edu/newscenter/stanley-engerman-economics-history-remembered-560942/](https://www.rochester.edu/newscenter/stanley-engerman-economics-history-remembered-560942/).
 <br />
 
 <hr width=300; align=left>  
