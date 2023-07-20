@@ -41,6 +41,8 @@ They spent much of their lives in Rochester, New York, moving there in 1963 when
 Shortly after his retirement, Stan and Judy moved to the Boston area to be closer to their three sons and six grandchildren.  He is predeceased by Judy, who died in 2019; he is survived by his sister Natalie Mayrsohn and by sons David (and wife Stephanie Wratten, children Nina and Simon), Mark (and wife Jill Engerman, children Kaylin and Brandon), and Jeff (and children Maxwell and El, and partner Julia and her two daughters).
 
 A memorial service will be held on Sunday May 21st at 11 am at Brighton Memorial Chapel, 3325 Winton Road South, Rochester New York.  In lieu of flowers, please consider donations in his memory to the Stanley L. Engerman Endowed Fund for Economics at the University of Rochester, or to the American Cancer Society.  
+
+A write up on Stanley L. Engerman from the University of Rochester can be found here: [https://www.rochester.edu/newscenter/stanley-engerman-economics-history-remembered-560942/](https://www.rochester.edu/newscenter/stanley-engerman-economics-history-remembered-560942/).
 <br />
 
 <hr width=300; align=left>  
