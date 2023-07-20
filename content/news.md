@@ -7,6 +7,20 @@ title = "SSHA News"
 ## **SSHA News**  
  
 <hr width=300; align=left>  
+<p><font size="3"><i>19 July, 2023</i></font></p>
+<h3><b>First Annual Engerman Lecture</b></h3>
+<br />
+
+On September 20th, Claudia Goldin will give the first annual Engerman Lecture.  It is titled "Why Women Won."  The Economics Department at the University of Rochester is hosting this lecture. It will be held in the Hawkins-Carlson Room of Rush Rhees Library beginning at 3:30 pm. It will be followed by a reception for colleagues, students, and friends to remember and honor Stan.  
+
+The Economics Department would welcome you at the events.  The events will also be available remotely with respective links for Claudia's lecture and the reception below. 
+
+**Lecture:** &emsp; [https://rochester.zoom.us/s/99061080088](https://rochester.zoom.us/s/99061080088)  
+
+**Reception:** &emsp; [https://rochester.zoom.us/s/93550599683](https://rochester.zoom.us/s/93550599683)   
+<br />  
+ 
+<hr width=300; align=left>  
 <p><font size="3"><i>15 March 2023</i></font></p>
 <h3><b>Conference Update from SSHA President Anne McCants</b></h3>
 <br />
