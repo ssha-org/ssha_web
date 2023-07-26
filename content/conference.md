@@ -39,7 +39,7 @@ Registration fees include admittance to all paper sessions, as well as Thursday 
 
 | &emsp; | &emsp; | Early Bird | &emsp; | Regular | &emsp; | Late |  
 --- | --- | :---: | :--- | :---: | :--- | :---:  
-| &emsp; | | (Before Jul. 15) | | (Before Oct. 1) | | (Oct. 1 -- after)  
+| &emsp; | | (Until Aug. 1) | | (Before Oct. 1) | | (Oct. 1 -- after)  
 &emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp; |&emsp;
 Senior/tenured:| | $350 | | $395 | | $450  
 &emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp; |&emsp;  
