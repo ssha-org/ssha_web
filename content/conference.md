@@ -7,7 +7,6 @@ title = "Annual Conference"
 ### **The 2023 SSHA annual conference registration is now open!**  
 
 <h2><a href="https://indianauniv.ungerboeck.com/prod/emc00/register.aspx?aat=p62TcM7tSGNbheobA6WS0GGmCJn1yK8LbHTLTpkdyck%3d" target="_blank" role="button" class="btn btn-default btn-lg"><i><h3>2023 SSHA Conference Registration Here</h3></i></a></h2>  
-<br />  
 
 Our 2023 conference will be held in Washington DC on November 16-19 at the Hyatt Regency Washington on Capitol Hill. This will mark the 49th annual meeting of the Social Science History Association. This year's theme is "Pursuits of Wellbeing." Please refer to the <a href="https://ssha.org/files/2023_SSHA_CFP.pdf" target="_blank">SSHA Call for Papers</a> for further information.  
 <br />  
@@ -22,6 +21,22 @@ If you require a confirmation letter for your visa application, please send proo
 <iuconfs@iu.edu> 
 
 <u>Please DO NOT send birthdate or passport numbers.</u>  
+<br />
+
+**Hotel Reservations**  
+
+The Hyatt Regency has set up a special reservation site for the Social Science History Association. To access the hotel reservation site, please use the following link: 
+
+[Hyatt Regency Washington on Capitol Hill Reservations](https://www.hyatt.com/en-US/group-booking/WASRW/G-SSH7)  
+
+If making reservations by phone, please make sure to mention the SSHA special group rate code: G-SSH7.  
+<br />
+Hyatt Regency Washington on Capitol Hill  
+400 New Jersey Avenue, NW  
+Washington, D.C. 20001  
+United States  
+
+Phone: 202-737-1234  
 <br />
 
 ### **ABOUT THE SSHA ANNUAL CONFERENCE**  
@@ -92,13 +107,21 @@ Melissa Kocias
 SSHA recognizes that you have a number of options when securing hotel accommodations for the annual meeting.  It is important to keep in mind that SSHA has made a major commitment to the conference hotel in order to secure a large block of quality hotel rooms at competitive prices in a convenient location.  SSHA is legally bound to fill these rooms.  Not doing so has severe financial implications for SSHA, both in the current year and in years to come, and will almost certainly raise your costs of attending future annual meetings.  
 <br />
 
-**Please Note: The link for hotel registration will be available soon. Stay tuned!**  
+**Hotel Reservations**  
 
+The hotel has set up a special reservation site for the Social Science History Association. To access the hotel reservation site, please use the following link: 
+
+[Hyatt Regency Washington on Capitol Hill Reservations](https://www.hyatt.com/en-US/group-booking/WASRW/G-SSH7)  
+
+If making reservations by phone, please make sure to mention the SSHA special group rate code: G-SSH7.  
+<br />
 Hyatt Regency Washington on Capitol Hill  
 400 New Jersey Avenue, NW  
-Washington, D.C.  
-USA  
- 
+Washington, D.C. 20001  
+United States  
+
+Phone: 202-737-1234  
+
 <br />
 <i>Awards and Grants</i>  
 
