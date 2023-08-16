@@ -12,7 +12,7 @@ title = "Social Science History"
 
 In the past decade, there has been an explosion of methods to analyze social science data, as well as increase in the raw data available to do so! Even what counts as data has been revolutionized. We announce a new series, **“Advances in Data and Methods”** in *Social Science History* to keep researchers up to date on these developments. We invite research articles and review essays for this new series that propose, develop or explain new or recently articulated sources and/or methodological techniques for use in social science history. Methods and data can be qualitative or quantitative. In all cases, we envision papers that push open new avenues, in terms of methods and data, to advance research. We invite review essays as well as substantive papers that apply these advances in data and methods. These papers will be published in the journal as they arrive, but they will also be linked in a virtual issue so that they form a series that can be a continuing resource for scholars.  
 
-All papers will be peer reviewed. They are all eligible to win the journal prizes: the annual Founder’s Prize, given by Cambridge University Press, and the Biannual Graduate Student Prize. *Social Science History* has a wide readership, as it goes to all members of the Social Science History Association. To submit a proposal, please send email to socialsciencehistory@ssha.org with a one-page abstract, a title, your contact information, and a proposed timeline.  
+All papers based on accepted proposals undergo editorial review and, if suitable, peer review. All manuscripts must conform to [SSH style guidelines](https://ssha.org/files/SSHStyleGuide.pdf). They are all eligible to win the journal prizes: the annual Founder’s Prize, given by Cambridge University Press, and the Biannual Graduate Student Prize. *Social Science History* has a wide readership, as it goes to all members of the Social Science History Association. To submit a proposal, please send email to socialsciencehistory@ssha.org with a one-page abstract, a title, your contact information, and a proposed timeline.  
 <br />  
 
 ### The Journal  
@@ -31,10 +31,10 @@ Claire Lemercier and Francesca Trivellato "[1751 and Thereabout: A Quantitative 
   
 ### Current Issue
 
-Winter 2022, Volume 46 -- Issue 4  
+Winter 2022, Volume 47 -- Issue 3  
 https://www.cambridge.org/core/journals/social-science-history/latest-issue  
 
-![Current Issue](/images/SSH_46-4.jpg)  
+![Current Issue](/images/SSH_47_3.jpg)  
 <br />
 
 ### Submission Information
@@ -73,7 +73,7 @@ Every year the Association’s conference includes a number of ‘author meets c
 We invite review essays on any topic pertinent to the cross-disciplinary mission of <i>SSH</i>. The essay might review methodological techniques, data analytics or sources, or topical areas across multiple disciplines of interest to our membership. It should be broad and intended to bring readers up to date on intellectual matters of current interest. Proposals for review essays may be submitted to the editors at any time. They should include: 1) names, affiliations, and contact information for all authors; 3) summary of the review essay; 4) summary of its broader cross-disciplinary appeal; 5) a timeline for submission for peer review.We invite review essays on any topic pertinent to the cross-disciplinary mission of <i>SSH</i>. The essay might review methodological techniques, data analytics or sources, or topical areas across multiple disciplines of interest to our membership. It should be broad and intended to bring readers up to date on intellectual matters of current interest. Proposals for review essays may be submitted to the editors at any time. They should include: 1) names, affiliations, and contact information for all authors; 3) summary of the review essay; 4) summary of its broader cross-disciplinary appeal; 5) a timeline for submission for peer review.  
 <br />
 
-**PLEASE NOTE**: All papers in accepted proposals undergo peer review and must conform to [SSH style guidelines](https://ssha.org/files/SSHStyleGuide.pdf).  
+**PLEASE NOTE**: All papers based on accepted proposals undergo editorial review and, if suitable, peer review. All manuscripts must conform to SSH style guidelines [SSH style guidelines](https://ssha.org/files/SSHStyleGuide.pdf).  
 <br />
 
 ### Statement on Peer Review  
