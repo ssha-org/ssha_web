@@ -5,13 +5,66 @@ title = "SSHA News"
 +++  
 
 ## **SSHA News**  
+
+<hr width=300; align=left>  
+<p><font size="3"><i>August 31, 2023</i></font></p>
+<h3><b>SSHA Presidential Message 2023</b></h3>
+<br />
+<p><font size="4">Dear Colleagues and Friends,</font></p>  
+
+<p><font size="4">I am delighted to serve as your President this year and to provide you with the latest updates regarding the upcoming SSHA Annual Conference, “Pursuits of Wellbeing” to be held November 16-19 at the Hyatt Regency Washington on Capitol Hill, Washington DC. The information below can also be found at: <a href="https://ssha.org/conference/" target="_blank">https://ssha.org/conference/</a></font></p>  
+
+<p><font size="4"><b><i>Participation & Preliminary Program Information</i></b><br />
+The preliminary program is now available online at <a href="https://ssha2023.ssha.org/"target="_blank">https://ssha2023.ssha.org/</a>. You can browse the preliminary program by Day/Time, Network, and/or Participant.</font></p>  
+
+<p><font size="4"> 
+Acceptances for the program went out by email in June 2023. If you submitted a panel or paper and did not receive an email about its status, please check your “Spam” folder. If you still cannot find it, please log into the submission portal (<a href="https://ssha2023.ssha.org/"target="_blank">https://ssha2023.ssha.org/</a>) and you can check the status of your submission there or contact the Representative of the Network where you submitted your paper. Network and Representatives can be found at: <a href="https://ssha.org/networks/"target="_blank">https://ssha.org/networks/</a>.</font></p>
+
+<p><font size="4"><b><i>New Program Initiatives</i></b><br />
+As many of you know SSHA has hosted several virtual Town Hall meetings since our last annual meeting in Chicago, ranging in topic from strategic planning in regard to virtual/hybrid/in-person meeting decisions, to issues of Governance and Sustainability, to the long-term goals of the Association. One additional Town Hall meeting will be hosted on <b>Monday, October 2nd at 11:00 AM Eastern (8:00 AM Pacific, 4:00 PM London)</b> by the Committee on Governance and Sustainability. All are welcome to attend, and please use the following Zoom link to participate: <a href="https://us06web.zoom.us/j/83697964119?pwd=MVNIb0E5TEJnTzRRVzk2ajFBNHJsdz09"target="_blank">https://us06web.zoom.us/j/83697964119?pwd=MVNIb0E5TEJnTzRRVzk2ajFBNHJsdz09</a>.
+ 
+<p><font size="4">All the officers and committee heads are deeply appreciative of the time members have devoted to joining these meetings to voice their hopes and concerns for the future of SSHA. In response to suggestions raised in these forums several exciting new features of the program will be available this year.</font></p>
+
+<p><font size="4"> 
+
+- The Thursday evening Welcome Reception will feature a Plenary Address offered by Dr. Corianne Scally of the Urban Institute. Her talk is titled: Pursuing research for impact: How to promote well-being through our work.  
+- Participants will be able to sign up in advance for group tours being offered by colleagues associated with the Library of Congress (scheduled for Friday afternoon), the US Holocaust Memorial Museum (TBD), and the Indigenous DC project (TBD). Detailed information about scheduling and sign-up procedures will be available soon at the conference information webpage.  
+- The Plenary Address, annual Business Meeting, and Presidential Address will be recorded and made available for member viewing at the SSHA webpage, either in real time or shortly after the conference. This will give access to these key events for anyone who was unable to attend the meeting in person.  
+- A session slot at 8am on Sunday morning has been reserved for the winners of the various SSHA prizes (books and articles) to speak briefly about the development of their prize-winning projects. This session will be included in the program description, although of course the participants will only be known following the awarding of prizes at the annual business meeting the afternoon before.</font></p>  
+
+<p><font size="4"><i><b>Registration</i></b><br /> 
+Many of you have already registered for the conference taking advantage of our new ‘early bird’ registration discount. This has been tremendously helpful to the team finalizing the program. If you have not yet registered, however, it is by no means too late. You can find the link directly at the <a href="https://ssha.us4.list-manage.com/track/click?u=2c2c3629b0ef59ce74f3208e1&id=f131a09fe8&e=b4cc34d9a3"target="_blank">conference registration page</a>.</font></p>
+ 
+<p><font size="4">As has long been SSHA practice, the Association requires that all session participants register for the annual meeting and be (or become) members of the SSHA. If your membership is not current, you will not be able to register for the conference as a member. <b>Please sign up for membership or renew your membership prior to filling out the conference registration form</b>. To sign up for an SSHA membership, please visit the <a href="https://indianauniv-web.ungerboeck.com/mbd/mbd_p23_add_member.aspx?oc=10&cc=SSHA-MEMBER"target="_blank">SSHA membership registration website</a>.</font></p>
+
+<p><font size="4"><b><i>Hotel</i></b><br />
+The SSHA has made a major commitment to the Hyatt Regency Washington in order to secure a large block of quality hotel rooms at competitive prices in a convenient location. SSHA is legally bound to fill these rooms. Not to do so has severe financial implications for SSHA, both in 2023 and in years to come, making it more difficult to host future annual meetings. If you require a hotel in Washington DC, we would very much appreciate it if you would reserve your room at the Hyatt. SSHA has a special group rate for both single and double occupancy per night plus tax. Group rates cannot be guaranteed after October 19, 2023.</font></p>
+
+<p><font size="4">The hotel has set up a special reservation site for the Social Science History Association. To access the hotel reservation site to make your reservation, please click the following link: <a href="https://www.hyatt.com/en-US/group-booking/WASRW/G-SSH7"target="_blank">SSHA membership registration website</a>.</font></p>
+
+<p><font size="4"></font><b><i>Format</i></b><br />
+After much discussion, and a majority preference given the technical and financial difficulties associated with the hybrid format of our past two annual meetings, the format for this year’s annual meeting will be fully in-person (with the exception of the public addresses/meetings that will hopefully be livestreamed, or at least recorded for later viewing).</font></p>
+
+<p><font size="4"><b>Finally, a special thanks</b> goes out to our conference co-chairs who have put together a truly exciting program:</font></p>  
+
+- Joyce Burnette, Wabash College
+- Sakari Saaritsa, University of Helsinki
+- Richard Zijdeman, International Institute of Social History
+
+<p><font size="4">Thanks also to Cristian Rodriguez for handling the program software. Likewise, I offer my appreciation to the Network Representatives, VP Lisa Dillon, Treasurer Damon Maryl, Executive Director Jeffrey Beemer, and the IU Conferences team for helping with all of the conference preparations.</font></p>
+
+<p><font size="4">I look forward to seeing you all in November!</font></p><br />
+
+<p><font size="4">Sincerely,</font></p>  
+Anne McCants<br />
+President, SSHA 2023</font></p><br />  
  
 <hr width=300; align=left>  
 <p><font size="3"><i>19 July, 2023</i></font></p>
 <h3><b>First Annual Engerman Lecture</b></h3>
 <br />
 
-On September 20th, Claudia Goldin will give the first annual Engerman Lecture.  It is titled "Why Women Won."  The Economics Department at the University of Rochester is hosting this lecture. It will be held in the Hawkins-Carlson Room of Rush Rhees Library beginning at 3:30 pm. It will be followed by a reception for colleagues, students, and friends to remember and honor Stan.  
+On September 20th, Claudia Goldin will give the first annual Engerman Lecture.  It is titled "Why Women Won."  The Economics Department at the University of Rochester is hosting this lecture. It will be held in the Hawkins-Carlson Room of Rush Rhees Library beginning at 3:30 pm. It will be followed by a reception for colleagues, students, and friends to remember and honor Stan.   
 
 The Economics Department would welcome you at the events.  The events will also be available remotely with respective links for Claudia's lecture and the reception below. 
 
