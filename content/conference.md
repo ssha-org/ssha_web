@@ -121,6 +121,11 @@ Washington, D.C. 20001
 United States  
 
 Phone: 202-737-1234  
+<br />  
+
+**Conference Exhibiting and Advertising**  
+
+[2023 SSHA Conference Exhibit and Adversting Information](\files\SSHA2023Exhibit_Information.pdf)  
 
 <br />
 <i>Awards and Grants</i>  
