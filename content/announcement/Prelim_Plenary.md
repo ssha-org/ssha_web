@@ -16,4 +16,5 @@ The Thursday evening Welcome Reception will feature a Plenary Address offered by
 **Plenary Speaker:** <i>Dr. Corianne Scally</i>  
 **Plenary Address:** <i>"Pursuing research for impact: How to promote well-being through our work."</i>  
 **Date & Time:** <i>Thursday, Novemebr 16th, 6:00 PM - 7:00 PM.</i>  
-<br />  
+
+<br /><hr width="100">  
