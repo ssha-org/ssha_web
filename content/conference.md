@@ -11,17 +11,19 @@ title = "Annual Conference"
 Our 2023 conference will be held in Washington DC on November 16-19 at the Hyatt Regency Washington on Capitol Hill. This will mark the 49th annual meeting of the Social Science History Association. This year's theme is "Pursuits of Wellbeing." Please refer to the <a href="https://ssha.org/files/2023_SSHA_CFP.pdf" target="_blank">SSHA Call for Papers</a> for further information.  
 <br />  
 
-**Visa Information:**  
+**Preliminary Conference Program**  
 
-For additional information regarding travel visa’s please visit the U.S. Department of State- Bureau of Consular Affairs link to attain the correct visa for your visit https://travel.state.gov/content/travel/en/us-visas.html. Wait times vary by point of origin. Please plan accordingly.
+The preliminary program for the 2023 SSHA Conference is now available online at [ssha2023.ssha.org/hps/SSHA2023_PreliminaryProgram.pdf](https://ssha2023.ssha.org/hps/SSHA2023_PreliminaryProgram.pdf). You can browse the preliminary program by Day/Time, Network, and/or Participant at [https://ssha2023.ssha.org](https://ssha2023.ssha.org) (**please see "Navigating the Website" section**).  
+<br />  
 
-**Visa Letters:**  
+**Thursday Evening Plenary Address**  
 
-If you require a confirmation letter for your visa application, please send proof of paid registration, your name as it appears on your passport, and your current address to: 
-<iuconfs@iu.edu> 
+The Thursday evening Welcome Reception will feature a Plenary Address offered by Dr. Corianne Scally of the Urban Institute. Her talk is titled: Pursuing research for impact: How to promote well-being through our work.  
 
-<u>Please DO NOT send birthdate or passport numbers.</u>  
-<br />
+**Plenary Speaker:** <i>Dr. Corianne Scally</i>  
+**Plenary Address:** <i>"Pursuing research for impact: How to promote well-being through our work."</i>  
+**Date & Time:** <i>Thursday, Novemebr 16th, 6:00 PM - 7:00 PM.</i>  
+<br />  
 
 **Hotel Reservations**  
 
@@ -37,6 +39,18 @@ Washington, D.C. 20001
 United States  
 
 Phone: 202-737-1234  
+<br />  
+
+**Visa Information**  
+
+For additional information regarding travel visa’s please visit the U.S. Department of State- Bureau of Consular Affairs link to attain the correct visa for your visit https://travel.state.gov/content/travel/en/us-visas.html. Wait times vary by point of origin. Please plan accordingly.  
+
+**Visa Letters**  
+
+If you require a confirmation letter for your visa application, please send proof of paid registration, your name as it appears on your passport, and your current address to: 
+<iuconfs@iu.edu>  
+
+<u>Please DO NOT send birthdate or passport numbers.</u>  
 <br />
 
 ### **ABOUT THE SSHA ANNUAL CONFERENCE**  
