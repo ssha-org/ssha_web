@@ -20,5 +20,4 @@ For questions and further information about our network, please feel free to con
 
 - [Martin Goessl](mailto:martin.goessl@fh-joanneum.at)
 - [Dominique Grisard](mailto:Dominique.Grisard@unibas.ch)
-- [Jadwiga E. Pieper-Mooney](mailto:jadwiga@email.arizona.edu)
-- [Benita Roth](mailto:broth@binghamton.edu)
+- [Jadwiga E. Pieper-Mooney](mailto:jadwiga@email.arizona.edu)  
