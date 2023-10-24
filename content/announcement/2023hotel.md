@@ -7,4 +7,4 @@ title = "2023 Hotel Registration"
 ### **Hotel Registration is Now Open**  
 To access the hotel reservation site, please use the following link:  
 #### [Hyatt Regency Washington on Capitol Hill Reservations](https://www.hyatt.com/en-US/group-booking/WASRW/G-SSH7)  
-<br /><hr width="100">  
+<hr width="100">  

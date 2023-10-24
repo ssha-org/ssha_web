@@ -9,7 +9,7 @@ title = "2023 Final and Plenary"
 The final program for the 2023 SSHA Conference is now available online at:  
  [ssha2023.ssha.org/hps/SSHA2023_FinalProgram.pdf](https://ssha2023.ssha.org/hps/SSHA2023_FinalProgram.pdf).  
 You can browse the final program by Day/Time, Network, and/or Participant at [https://ssha2023.ssha.org](https://ssha2023.ssha.org) (**please see "Navigating the Website" section**).  
-<br /><hr width="100">  
+<hr width="100">  
 
 ### **SSHA Pilot Mentoring Program**  
 
