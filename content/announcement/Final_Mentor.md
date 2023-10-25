@@ -20,5 +20,5 @@ If you are like us, you are eagerly looking forward to the upcoming Social Scien
 this [Mentoring Program Form](https://docs.google.com/forms/d/e/1FAIpQLSfCYLehhtTjfY65xJciq7nOs7YnarH-Z7mAuBQ1E8McX8rF4Q/viewform), and about a week before the conference, we will pair you with someone sharing your intellectual interests (pending availability).  
 <br />
 
-Any queries can be directed to Nicholas Wilson (nicholas.wilson@stonybrook.edu), the volunteer administrator of the program."
+Any queries can be directed to Nicholas Wilson (nicholas.wilson@stonybrook.edu), the volunteer administrator of the program.
 <br /><hr width="100">  
