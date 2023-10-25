@@ -38,6 +38,16 @@ The Thursday evening Welcome Reception will feature a Plenary Address offered by
 **Date & Time:** <i>Thursday, Novemebr 16th, 6:00 PM - 7:00 PM.</i>  
 <br />  
 
+### **Washington DC Library of Congress Tour**
+
+The Library of Congress tour for SSHA conference participans is free and on a first-come, first-served basis. There is no need to book tickets for this tour, but the group will be capped at 44 participants; so arrive early!
+
+**When:** 4:00 PM on Friday, November 17th.  
+**Location:** Thomas Jefferson Building directly across from the US Capitol on 1st Street SE, between Independence Avenue and East Capitol Street.  
+**Transportation:** The Jefferson Building is a reasonable walking distance from the conference hotel. You can also take a Uber or Lyft to the location.  
+**Tour Guide:** Frederick Augustyn will be your tour guide (docent). At the Jefferson Building entrance, pass through the carriage entrance, through security, and Fred will meet the group inside. When you arrive, please let Fred know that you are part of the SSHA conference group.  
+<br />  
+
 **Hotel Reservations**  
 
 The Hyatt Regency has set up a special reservation site for the Social Science History Association. To access the hotel reservation site, please use the following link: 
