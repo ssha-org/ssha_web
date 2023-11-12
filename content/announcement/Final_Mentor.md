@@ -4,13 +4,6 @@ title = "2023 Final and Plenary"
 
 +++
 
-### **Final Conference Program**  
-
-The final program for the 2023 SSHA Conference is now available online at:  
- [ssha2023.ssha.org/hps/SSHA2023_FinalProgram.pdf](https://ssha2023.ssha.org/hps/SSHA2023_FinalProgram.pdf).  
-You can browse the final program by Day/Time, Network, and/or Participant at [https://ssha2023.ssha.org](https://ssha2023.ssha.org) (**please see "Navigating the Website" section**).  
-<hr width="100">  
-
 ### **SSHA Pilot Mentoring Program**  
 
 If you are like us, you are eagerly looking forward to the upcoming Social Science History Association annual meeting from Nov 16th to 19th in Washington, DC!  This year, to help newcomers and junior scholars feel welcome at the meeting, we are offering a pilot mentoring scheme.  
