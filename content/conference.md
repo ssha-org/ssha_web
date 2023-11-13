@@ -13,7 +13,7 @@ Our 2023 conference will be held in Washington DC on November 16-19 at the Hyatt
 
 ### **Complete and Final Conference Program**  
 
-The Complete and final program for the 2023 SSHA Conference is now available at:  
+The complete and final program for the 2023 SSHA Conference is now available at:  
 [SSHA_2023_Program_PDF.pdf](https://ssha.org/files/SSHA_2023_Program_PDF.pdf).    
 
 You can also browse the final program by Day/Time, Network, and/or Participant at [https://ssha2023.ssha.org](https://ssha2023.ssha.org) (**please see "Navigating the Website" section**).  
