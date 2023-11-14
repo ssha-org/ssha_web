@@ -11,7 +11,7 @@ title = "SSHA In Memoriam"
 <hr width=300; align=left>  
 
 
-**Winifred Barr Rothenberg**   
+**Winifred Barr Rothenberg**  
 
 By Anne McCants  
 
