@@ -11,7 +11,7 @@ The SSHA conference meets annually, usually in November. The location changes ac
 
 ### **THE 2024 ANNUAL CONFERENCE**  
 
-Our 2024 conference will be held in Toronto, ON, Canada from October 31 - November 3, 2024.  This year’s theme is <i>“Trust and Distrust of Historical Sources in the Digital Age.”</i> For a description of the theme and the Call for Papers, please go to https://ssha.org/files/2024_SSHA_CFP.pdf  
+Our 2024 conference will be held in Toronto, ON, Canada from October 31 - November 3, 2024.  This year’s theme is <i>“Trust and Distrust of Historical Sources in the Digital Age.”</i> For a description of the theme and the Call for Papers, please visit: https://ssha.org/files/2024_SSHA_CFP.pdf  
 <h2><a href="https://ssha.org/files/2024_SSHA_CFP.pdf" target="_blank" role="button" class="btn btn-default btn-lg"><i><h3>SSHA Call for Papers</h3></i></a></h2><br />  
 
 **Registration**  
@@ -83,7 +83,7 @@ Melissa Kocias
 
 **Cancellations**
 
-Cancellation requests must be received in writing to the Conference Registrar at iuconfs@indiana.edu no later than October 19, 2023, to be eligible for a refund (less a $50 cancellation fee). No refunds will be issued after that date.  
+Cancellation requests must be received in writing to the Conference Registrar at iuconfs@indiana.edu no later than [TBA], to be eligible for a refund (less a $50 cancellation fee). No refunds will be issued after that date.  
 <br />  
 
 <i>Hotel Information & Reservations</i>  
