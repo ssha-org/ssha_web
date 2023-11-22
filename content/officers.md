@@ -1,5 +1,5 @@
 +++
-date = "2021-11-13T13:53:36-04:00"
+date = "2023-11-19T13:53:36-04:00"
 title = "SSHA Officers"
 
 +++
@@ -7,12 +7,12 @@ title = "SSHA Officers"
 ### 2022-2023 Officers
 
 **President**  
-Anne McCants  
-Massachusetts Institute of Technology (History)
+Lisa Dillon  
+University of Montréal (Demography)  
 
 **Vice President**  
-Lisa Dillon  
-University of Montréal (Demography)
+Emily Erickson  
+Yale University (Sociology)  
 
 **Executive Director**  
 Jeffrey K. Beemer  
@@ -26,15 +26,7 @@ Colby College (Sociology)
 
 ### Executive Committee
 
- *Term Expires 2023*  
-
-- Aliza Luft  
-University of California, Los Angeles (Sociology)  
-
-- Jaeeun Kim  
- University of Michigan (Sociology)  
-
- *Term Expires 2024*
+*Term Expires 2024*
 
 - Sasha Mullally  
 University of New Brunswick (History)  
@@ -56,18 +48,20 @@ Stony Brook University (Sociology)
 - Simone M. Caron  
 Wake Forest University (History)
 
+*Term Expires 2026*
+
+- James Mahoney  
+Northwestern University (Sociology)
+
+- Ricarda Hammer  
+UC Berkeley (Sociology)
+
+- Alexandre White  
+Johns Hopkins University (Sociology)
 
 ----
 
 ### Publications Committee  
-
-*Term Expires 2023*  
-
-- Claire Decoteau  
-University of Illinois Chicago (Sociology)  
-
-- Ana Villarreal  
-Boston University (Sociology)
 
 *Term Expires 2024*  
 
@@ -85,22 +79,33 @@ University of Virginia (Sociology)
 - Joshua MacFadyen  
 University of Prince Edward Island (Geospatial Humanities)
 
+*Term Expires 2026*  
+
+- Nicholas Wilson  
+Stony Brook University (Sociology)  
+
+- Martin Dribe  
+Lund University (Demography)
+
 ----
 
-### 2023 Program Committee
+### 2024 Program Committee
 
-Joyce Burnette  
-Wabash College (Economics)
-
-Sakari Saaritsa  
+- Sakari Saaritsa  
 University of Helsinki (Economic and Social History)
 
-Richard Zijdeman  
-International Institute of Social History  (Data & Augmentation)
+- Shari Eli  
+University of Toronto (Economics)  
+
+- Matt Nelson  
+University of Minnesota (Historical Demography)
 
 ----
 
 ### Past Presidents
+Anne McCants  
+Massachusetts Institute of Technology (History)  
+2022-2023
 
 Julian Go  
 University of Chicago (Sociology)  
