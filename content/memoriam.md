@@ -10,10 +10,32 @@ title = "SSHA In Memoriam"
 
 <hr width=300; align=left>  
 
+**Xiaohong Xu**  
+1978-2023  
+<br />  
+
+Professor Xiaohong Xu, sociologist of history, politics, culture, political economy, and China, passed away on December 12, 2023 at Angela Hospice near his home in Ann Arbor, Michigan, after a long struggle with cancer. He was 45 years old.  
+
+Professor Xu’s brilliance, originality, and adventurous intellectual spirit shined through his work. With erudition and curiosity that were only matched by his humility and kindness, Xu dedicated his life to developing an innovative cultural framework that examined how revolutionary vanguards arise and create historical change. His award-winning, pathbreaking work about the twentieth-century Chinese Revolution has been published on some of his discipline’s most central stages. Xu’s still unpublished work goes as far as arguing that the Chinese Cultural Revolution created the conditions for the country’s subsequent turns to neoliberalism and authoritarianism. His writing was bold and courageous, and so was his approach to public intellectual life. He appeared in numerous panels on contemporary China, wrote about current issues in public forums, and marched with pro-democracy protestors in Hong Kong during the turbulent spring and summer of 2019. A community builder, Xu co-founded THiS (Theory, History, and Society)—a platform promoting scholarly conversations across the Pacific. His gentle spirit touched every person who met him. His ambitious research program will have a lasting impact on future scholars of culture, revolution, comparative-historical sociology, and social theory.  
+
+Professor Xu was born in a rural village near the city of Quzhou in the Zhejiang Province of Southeastern China. His father was a farmer, and his mother was a village tailor. He left the village at the age of twelve for a middle school in the county town, sleeping on a bunkbed in a room shared with 20 other boys. He visited home once every week or two, bringing back to school only rice, steamed buns, and pickles as food. He recalled absolutely no self-pity, but felt carefree joy in exploring the world around him and expanding his knowledge.  
+
+Attending the best high school in Quzhou was Xiaohong’s first city experience. At the age of eighteen, he went to the capital city to study chemistry at Peking University—China’s flagship higher-education institution. There, he was drawn toward the social sciences. Xu immersed himself in the thriving avant-garde cultural scene of Beijing in that period, working as an assistant editor at the journal China Scholarship, and participating in critical theory circles on and off campus. He came to the U.S. in 2003 to pursue a graduate degree at the University of Notre Dame, then transferred to Yale University where he earned his Ph.D. in sociology in 2014. Upon graduation, Xu moved back to Asia as an assistant professor at the National University of Singapore and subsequently to Lingnan University in Hong Kong. He returned to the U.S. to join the University of Michigan, Ann Arbor, in 2019, as an assistant professor in a joint position in the Department of Sociology and the Lieberthal-Rogel Center for Chinese Studies, where he served as Associate Director for the last three months of his life.  
+
+Xiaohong will be remembered for his infinite generosity and dedication to critical inquiry and to nurturing the next generation of scholars. His career and his life were kindled by a boundless passion for knowledge and ideas, and his bonhomie and far-reaching impact are evident in the hundreds of letters and messages sent to him from across the sociological discipline and beyond during his last weeks of life.  
+
+Professor Xiaohong Xu is survived by his wife Lang Chen, nine-year-old daughter Aubree Xu, mother Yanxiang Fu, father Huomu Xu, and two brothers Liming Xu and Xiaobin Xu. He will be forever missed by them and by numerous loving friends, colleagues, and students.  
+<br />  
+
+Professor Xiaohong Xu's obituary, along with information about the <i>Xiaohong Xu Memorial Support Endowment Fund</i>, can be found here: [Remembering Professor Xiaohong Xu](https://lsa.umich.edu/soc/news-events/all-news/faculty-news/remembering-xiaohong-xu--1978-2023-.html).  
+<br />  
+
+<hr width=300; align=left>   
 
 **Winifred Barr Rothenberg**  
 
 By Anne McCants  
+<br />  
 
 Our colleague, Winnifred Barr Rothenberg, passed away on October 1, 2023. We would be sorely remiss if we failed to take proper notice of a life that was lived so extraordinarily well. So on this somber occasion I would like to reflect on my own quarter-century friendship with Winnie, a friendship born in economic history.  
 
