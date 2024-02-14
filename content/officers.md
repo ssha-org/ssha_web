@@ -11,12 +11,11 @@ Lisa Dillon
 University of Montréal (Demography)  
 
 **Vice President**  
-Emily Erickson  
+Emily Erikson  
 Yale University (Sociology)  
 
-**Executive Director**  
-Jeffrey K. Beemer  
-Social Science History Association (Sociology)  
+**Executive Director** 
+  
 
 **Treasurer**  
 Damon Mayrl  
