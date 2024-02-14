@@ -6,11 +6,11 @@ title = "Social Science History"
 
 ## Presidents Book Award  
 
-**Submissions for the Presidents Book Award are <u>NOW OPEN</u>.**  
+**Submissions for the Presidents Book Award are <u>TBA</u>.**  
 
 A $1000 prize is awarded annually for a meritorious first work by an early-career scholar. Entrants are judged on scholarly significance, interdisciplinary reach, and methodological innovativeness within monographs analyzing past structures and events and change over time. Books with a copyright date of the previous year that are published within eight years of the author's Ph.D. are eligible for consideration.
 
-**Submission Deadline:** Submissions with a **postmark of June 30, 2023 (or earlier)** will be accepted. Late entries will not be considered. 
+**Submission Deadline:** Submissions with a **postmark of TBA** will be accepted. Late entries will not be considered. 
 
 Authors or publishers wishing to nominate a book should <u>**mail print copies to**</u> each member of the award committee. **Electronic (PDF, linked, emailed) copies will not be considered.**
 
@@ -33,14 +33,11 @@ Johns Hopkins University
 Baltimore, MD 21218  
 hofung@jhu.edu  
 
-- Jeffrey Beemer (SSHA, Executive Director)  
-President's Book Award  
-Social Science History Association  
-176 Savery Rd  
-Searsport, ME 04974  
-jbeemer@ssha.org  
+- (SSHA, Executive Director)  
+
 <br/>  
-### Past Winners
+
+### Past Winners  
 
 *Year* | &emsp; | *Author* | &emsp; | *Institution* | *Title*
 --- | --- | :--- | --- | :--- | :---  

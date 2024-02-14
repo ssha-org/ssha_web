@@ -6,13 +6,13 @@ title = "Social Science History"
 
 ## Allan Sharlin Memorial Book Award  
 
-**Submissions for the Allan Sharlin Memorial Book Award are <u>NOW OPEN</u>.**  
+**Submissions for the Allan Sharlin Memorial Book Award are <u>TBA</u>.**  
 
-Books published in 2022 are eligible for consideration. Submissions with a postmark of June 15, 2023 (or earlier) will be accepted. Late entries will not be considered. Authors or publishers wishing to nominate a book should mail a book to each member of the award committee. Self-nominations are accepted. 
+Books published in 2023 are eligible for consideration. Submissions with a postmark of TBA will be accepted. Late entries will not be considered. Authors or publishers wishing to nominate a book should mail a book to each member of the award committee. Self-nominations are accepted. 
  
 A $1,000 prize is awarded annually for an outstanding book in social science history to honor the memory of Allan Sharlin. Allan exemplified the finest traditions of social science history. His training and scholarship were broadly interdisciplinary and he used both quantitative and more traditional methodologies.    
 
-**Submission Deadline:** Submissions with a **postmark of June 15, 2023 (or earlier)** will be accepted. Late entries will not be considered. 
+**Submission Deadline:** Submissions with a **postmark of TBA** will be accepted. Late entries will not be considered. 
 
 Authors or publishers wishing to nominate a book should <u>**mail print copies to**</u> each member of the award committee. **Electronic (PDF, linked, emailed) copies will not be considered.**
 
@@ -35,11 +35,7 @@ martha.wilfahrt@berkeley.edu
 San Francisco, CA 94117  
 danielscottsmith@stanford.edu  
 
-- Jeffrey Beemer (SSHA Executive Director)  
-Social Science History Association  
-176 Savery Rd  
-Searsport, ME 04974  
-jbeemer@ssha.org  
+- (SSHA Executive Director)  
 
 ### Past Winners
 

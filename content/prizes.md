@@ -17,7 +17,9 @@ A $1000 prize is awarded annually for a meritorious first work by an early-caree
 Please visit the [Presidents Book Award](/awards/president_award/) for more information.  
 <br />
 
-**2020 Winner:**  James Poskett, <a href="https://press.uchicago.edu/ucp/books/book/chicago/M/bo38181419.html" target="_blank"><i>Materials of the Mind: Phrenology, Race, and the Global History of Science, 1815-1920.</i></a> University of Chicago Press (April 26, 2019).  
+**2023 Winner:**  Robyn d'Avignon <a href="https://www.dukeupress.edu/a-ritual-geology" target="_blank"><i>A Ritual Geology. Gold and Subterranean Knowledge in Savanna West Africa.</i></a> Duke University Press (August 2022).  
+
+**2023 Honorable Mention:** Wei Yu Wayne Tan <a href="https://press.umich.edu/Books/B/Blind-in-Early-Modern-Japan2" target="_blank"><i>Blind in Early Modern Japan: Disability, Medicine, and Identity.</i></a> University of Michigan Press (September 2022).   
 
 [Learn more and see a list of past winners >>](/awards/president_award/)  
 <br />
@@ -29,9 +31,7 @@ A $1,000 prize is awarded annually for an outstanding book in social science his
 Please visit the [Allan Sharlin Memorial Book Award](/awards/sharlin_award/) for more information.  
 <br />
 
-**2022 Winner:**  Martha Wilfahrt <a href="https://www.cambridge.org/core/books/precolonial-legacies-in-postcolonial-politics/AC53415517557472924C75C1BE2915D0#" target="_blank"><i>Precolonial Legacies in Postcolonial Politics. Representation and Redistribution in Decentralized West Africa.</i></a>Cambridge University Press (August 2021).  
-
-**2022 Honorable Mention:** Elisabeth Anderson <a href="https://press.princeton.edu/books/paperback/9780691220895/agents-of-reform" target="_blank"><i>Agents of Reform: Child Labor and the Origins of the Welfare State.</i></a> Princeton University Press (October 12, 2021).  
+**2023 Winner:**  Ayşe Zarakol, <a href="https://www.cambridge.org/core/books/before-the-west/78E4B5CE511AA928B2C650AF1CDFE3CA" target="_blank"><i>Before the West. The Rise and Fall of Eastern World Orders.</i></a> Cambridge University Press (February 2022).   
 
 [Learn more and see a list of past winners >>](/awards/sharlin_award/)  
 
@@ -43,7 +43,7 @@ The Association promotes high quality scholarship through its awards program, wh
 
 ### Founder's Prize 
 
-**2022 Winner:** Hyun Hye Bae and Lance Freeman "[Residential Segregation at the Dawn of the Great Migration: Evidence from the 1910 and 1920 Census.](https://doi.org/10.1017/ssh.2020.36)" *Social Science History* Volume 45, Issue 1 (Spring 2021), pp. 27-53.
+**2023 Winner:** Daniel Seligson and Anne E. C. McCants "[Polygamy, the Commodification of Women, and Underdevelopment.](https://doi.org/10.1017/ssh.2021.23)" *Social Science History* Volume 46, Issue 1 (Spring 2022), pp. 1-34.  
 
 [Learn more and see a list of past winners >>](/awards/founder_prize/)
 
