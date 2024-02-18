@@ -4,7 +4,7 @@ title = "SSHA Officers"
 
 +++
 
-### 2022-2023 Officers
+### 2023-2024 Officers
 
 **President**  
 Lisa Dillon  
