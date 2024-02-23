@@ -20,7 +20,7 @@ SSHA requires that all session participants register for the annual meeting and 
 
 Registration fees include admittance to all paper sessions, as well as Thursday and Saturday receptions. All session participants must register for the conference and be (or become) a member of SSHA.    
 
-&emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;<u>Conference Registration Pricing (member rate)</u>
+&emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;<u>2023 Conference Registration Pricing (member rate)</u>
 
 | &emsp; | &emsp; | Early Bird | &emsp; | Regular | &emsp; | Late |  
 --- | --- | :---: | :--- | :---: | :--- | :---:  
