@@ -4,22 +4,43 @@ title = "Governance and Sustainability"
 
 +++
 
-## **SSHA Governance and Sustainability**
+# **SSHA Governance and Sustainability**
 
-### I. Mission Statement  
-<br />
+## I. 2023-2024 Initiatives  
 
-<b>Coming Soon!</b>
+Six Motions Adopted by the Executive Committee to implement recommendations from the 2022-2023 SSHA Committee on governance and sustainability:
 
-<br />  
+### 1. Membership Committee
 
-### II. Committee Members  
+**We move to establish a permanent Membership Committee,** co-chaired by two members of the Executive committee, which could keep track of and update our association-wide and network lists, look into ways to maintain membership and to undertake outreach to new members, with special attention to graduate students. The two members of the executive committee will recruit 3-4 additional members of the committee who will serve a term of two years, drawing upon members who represent multiple disciplinary areas of the SSHA membership.
 
-- Ann Orloff  
-Northwestern University (Sociology)   
+### 2. Communications Committee
 
-- Cedric de Leon  
-University of Massachusetts-Amhert (Sociology and Labor Studies)  
+**We move to establish a permanent Communications Committee,** co-chaired by two members of the Executive committee, which would oversee transmission channels between the membership and the executive committee, and the organization and the wider academic public. The two members of the executive committee will recruit 3-4 additional members of the committee who will serve a term of two years, drawing upon members who represent multiple disciplinary areas of the SSHA membership.
+
+### 3. Ad Hoc Committee to Re-imagine the Annual Meeting
+
+**We move to establish an ad hoc Committee to Re-imagine the Annual Meeting** to revisit questions concerning the format of the annual meeting, to address questions of environmental sustainability and the high cost of hybrid meetings, and to consider proposals such as having a virtual meeting every third or fourth year and establishing a policy of site selection to minimize environmental impact. The SSHA President will establish this committee, which will include one past president and the vice president.
+
+### 4. Two Town Halls yearly
+
+**We move that the SSHA hold two Town Halls yearly:** one at the annual meeting and another in the Spring semester, at which the membership at large can bring up their concerns to the leadership.
+
+### 5. Open up Nominations process to member suggestions
+
+**We move that the Nominations Committee open up the nominations process to consider member suggestions.**
+
+### 6. Study establishment of an Omudsperson
+
+**We move SSHA study the possibility of establishing an Ombudsperson** and provide a report at next year’s meeting.
+
+## II. 2022-2023 Initiatives  
+
+### SSHA Committee on “The Future of the SSHA” 2022-2023
+
+Co-Chairs: Ann Shola Orloff (Sociology, Northwestern University) and Cedric DeLeon (Sociology &amp; Labor Studies, University of Massachusetts-Amherst)
+
+Members:
 
 - Lisa Y Dillon  
 University of Montréal (Demography)  
@@ -39,9 +60,34 @@ The George Washington University (Political Science)
 - Aunrika Tucker-Shabazz  
 University of Michigan (Sociology)  
 
-<br />  
+An initiative of Julian Go, SSHA President 2022, the Presidential ad-hoc committee on “The Future of the SSHA” was designed to address issues of governance (democracy, accountability, transparency, inclusion) and sustainability, both environmental and organizational.
 
-### III. Meetings  
+This committee hosted the first town hall held January 18 2023. This town hall was a follow-up on a membership survey regarding the format of the annual meeting, and centered on questions of what to do at this year's conference, with respect to registration fees, hybrid vs in-person format and the like. (Many of these ideas were implemented for the 2023 conference). Other topics could use further deliberation (e.g., a once every three or four years remote meeting). 
+
+### Sub-Committees
+
+After the January 18, 2023 town hall, two sub-committees were created:
+
+**Sustainability/Outreach/Inclusion:**
+- Lisa Dillon, chair
+- Aunrika Tucker-Shabazz
+- Cristina Groeger
+- James Siodla
+- Dominique Grisard
+- (Ann Orloff)
+
+This sub-committee held a town hall on May 24, 2023, to discuss ways SSHA can foster sustainability, outreach and inclusion within our association and for the 2023 Washington DC conference. Many of the suggestions for fostering the quality and inclusiveness of participation can be taken up by a Membership committee, proposed below.
+
+**Governance:**
+- Cedric DeLeon, co-chair
+- Ann Orloff, co-chair
+- Kimberly Morgan
+- Tristan Ivory
+
+This sub-committee held a town hall on October 2, 2023. This town hall focused on concerns around communication, membership and increasing democracy, transparency and accountability. We had thought about free-standing committees, but in the course of our deliberations realized that what we needed was a more active Executive Committee that would have elected leaders take responsibility for key organizational functions, alongside some volunteers from the general membership.
+
+
+## III. Meetings  
   
 <h3>SSHA Town Hall #1</h3>  
 
