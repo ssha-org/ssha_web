@@ -31,8 +31,8 @@ All papers based on accepted proposals undergo editorial review and, if suitable
 
 *Social Science History* is published by [**Cambridge University Press**](https://www.cambridge.org/core/journals/social-science-history). The contact email for the editorial office is <socialsciencehistory@ssha.org>. Information about the Editors and Editorial Board can be found here: [**SSH Editors and Editorial Board**](/editors_board/).  
 
-- Motions adopted concerning editorial procedure guidelines, journal scope and editor model (December 20, 2023 and February 8, 2024).
-- Editorial Procedure Guidelines
+- [Motions adopted](/jour_motions_2024/) concerning editorial procedure guidelines, journal scope and editor model (December 20, 2023 and February 8, 2024).
+- [Editorial Procedure Guidelines](/guidelines/)
 
 
 ### Featured Articles
