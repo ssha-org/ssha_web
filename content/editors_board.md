@@ -16,9 +16,6 @@ Rebecca Jean Emigh, Sociology, University of California, Los Angeles, USA
 
 **Managing Editor**  
 
-Jeffrey K. Beemer, Sociology, Social Science History Association, USA  
-<br />
-
 **Editorial Board**  
 
 Amy Kate Bailey, Sociology, University of Illinois at Chicago, USA  
