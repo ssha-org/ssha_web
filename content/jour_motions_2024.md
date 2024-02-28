@@ -1,7 +1,7 @@
 ---
 title: "Jour_motions_2024"
 date: 2024-02-28
-draft: true
+
 ---
 <center>
 
