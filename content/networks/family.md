@@ -34,7 +34,6 @@ We especially appreciate receiving entire panels, consisting of four papers, wit
 Please contact the Family/Demography Network Representatives for comments, questions, assistance creating a panel, or help with submissions.
 
 ### Network Representatives
-   
-- [Ingrid van Dijk](mailto:ingrid.van_dijk@ekh.lu.se)  
+     
 - [Jonas Helgertz](mailto:helgertz@umn.edu) 
-- [Bjorn Eriksson](mailto:bjorn.eriksson@ekh.lu.se)  
+- [Casey Breen](mailto:casey.breen@demography.ox.ac.uk)
