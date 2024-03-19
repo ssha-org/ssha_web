@@ -7,22 +7,26 @@ color = "#91C06D"
 
 ### Data Infrastructure
 
-The Data Infrastructure Network is interested in broadly addressing issues and themes related to creating datasets for social science history, large and small, and the infrastructure required to support them.  We intend to cast a wide net when discussing “data infrastructure,” and topics of interest may include: technology, data capture, sustainability, findability, interoperability, metadata, funding, methodology, collaboration, harmonization, data linkage, and builders of the data.  The Data Infrastructure Network is happy to co-sponsor relevant data-intensive sessions with other SSHA Networks, including Economics, Family History and Demography, and Historical Geography and GIS networks, and others.
+The Data Infrastructure Network is interested in broadly addressing issues and themes related to creating datasets for social science history, large and small, and the infrastructure required to support them. We intend to cast a wide net when discussing “data infrastructure,” and topics of interest may include: technology, data capture, sustainability, findability, interoperability, metadata, funding, methodology, collaboration, harmonization, data linkage, and builders of the data. The Data Infrastructure Network is happy to co-sponsor relevant data-intensive sessions with other SSHA Networks, including Economics, Family History and Demography, and Historical Geography and GIS networks, and others.
 
-### 2022 Sessions
+### 2023 Sessions
 
-- New Linked Data Infrastructure: Census Data, Registries, and Vital Records  
-- Full Count Census Data: Record Linkage and Databases  
-- Sustaining Social Science Infrastructure Into the Future (roundtable)  
-- Innovations in Data Infrastructure  
-- Mobilizing Census Data: Key Infrastructure Developments  
+- Measurement Issues in Historical Data
+- History of Data and Statistics
+- Methodological Innovations in Linking
+- O Canada! Research Using Canadian Complete-Count Census Microdata
+- New Historical Data Infrastructure I
+- New Historical Data Infrastructure II
+- New Linked Data Sources
+- The Changing Geography of the U.S. Census: Official and Unofficial, from the 19th to the 21st Century
+- Round Table: Big Data and Writing the History of the Global South, The Case of the Cape of Good Hope
+- Author Meets Critic: Democracy's Data: The Hidden Stories in the U.S. Census and How to Read Them [title in italics] by Dan Bouk 
 
+### Planning 2024 Sessions
 
-### Planning 2023 Sessions
+Data Infrastructure Network 2023 meeting attendees began brainstorming topics/themes and potential contributors for SSHA 2024 sessions. The [planning spreadsheet](https://docs.google.com/spreadsheets/d/1HgEvxMaNnahvfVPC4p7wd4ktCqrrKmdX4et7YPxjRfw/edit?usp=sharing) is available to view. The network reps invite your contributions and are available to assist with creating a session or submitting a paper.
 
-After an enthusiastic launch to the Data Infrastructure Network at SSHA 2022, planning for SSHA 2023 is underway!  Data Infrastructure Network meeting attendees began brainstorming topics/themes and potential contributors for SSHA 2023 sessions. The [planning spreadsheet](https://docs.google.com/spreadsheets/d/1l5V5XS_ygYcWMbw_zZ-f-WNVUbYt_ExMUJi13M68T84/edit#gid=0) is available to view. The network reps invite your contributions and are available to assist with creating a session or submitting a paper.  
-<br />
-[2023 SSHA Call for Papers](https://ssha.org/files/2023_SSHA_CFP.pdf)  
+[2024 SSHA Call for Papers](https://ssha.org/files/2024_SSHA_CFP.pdf)  
 
 ### Network Representatives
 
