@@ -32,10 +32,10 @@ Tucson, Arizona 85721
 mench@arizona.edu
 
 - Ayse Zarakol
-The Department of Politics and International Studies
-Alison Richard Building, 7 West Road
-University of Cambridge
-Cambridge, CB3 9DP, United Kingdom
+Emmanuel College 
+Park Terrace 10, Room 4 
+Cambridge CB2 3AP
+UK
 az319@cam.ac.uk
 
 - Daniel Scott Smith,
