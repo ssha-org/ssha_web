@@ -17,7 +17,7 @@ Thursday February 8, 2024
 
 **Motions adopted by the SSHA Executive Committee**
 
-**(1)** The Executive Committee accepts and affirms the editorial procedure guidelines recommended by the Publications Committee. We amend this procedure by omitting the sentence “The co-editors and the managing Editor have equal authority in making editorial decisions about manuscripts” and further references to the managing editor in an editorial decision role, pending further consideration of the composition of the editorial office.
+**(1)** The Executive Committee accepts and affirms the [editorial procedure guidelines](https://ssha.org/guidelines/) recommended by the Publications Committee. We amend this procedure by omitting the sentence “The co-editors and the managing Editor have equal authority in making editorial decisions about manuscripts” and further references to the managing editor in an editorial decision role, pending further consideration of the composition of the editorial office.
 
 **(2)** The Executive Committee affirms that Social Science History is an interdisciplinary journal and that its openness to a diversity of disciplinary perspectives and methodological approaches is a strength. We affirm the sense of the Editorial Board at its 2023 meeting, that "empirical research" should be read broadly to include research drawing upon primary sources, secondary sources, or a combination of the two; and that no submission should be rejected solely on the basis of its source material.
 
