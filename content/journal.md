@@ -4,7 +4,7 @@ title = "Social Science History"
 
 +++
 
-## **Social Science History**  
+# *Social Science History*  
 
 <hr width=300; align=left>  
 
