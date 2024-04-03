@@ -45,8 +45,7 @@ Claire Lemercier and Francesca Trivellato "[1751 and Thereabout: A Quantitative 
   
 ### Current Issue
 
-Winter 2022, Volume 47 -- Issue 3  
-https://www.cambridge.org/core/journals/social-science-history/latest-issue  
+[Winter 2022, Volume 47 -- Issue 3](https://www.cambridge.org/core/journals/social-science-history/latest-issue)  
 
 ![Current Issue](/images/SSH_47_3.jpg)  
 <br />
@@ -95,10 +94,10 @@ Every year the Association’s conference includes a number of ‘author meets c
     
 We invite review essays on any topic pertinent to the cross-disciplinary mission of <i>SSH</i>. The essay might review methodological techniques, data analytics or sources, or topical areas across multiple disciplines of interest to our membership. It should be broad and intended to bring readers up to date on intellectual matters of current interest. Proposals for review essays may be submitted to the editors at any time. They should include: 
 
-    1. names, affiliations, and contact information for all authors; 
-    2. summary of the review essay; 
-    3. summary of its broader cross-disciplinary appeal;
-    4. a timeline for submission for peer review.  
+1. names, affiliations, and contact information for all authors; 
+2. summary of the review essay; 
+3. summary of its broader cross-disciplinary appeal;
+4. a timeline for submission for peer review.  
 
 **PLEASE NOTE**: All papers based on accepted proposals undergo editorial review and, if suitable, peer review. All manuscripts must conform to [SSH style guidelines](https://ssha.org/files/SSHStyleGuide.pdf).  
 
