@@ -51,14 +51,15 @@ https://www.cambridge.org/core/journals/social-science-history/latest-issue
 ![Current Issue](/images/SSH_47_3.jpg)  
 <br />
 
-### Submission Information
+### **Submission Information**
 
-*Social Science History* takes submissions via the online platform supported by Editorial Manager. To submit an article, please visit the [**SSH Editorial Manager**](https://www.editorialmanager.com/ssha/default.aspx) website. If this is your first time using Editorial Manager, you will need to register. Then follow the instructions on the site. Articles should be typed double-spaced, including quotations, notes, information in tables, and the list of references. Brief parenthetical citations are included in the text, all complete references are listed alphabetically at the end of the article, and footnotes are used only for discursive comments. For detailed information on this journal’s style, contributors should refer to the [**SSH style guide**](https://www.cambridge.org/core/journals/social-science-history/information/instructions-contributors); a PDF copy of our style guide can be found here: [SSHStyleGuide.pdf](https://ssha.org/files/SSHStyleGuide.pdf). The Social Science History Association does not accept responsibility for statements of fact or opinion made by the contributors.  
-<br />
+*Social Science History* takes submissions via the online platform supported by Editorial Manager. To submit an article, please visit the [**SSH Editorial Manager**](https://www.editorialmanager.com/ssha/default.aspx) website. If this is your first time using Editorial Manager, you will need to register. Then follow the instructions on the site. 
 
-**Article types**  
+Articles should be typed double-spaced, including quotations, notes, information in tables, and the list of references. Brief parenthetical citations are included in the text, all complete references are listed alphabetically at the end of the article, and footnotes are used only for discursive comments. For detailed information on this journal’s style, contributors should refer to the [**SSH style guide**](https://www.cambridge.org/core/journals/social-science-history/information/instructions-contributors); a PDF copy is [**here**](https://ssha.org/files/SSHStyleGuide.pdf). The Social Science History Association does not accept responsibility for statements of fact or opinion made by the contributors.
 
-<i>Social Science History</i> publishes the following article types:  
+### Article types  
+
+*Social Science History* publishes the following article types:  
 
 1.	Research Articles  
 2.	Presidential Addresses  
@@ -69,26 +70,37 @@ https://www.cambridge.org/core/journals/social-science-history/latest-issue
 
 The above article types may be eligible for APC waivers or discounts under one of Cambridge University Press's [Open Access publishing agreements](https://www.cambridge.org/core/services/open-access-policies/waivers-discounts).  
 
-Although research articles comprise the great majority of content for <i>Social Science History</i> we also publish book symposia, review articles and clusters of thematically-linked articles in a special issue or special section of an issue. Guidelines for these kinds of content follow.  
-<br />
+Although research articles comprise the great majority of content for *Social Science History* we also publish book symposia, review articles and clusters of thematically-linked articles in a special issue or special section of an issue. Guidelines for these kinds of content are below.
 
 **Guidelines for Book Symposia Proposals**  
 
-Every year the Association’s conference includes a number of ‘author meets critic’ sessions intended for critical discussion of a recent monograph. Occasionally, a book-related symposium is of particular interest for publication in the journal. Accordingly, we invite proposals for the publication of book symposia in <I>SSH</i>. The kind of book symposium of interest for publication is one that provides clear intellectual debate and engagement, even criticism, rather than extended praise of the book. Proposals should include: 1) symposium title and date of SSHA conference panel for the book; 2) names, affiliations, and contact information for all panelists, book authors, and panel organizers; 3) book title, publication date, all other bibliographical information, and a summary of the book’s contribution highlighting cross-disciplinary appeal (no longer than 500 words); 4) an indication that all panelists and authors have agreed to submit the proposal to <i>SSH</i>; 5) a timeline for submission. Final submissions should be no longer than 9,000 words, with each contribution typically 1000 to 1500 words. Proposals should be submitted to <socialsciencehistory@ssha.org> by December 31 following the SSH meetings in November.  
-<br />
+Every year the Association’s conference includes a number of ‘author meets critic’ sessions intended for critical discussion of a recent monograph. Occasionally, a book-related symposium is of particular interest for publication in the journal. Accordingly, we invite proposals for the publication of book symposia in <I>SSH</i>. The kind of book symposium of interest for publication is one that provides clear intellectual debate and engagement, even criticism, rather than extended praise of the book. Proposals should include:
+1. symposium title and date of SSHA conference panel for the book; 
+2. names, affiliations, and contact information for all panelists, book authors, and panel organizers; 
+3. book title, publication date, all other bibliographical information, and a summary of the book’s contribution highlighting cross-disciplinary appeal (no longer than 500 words); 
+4. an indication that all panelists and authors have agreed to submit the proposal to <i>SSH</i>; 
+5. a timeline for submission. Final submissions should be no longer than 9,000 words, with each contribution typically 1000 to 1500 words. Proposals should be submitted to <socialsciencehistory@ssha.org> by December 31 following the SSH meetings in November.  
 
 **Guidelines for Special Issues and Sections**  
 
-<i>SSH</i> has a long history of publishing thematic clusters of articles in a special issue or a special section of an issue. The ‘special issue’ consists of 7 to 9 papers; the ‘special section’ consists of 3 to 6 papers. We welcome proposals configured around any theme or topic that may interest members of the Association. Proposals should include: 1) names, affiliations, and contact information for all authors and editors; 2) titles and abstracts for all papers; 3) summary of the special issue or section topic and the contribution of each paper; 4) summary of the broader cross-disciplinary appeal (no longer than 500 words); 5) a timeline for submission for peer review. Proposals should be submitted to <socialsciencehistory@ssha.org> by December 31 of each calendar year.  
-<br />
+<i>SSH</i> has a long history of publishing thematic clusters of articles in a special issue or a special section of an issue. The ‘special issue’ consists of 7 to 9 papers; the ‘special section’ consists of 3 to 6 papers. We welcome proposals configured around any theme or topic that may interest members of the Association. Proposals should include: 
+
+1. names, affiliations, and contact information for all authors and editors; 
+2. titles and abstracts for all papers; 
+3. summary of the special issue or section topic and the contribution of each paper; 
+4. summary of the broader cross-disciplinary appeal (no longer than 500 words); 
+5. a timeline for submission for peer review. Proposals should be submitted to <socialsciencehistory@ssha.org> by December 31 of each calendar year.
 
 **Guidelines for Review Essays**  
+    
+We invite review essays on any topic pertinent to the cross-disciplinary mission of <i>SSH</i>. The essay might review methodological techniques, data analytics or sources, or topical areas across multiple disciplines of interest to our membership. It should be broad and intended to bring readers up to date on intellectual matters of current interest. Proposals for review essays may be submitted to the editors at any time. They should include: 
 
-We invite review essays on any topic pertinent to the cross-disciplinary mission of <i>SSH</i>. The essay might review methodological techniques, data analytics or sources, or topical areas across multiple disciplines of interest to our membership. It should be broad and intended to bring readers up to date on intellectual matters of current interest. Proposals for review essays may be submitted to the editors at any time. They should include: 1) names, affiliations, and contact information for all authors; 3) summary of the review essay; 4) summary of its broader cross-disciplinary appeal; 5) a timeline for submission for peer review.We invite review essays on any topic pertinent to the cross-disciplinary mission of <i>SSH</i>. The essay might review methodological techniques, data analytics or sources, or topical areas across multiple disciplines of interest to our membership. It should be broad and intended to bring readers up to date on intellectual matters of current interest. Proposals for review essays may be submitted to the editors at any time. They should include: 1) names, affiliations, and contact information for all authors; 3) summary of the review essay; 4) summary of its broader cross-disciplinary appeal; 5) a timeline for submission for peer review.  
-<br />
+    1. names, affiliations, and contact information for all authors; 
+    2. summary of the review essay; 
+    3. summary of its broader cross-disciplinary appeal;
+    4. a timeline for submission for peer review.  
 
 **PLEASE NOTE**: All papers based on accepted proposals undergo editorial review and, if suitable, peer review. All manuscripts must conform to [SSH style guidelines](https://ssha.org/files/SSHStyleGuide.pdf).  
-<br />
 
 ### Statement on Peer Review  
 
@@ -104,5 +116,4 @@ Authors are required to declare any potential competing interests to the editori
 
 All concerns regarding editorial decisions should be addressed to the SSH journal office. Complaints and appeals will be adjudicated by SSH editors and/or SSH editorial board members in consultation with Cambridge University Press.
 
-For further information, please visit: https://www.cambridge.org/core/journals/social-science-history/information/publishing-ethics  
-<br />
+For further information, please visit [this link](https://www.cambridge.org/core/journals/social-science-history/information/publishing-ethics).
