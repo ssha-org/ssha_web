@@ -17,5 +17,5 @@ Section blog: http://sshareligion.blogspot.com.tr/
 ### Network Representatives
 
 - [Efe Peker](mailto:efe.peker@mail.mcgill.ca)
-- [Sadia Saeed](mailto:ssaeed3@usfca.edu)
-- [Jeremy Menchik](mailto:menchik@bu.edu)
+- [Bahar Tabakoglu](mailto:bt28@nyu.edu)
+- [Berfu Aygenc](mailto:berfuaygenc@gmail.com)
