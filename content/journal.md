@@ -8,7 +8,7 @@ title = "Social Science History"
 
 <hr width=300; align=left>  
 
-## **Call for Papers for the 50th Anniversary Issue of *Social Science History***
+**Call for Papers for the 50th Anniversary Issue of *Social Science History***
 
 What is the relationship between the past and the present? What is the nature of how change occurs or does not occur over time? This anniversary issue explores the multiple possibilities. For example, in some cases, the present is seen in the past, as a repetition of it. This can be conceptualized as cycles of history that reoccur over time. However, another conceptualization is the past as a creator of the present—that is, the past in different ways leads to the present. These paths might be linear, path dependent, or historically constructed. Yet another idea is that past and present are unique, and in fact, unrelated.
 
@@ -16,8 +16,7 @@ Thus, the relationship between the past and present takes many different forms. 
 
 The Fall 2026 issue is the 50th anniversary of Social Science History. For this issue, the theme of “past and present” will be explored. Papers should address this theme in some way, either theoretically, empirically, substantively (or some combination of them). All papers must be suitable for publication in [Social Science History](https://www.cambridge.org/core/journals/social-science-history) and will undergo peer review before publication.
 
-200-word abstracts are due by April 2nd, 2024, and a final paper must be ready for
-review by January 15, 2025. Abstracts should be sent to [socialsciencehistory@ssha.org](mailto:socialsciencehistory@ssha.org).
+200-word abstracts are due by April 2nd, 2024, and a final paper must be ready for review by January 15, 2025. Abstracts should be sent to [socialsciencehistory@ssha.org](mailto:socialsciencehistory@ssha.org).
 
 ## **Call for Papers!**
 
@@ -29,7 +28,7 @@ All papers based on accepted proposals undergo editorial review and, if suitable
 ### The Journal  
 *Social Science History* is dedicated to the study of social theory within an empirical historical context. Our interdisciplinary readership includes anthropologists, demographers, economists, geographers, historians, political scientists, and sociologists, all in pursuit of a deep understanding of societies, past and present. The journal invites articles that blend empirical research with theoretical work, undertake comparisons across time and space, or contribute to the development of quantitative and qualitative methods of analysis. As the official journal of the Social Science History Association, *Social Science History* reflects the interests of members who are active in the Association’s diverse range of research networks. However, it also welcomes submissions from the broader international research community of historically informed social scientists.  
 
-*Social Science History* is published by [**Cambridge University Press**](https://www.cambridge.org/core/journals/social-science-history). The contact email for the editorial office is <socialsciencehistory@ssha.org>. Information about the Editors and Editorial Board can be found here: [**SSH Editors and Editorial Board**](/editors_board/).  
+*Social Science History* is published by [**Cambridge University Press**](https://www.cambridge.org/core/journals/social-science-history). The contact email for the editorial office is [socialsciencehistory@ssha.org](mailto:socialsciencehistory@ssha.org). Information about the Editors and Editorial Board is [**here**](/editors_board/).  
 
 - [Motions adopted](/jour_motions_2024/) concerning editorial procedure guidelines, journal scope and editor model (December 20, 2023 and February 8, 2024).
 - [Editorial Procedure Guidelines](/guidelines/)
@@ -38,23 +37,20 @@ All papers based on accepted proposals undergo editorial review and, if suitable
 ### Featured Articles
   
 Claire Lemercier and Francesca Trivellato "[1751 and Thereabout: A Quantitative and Comparative Approach to Notarial Records](https://doi.org/10.1017/ssh.2022.8)" *Social Science History* &nbsp;46 (3), pp. 555-83.  **Open Access Article**  
-<br />
 
- María-Isabel Ayuda, Javier Puche, and José Miguel Martínez-Carrión "[Select Determinants of Nutritional Differences in Mediterranean Rural Spain, 1840–1965 Birth Cohorts: A Comparison between Irrigated and Dry Farming Agriculture.](https://doi.org/10.1017/ssh.2022.11)" *Social Science History* &nbsp;46 (3), pp. 585-616.  **Open Access Article**  
-<br />
+María-Isabel Ayuda, Javier Puche, and José Miguel Martínez-Carrión "[Select Determinants of Nutritional Differences in Mediterranean Rural Spain, 1840–1965 Birth Cohorts: A Comparison between Irrigated and Dry Farming Agriculture.](https://doi.org/10.1017/ssh.2022.11)" *Social Science History* &nbsp;46 (3), pp. 585-616.  **Open Access Article**  
   
 ### Current Issue
 
 [Winter 2022, Volume 47 -- Issue 3](https://www.cambridge.org/core/journals/social-science-history/latest-issue)  
 
 ![Current Issue](/images/SSH_47_3.jpg)  
-<br />
 
 ### **Submission Information**
 
 *Social Science History* takes submissions via the online platform supported by Editorial Manager. To submit an article, please visit the [**SSH Editorial Manager**](https://www.editorialmanager.com/ssha/default.aspx) website. If this is your first time using Editorial Manager, you will need to register. Then follow the instructions on the site. 
 
-Articles should be typed double-spaced, including quotations, notes, information in tables, and the list of references. Brief parenthetical citations are included in the text, all complete references are listed alphabetically at the end of the article, and footnotes are used only for discursive comments. For detailed information on this journal’s style, contributors should refer to the [**SSH style guide**](https://www.cambridge.org/core/journals/social-science-history/information/instructions-contributors); a PDF copy is [**here**](https://ssha.org/files/SSHStyleGuide.pdf). The Social Science History Association does not accept responsibility for statements of fact or opinion made by the contributors.
+Articles should be typed double-spaced, including quotations, notes, information in tables, and the list of references. Brief parenthetical citations are included in the text, all complete references are listed alphabetically at the end of the article, and footnotes are used only for discursive comments. For detailed information on this journal’s style, contributors should refer to the [**SSH style guide**](https://www.cambridge.org/core/journals/social-science-history/information/instructions-contributors); [**a PDF copy is here**](https://ssha.org/files/SSHStyleGuide.pdf). The Social Science History Association does not accept responsibility for statements of fact or opinion made by the contributors.
 
 ### Article types  
 
@@ -73,7 +69,8 @@ Although research articles comprise the great majority of content for *Social Sc
 
 **Guidelines for Book Symposia Proposals**  
 
-Every year the Association’s conference includes a number of ‘author meets critic’ sessions intended for critical discussion of a recent monograph. Occasionally, a book-related symposium is of particular interest for publication in the journal. Accordingly, we invite proposals for the publication of book symposia in <I>SSH</i>. The kind of book symposium of interest for publication is one that provides clear intellectual debate and engagement, even criticism, rather than extended praise of the book. Proposals should include:
+Every year the Association’s conference includes a number of ‘author meets critic’ sessions intended for critical discussion of a recent monograph. Occasionally, a book-related symposium is of particular interest for publication in the journal. Accordingly, we invite proposals for the publication of book symposia in *SSH*. The kind of book symposium of interest for publication is one that provides clear intellectual debate and engagement, even criticism, rather than extended praise of the book. Proposals should include:
+
 1. symposium title and date of SSHA conference panel for the book; 
 2. names, affiliations, and contact information for all panelists, book authors, and panel organizers; 
 3. book title, publication date, all other bibliographical information, and a summary of the book’s contribution highlighting cross-disciplinary appeal (no longer than 500 words); 
@@ -82,7 +79,7 @@ Every year the Association’s conference includes a number of ‘author meets c
 
 **Guidelines for Special Issues and Sections**  
 
-<i>SSH</i> has a long history of publishing thematic clusters of articles in a special issue or a special section of an issue. The ‘special issue’ consists of 7 to 9 papers; the ‘special section’ consists of 3 to 6 papers. We welcome proposals configured around any theme or topic that may interest members of the Association. Proposals should include: 
+*SSH* has a long history of publishing thematic clusters of articles in a special issue or a special section of an issue. The ‘special issue’ consists of 7 to 9 papers; the ‘special section’ consists of 3 to 6 papers. We welcome proposals configured around any theme or topic that may interest members of the Association. Proposals should include: 
 
 1. names, affiliations, and contact information for all authors and editors; 
 2. titles and abstracts for all papers; 
