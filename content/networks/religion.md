@@ -16,6 +16,7 @@ Section blog: http://sshareligion.blogspot.com.tr/
 
 ### Network Representatives
 
+- [Berfu Aygenc](mailto:berfuaygenc@gmail.com)
 - [Jeremy Menchik](mailto:menchik@bu.edu)
 - [Bahar Tabakoglu](mailto:bt28@nyu.edu)
-- [Berfu Aygenc](mailto:berfuaygenc@gmail.com)
+
