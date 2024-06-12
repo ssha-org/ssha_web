@@ -8,7 +8,7 @@ title = "Social Science History"
 
 **Submissions for the Presidents Book Award are <u>TBA</u>.**  
 
-A $1000 prize is awarded annually for a meritorious first work by an early-career scholar. Entrants are judged on scholarly significance, interdisciplinary reach, and methodological innovativeness within monographs analyzing past structures and events and change over time. Books with a copyright date of the previous year that are published within eight years of the author's Ph.D. are eligible for consideration.
+A $1000 prize is awarded annually for a meritorious first work by an early-career scholar. Entrants are judged on scholarly significance, interdisciplinary reach, and methodological innovativeness within monographs analyzing past structures and events and change over time. Books with a copyright date of 2023 that are published within eight years of the author's Ph.D. are eligible for consideration.
 
 **Submission Deadline:** Submissions with a **postmark of July 15 (or earlier)** will be accepted. Late entries will not be considered. 
 
