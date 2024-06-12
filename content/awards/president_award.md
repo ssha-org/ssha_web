@@ -17,27 +17,43 @@ Authors or publishers wishing to nominate a book should <u>**mail print copies t
 ### Award Committee
 
 **J. David Hacker (Chair)**  
+
 4840 Vincent Ave S  
+
 Minneapolis, MN 55410  
+
 hacke010@umn.edu  
 
 **Martin Dribe**
+
 Department of Economic History
+
 Box 7080
+
 220 07 Lund, Sweden
+
 martin.dribe@ekh.lu.se
 
 **Joshua MacFadyen**
+
 SDU Main Building
+
 University Prince Edward Island
+
 Prince Edward Island, Canada C1A 4P3
+
 jdmacfadyen@upei.ca
 
 **Nicholas Wilson**
+
 Department of Sociology
+
 Stony Brook University
+
 N-439 Social and Behavioral Sciences  
+
 Stony Brook, NY 11777
+
 Nicholas.wilson@stonybrook.edu
 
 <br/>  
