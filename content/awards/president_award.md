@@ -10,7 +10,7 @@ title = "Social Science History"
 
 A $1000 prize is awarded annually for a meritorious first work by an early-career scholar. Entrants are judged on scholarly significance, interdisciplinary reach, and methodological innovativeness within monographs analyzing past structures and events and change over time. Books with a copyright date of the previous year that are published within eight years of the author's Ph.D. are eligible for consideration.
 
-**Submission Deadline:** Submissions with a **postmark of TBA** will be accepted. Late entries will not be considered. 
+**Submission Deadline:** Submissions with a **postmark of July 15 (or earlier)** will be accepted. Late entries will not be considered. 
 
 Authors or publishers wishing to nominate a book should <u>**mail print copies to**</u> each member of the award committee. **Electronic (PDF, linked, emailed) copies will not be considered.**
 
@@ -21,19 +21,25 @@ Authors or publishers wishing to nominate a book should <u>**mail print copies t
 Minneapolis, MN 55410  
 hacke010@umn.edu  
 
-- Fiona Greenland  
-710 Belmont Avenue  
-Charlottesville, VA 22902  
-fg5t@virginia.edu  
+- Martin Dribe
+Department of Economic History
+Box 7080
+220 07 Lund
+Sweden
+martin.dribe@ekh.lu.se
 
-- Ho-fung Hung  
-Dept of Sociology  
-Johns Hopkins University  
-3400 N Charles street  
-Baltimore, MD 21218  
-hofung@jhu.edu  
+- Joshua MacFadyen
+SDU Main Building
+University Prince Edward Island
+Prince Edward Island, Canada C1A 4P3
+jdmacfadyen@upei.ca
 
-- (SSHA, Executive Director)  
+- Nicholas Wilson
+Department of Sociology
+Stony Brook University
+N-439 Social and Behavioral Sciences  
+Stony Brook, NY 11777
+Nicholas.wilson@stonybrook.edu
 
 <br/>  
 
