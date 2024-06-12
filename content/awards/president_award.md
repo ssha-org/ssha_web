@@ -6,7 +6,7 @@ title = "Social Science History"
 
 ## Presidents Book Award  
 
-**Submissions for the Presidents Book Award are <u>TBA</u>.**  
+**Submissions for the Presidents Book Award are <u>OPEN NOW</u>.**  
 
 A $1000 prize is awarded annually for a meritorious first work by an early-career scholar. Entrants are judged on scholarly significance, interdisciplinary reach, and methodological innovativeness within monographs analyzing past structures and events and change over time. Books with a copyright date of 2023 that are published within eight years of the author's Ph.D. are eligible for consideration.
 
@@ -24,21 +24,28 @@ hacke010@umn.edu
 - Martin Dribe
 Department of Economic History
 Box 7080
-220 07 Lund
-Sweden
+220 07 Lund, Sweden
 martin.dribe@ekh.lu.se
 
 - Joshua MacFadyen
 SDU Main Building
+
 University Prince Edward Island
+
 Prince Edward Island, Canada C1A 4P3
+
 jdmacfadyen@upei.ca
 
 - Nicholas Wilson
+
 Department of Sociology
+
 Stony Brook University
+
 N-439 Social and Behavioral Sciences  
+
 Stony Brook, NY 11777
+
 Nicholas.wilson@stonybrook.edu
 
 <br/>  
