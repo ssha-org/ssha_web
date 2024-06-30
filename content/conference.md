@@ -20,30 +20,30 @@ SSHA requires that all session participants register for the annual meeting and 
 
 Registration fees include admittance to all paper sessions, as well as Thursday and Saturday receptions. All session participants must register for the conference and be (or become) a member of SSHA.    
 
-&emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;<u>2023 Conference Registration Pricing (member rate)</u>
+&emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;<u>2024 Conference Registration Pricing (member rate)</u>
 
 | &emsp; | &emsp; | Early Bird | &emsp; | Regular | &emsp; | Late |  
 --- | --- | :---: | :--- | :---: | :--- | :---:  
-| &emsp; | | (Before July 1) | | (Before Oct. 1) | | (Oct. 1 -- after)  
+| &emsp; | | (Up to Aug. 31) | | (Sept. 1 to Oct. 1) | | (Oct. 1 to Nov. 3)  
 &emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp; |&emsp;
-Senior/tenured:| | $350 | | $395 | | $450  
+Senior Faculty/Tenured:| | $425 | | $450 | | $500  
 &emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp; |&emsp;  
-Faculty line:| | $300 | | $330  | | $350  
+Junior Faculty/Not Yet Tenured:| | $350 | | $390  | | $415  
 &emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp; |&emsp;  
-Contingent:| | $195 | | $200 | | $210  
+Contingent:| | $250 | | $275 | | $300  
 &emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp; |&emsp;  
-Student:| | $60 |  | $65  | | $70  
+Student:| | $90 |  | $125  | | $150  
 <br />  
 
 &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; <u>Non-Session Participant (non-member rate)</u>  	
 
 | &emsp; | &emsp; | Early Bird | &emsp; | Regular | &emsp; | Late |  
 --- | --- | :---: | :--- | :---: | :--- | :---:  
-| &emsp; | | (Before July 1) | | (Before Oct. 1) | | (Oct. 1 -- after)  
+| &emsp; | | (Up to Aug. 31) | | (Sept. 1 to Oct. 1) | | (Oct. 1 to Nov. 3)  
 &emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp; |&emsp;
-Faculty line (all):| | $400 | | $425 | | $475  
+Non-Student:| | $475 | | $500 | | $550  
 &emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp; |&emsp;  
-Student:| | $10 | | $15  | | $20  
+Student:| | $125 | | $160  | | $185  
 <br />  
 
 **Visa Information**  
@@ -104,7 +104,6 @@ The _Richard Sutch Student Travel Awards_ application will be available for the 
 
 ### **FUTURE CONFERENCES**  
 
-- Toronto, Canada, October 31 - November 3, 2024 
 - Chicago, USA, 2025
 
 **Past Conference Programs>>** https://ssha.org/programs/  
