@@ -39,7 +39,7 @@ Student:| | $90 |  | $125  | | $150
 
 | &emsp; | &emsp; | Early Bird | &emsp; | Regular | &emsp; | Late |  
 --- | --- | :---: | :--- | :---: | :--- | :---:  
-| &emsp; | | (Up to Aug. 31) | | (Sept. 1 to Oct. 1) | | (Oct. 1 to Nov. 3)  
+| &emsp; | | (Up to Aug. 29) | | (Aug. 30 to Sept. 30) | | (Oct. 1 to Nov. 3)  
 &emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp; |&emsp;
 Non-Student:| | $475 | | $500 | | $550  
 &emsp; | &emsp; | &emsp;| &emsp;| &emsp; |&emsp; |&emsp;  
