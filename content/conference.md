@@ -18,7 +18,7 @@ Our 2024 conference will be held in Toronto, ON, Canada from October 31 - Novemb
 
 SSHA requires that all session participants register for the annual meeting and be (or become) members of the SSHA.  If your membership is not current, you will not be able to register for the conference as a member.  Please sign up for membership, or renew your membership prior to filling out the conference registration form.  
 
-Registration fees include admittance to all paper sessions, as well as Thursday and Saturday receptions. All session participants must register for the conference and be (or become) a member of SSHA.    
+Registration fees include admittance to all paper sessions, as well as Thursday and Saturday receptions. All session participants must register for the conference and be (or become) a member of SSHA. [**CLICK HERE TO REGISTER for SSHA 2024**](https://indianauniv.ungerboeck.com/prod/emc00/register.aspx?aat=46565a326b615a4c4145687643517739622b54566470527a41617963566f6f6d7a356778354f6b4c6e58383d) 
 
 &emsp; &emsp; &emsp; &emsp; &emsp;&emsp;&emsp;<u>2024 Conference Registration Pricing (member rate)</u>
 
@@ -87,6 +87,8 @@ Cancellation requests must be received in writing to the Conference Registrar at
 <br />  
 
 <i>Hotel Information & Reservations</i>  
+
+SSHA 2024 will be held at the Westin Harbour Castle on Toronto’s harbourfront, steps away from the ferries to Toronto Island and downtown Toronto, and close to the Art Gallery of Ontario, the CN Tower, the Distillery District and plenty of running and biking paths. [Click here to make a reservation at the Westin Harbour Castle](https://book.passkey.com/go/SSHA2024)
 
 SSHA recognizes that you have a number of options when securing hotel accommodations for the annual meeting.  It is important to keep in mind that SSHA has made a major commitment to the conference hotel in order to secure a large block of quality hotel rooms at competitive prices in a convenient location.  SSHA is legally bound to fill these rooms.  Not doing so has severe financial implications for SSHA, both in the current year and in years to come, and will almost certainly raise your costs of attending future annual meetings.  
 <br />
