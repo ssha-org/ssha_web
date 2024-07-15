@@ -100,7 +100,9 @@ The Association promotes high quality scholarship through its awards program, wh
 
 <i>Richard Sutch Student Travel Awards</i>  
 
-The _Richard Sutch Student Travel Awards_ application will be available for the 2024 SSHA annual conference in June of 2024.
+The Social Science History Association is pleased to offer a limited number of student travel grants to help offset the cost to graduate students (and the occasional exceptional undergraduate) attending our annual conference.  
+
+To apply, please complete this application form available [here](https://docs.google.com/forms/d/e/1FAIpQLSfJYALkvVBvrfxu_KSptBxU2fzxeEZlyhgfe-1qNFrawloBhQ/viewform?_requested=true&fbzx=-8195368214589861263).  The deadline for applying is Monday August 12, 2024. Notification of travel awards will be emailed to award recipients in mid to late August. Please be patient as the notification process can take several weeks to complete.
 
 <br />
 
