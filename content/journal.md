@@ -8,6 +8,10 @@ title = "Social Science History"
 
 <hr width=300; align=left>  
 
+## *Social Science History* Seeking Managing Editor
+
+The journal Social Science History has issued a job opening for a managing editor.  The Managing Editor will play a pivotal role in overseeing the editorial process from manuscript submission to publication and will collaborate closely with authors, editors, and the production staff at Cambridge University Press to ensure the timely and high-quality publication of academic works in Social Science History.  Please click [here](https://ssha.org/files/2024_Managing_Editor_SSHA.pdf) to view further details, and please forward this job opening to anyone you know who might be interested.
+
 ## Calls for papers
 
 **Call for Papers for the 50th Anniversary Issue of *Social Science History***
