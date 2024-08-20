@@ -15,7 +15,8 @@ Emily Erikson
 Yale University (Sociology)  
 
 **Executive Director** 
-  
+Jeremy Land
+University of Gothenburg
 
 **Treasurer**  
 Damon Mayrl  
