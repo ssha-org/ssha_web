@@ -14,8 +14,10 @@ University of Montréal (Demography)
 Emily Erikson  
 Yale University (Sociology)  
 
-**Executive Director** 
+**Executive Director**
+
 Jeremy Land
+
 University of Gothenburg
 
 **Treasurer**  
