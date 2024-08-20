@@ -12,6 +12,7 @@ The SSHA conference meets annually, usually in November. The location changes ac
 ### **THE 2024 ANNUAL CONFERENCE**  
 
 Our 2024 conference will be held in Toronto, ON, Canada from October 31 - November 3, 2024.  This year’s theme is <i>“Trust and Distrust of Historical Sources in the Digital Age.”</i> The preliminary conference program is [**now available**](https://ssha.org/files/SSHA2024_PreliminaryProgram.pdf).
+<br />
 
 **Registration**  
 
