@@ -48,7 +48,13 @@ Student:| | $125 | | $160  | | $185
 
 **Visa Information**  
 
-For additional information regarding travel visa’s please visit the U.S. Department of State- Bureau of Consular Affairs link to attain the correct visa for your visit https://travel.state.gov/content/travel/en/us-visas.html. Wait times vary by point of origin. Please plan accordingly.  
+For additional information regarding travel visas to Canada, please consult the following sites:
+
+- [Government of Canada Travel Tips](https://www.cbsa-asfc.gc.ca/travel-voyage/td-dv-eng.html)
+- [Visa Determination for Canadian Travel](https://www.ircc.canada.ca/english/visit/visas.asp)
+- [Entry Requirements by Country or Territory](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/entry-requirements-country.html)
+
+Wait times vary by point of origin. Please plan accordingly.  
 
 **Visa Letters**  
 
