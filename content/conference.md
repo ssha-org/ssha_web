@@ -11,7 +11,7 @@ The SSHA conference meets annually, usually in November. The location changes ac
 
 ### **THE 2024 ANNUAL CONFERENCE**  
 
-Our 2024 conference will be held in Toronto, ON, Canada from October 31 - November 3, 2024.  This year’s theme is <i>“Trust and Distrust of Historical Sources in the Digital Age.”</i> The preliminary conference program is [**now available**](https://ssha.org/files/SSHA2024_PreliminaryProgram.pdf).
+Our 2024 conference will be held in Toronto, ON, Canada from October 31 - November 3, 2024.  This year’s theme is <i>“Trust and Distrust of Historical Sources in the Digital Age.”</i> The preliminary conference program is now available: [**CLICK HERE**](https://ssha.org/files/SSHA2024_PreliminaryProgram.pdf).
 <br />
 
 **Registration**  
@@ -101,19 +101,19 @@ SSHA recognizes that you have a number of options when securing hotel accommodat
 
 <i>Awards and Grants</i>  
 
-The Association promotes high quality scholarship through its awards program, which recognizes the best work by a younger scholar and the best work by any scholar in our many fields. We also facilitate the participation of graduate students through a travel grant. Please note that students applying for these funds need to fill out the appropriate form and submit it along with their proposed to the network representatives. They will be informed of the result of that competition at the same time as they hear whether or not their paper has been accepted.  
+The Association promotes high quality scholarship through its awards program, which recognizes the best work by a younger scholar and the best work by any scholar in our many fields. We also facilitate the participation of graduate students through a travel grant. Please note that students applying for these funds need to fill out the appropriate form and submit it along with their proposed to the network representatives. 
 <br />  
 
 <i>Richard Sutch Student Travel Awards</i>  
 
 The Social Science History Association is pleased to offer a limited number of student travel grants to help offset the cost to graduate students (and the occasional exceptional undergraduate) attending our annual conference.  
 
-To apply, please complete this application form available [here](https://docs.google.com/forms/d/e/1FAIpQLSfJYALkvVBvrfxu_KSptBxU2fzxeEZlyhgfe-1qNFrawloBhQ/viewform?_requested=true&fbzx=-8195368214589861263).  The deadline for applying is Monday August 12, 2024. Notification of travel awards will be emailed to award recipients in mid to late August. Please be patient as the notification process can take several weeks to complete.
+Applications have now closed. Please be patient as the notification process can take several weeks to complete.
 
 <br />
 
 ### **FUTURE CONFERENCES**  
 
-- Chicago, USA, 2025
+- Chicago, USA, November 20-23, 2025
 
 **Past Conference Programs>>** https://ssha.org/programs/  
