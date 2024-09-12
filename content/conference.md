@@ -89,7 +89,7 @@ Melissa Kocias
 
 **Cancellations**
 
-Cancellation requests must be received in writing to the Conference Registrar at iuconfs@indiana.edu no later than [TBA], to be eligible for a refund (less a $50 cancellation fee). No refunds will be issued after that date.  
+Cancellation requests must be received in writing to the Conference Registrar at iuconfs@indiana.edu no later than October 15th, to be eligible for a refund (less a $50 cancellation fee). No refunds will be issued after that date.  
 <br />  
 
 <i>Hotel Information & Reservations</i>  
