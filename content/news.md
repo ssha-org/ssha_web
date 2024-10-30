@@ -10,8 +10,8 @@ title = "SSHA News"
 
 ### **Final Conference Program**  
 
-The final program for the 2023 SSHA Conference is now available online at:  
-[ssha2023.ssha.org/hps/SSHA2023_FinalProgram.pdf](https://ssha2023.ssha.org/hps/SSHA2023_FinalProgram.pdf).    
+The final program for the 2024 SSHA Conference is now available online at:  
+[**here**](https://ssha.org/files/SSHA_Program_2024.pdf).    
 
 You can browse the final program by Day/Time, Network, and/or Participant at [https://ssha2023.ssha.org](https://ssha2023.ssha.org) (**please see "Navigating the Website" section**).  
 <br />  
