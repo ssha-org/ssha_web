@@ -36,4 +36,3 @@ Data Infrastructure Network 2024 meeting attendees began brainstorming topics/th
 
 - [Diana Magnuson](mailto:magn0031@umn.edu)  
 - [Rick Mourits](mailto:rick.mourits@iisg.nl)  
-- [Eve Snyder](mailto:historyforge@thehistorycenter.net)  
