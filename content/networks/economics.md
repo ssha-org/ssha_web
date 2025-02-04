@@ -17,4 +17,5 @@ We invite submissions of papers or (preferably) full panels by February. We were
 
 - [Jari Eloranta](mailto:jari.eloranta@helsinki.fi)  
 - [Peter Meyer](mailto:Meyer.Peter@bls.gov)  
-- [James Siodla](mailto:jrsiodla@colby.edu)  
+- [James Siodla](mailto:jrsiodla@colby.edu)
+- [Rodrigo Dominguez](mailto:Rodrigo.Dominguez@eccles.utah.edu)
