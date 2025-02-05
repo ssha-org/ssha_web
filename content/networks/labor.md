@@ -15,5 +15,5 @@ Embracing "worker self-organization" as a principle for SSHA conferences and dem
 
 - [Christina Groeger](mailto:groeger@lakeforest.edu)
 - [Tristan Ivory](mailto:ti92@cornell.edu)
-- [Amanda Walter](mailto:Av9699@wayne.edu)
+- [Amanda Walter](mailto:awalter@towson.edu)
 - [Gregory Wood](mailto:gwood@frostburg.edu)
