@@ -30,7 +30,7 @@ The Data Infrastructure Network is interested in broadly addressing issues and t
 
 Data Infrastructure Network 2024 meeting attendees began brainstorming topics/themes and potential contributors for SSHA 2025 sessions. The planning spreadsheet is available to view here: https://docs.google.com/spreadsheets/d/1yAhI-Zrrw9LIMx8wfuRSRbS9Naqafvh6TwEfwRcfmTc/edit?gid=1901544134#gid=1901544134. The network reps invite your contributions and are available to assist with creating a session or submitting a paper.
 
-[2024 SSHA Call for Papers](https://ssha.org/files/2024_SSHA_CFP.pdf)  
+2025 SSHA Call for Papers: https://ssha2025.ssha.org/hps/CFP_SSHA2025.pdf
 
 ### Network Representatives
 
