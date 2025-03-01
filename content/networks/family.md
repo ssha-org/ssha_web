@@ -35,5 +35,5 @@ Please contact the Family/Demography Network Representatives for comments, quest
 
 ### Network Representatives
      
-- [Jonas Helgertz](mailto:helgertz@umn.edu) 
+- [Julia Jennings](mailto:jjennings2@albany.edu) 
 - [Casey Breen](mailto:casey.breen@demography.ox.ac.uk)
