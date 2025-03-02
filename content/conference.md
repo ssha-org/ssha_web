@@ -4,6 +4,7 @@ title = "Annual Conference"
 
 +++
 
+### **DEADLINE EXTENDED UNTIL MARCH 15TH**  
 ### **ABOUT THE SSHA ANNUAL CONFERENCE**  
 
 The SSHA conference meets annually, usually in November. The location changes according to the following logic: once every three years in Chicago, once every three years somewhere on the ‘East Coast’ and once every three years somewhere else. Since 2010, the Association has extended its reach to include Canadian cities as possible locations. The conference involves over a thousand scholars from around the world, although graduate students and faculty from the leading American universities predominate.  
@@ -11,7 +12,7 @@ The SSHA conference meets annually, usually in November. The location changes ac
 
 ### **THE 2025 ANNUAL CONFERENCE**  
 
-Our 2025 conference will be held in Chicago, Illinoi from November 20 - November 23, 2025 at the Palmer House Hotel.  This year’s theme is <i>“Complexity and its Consequences.”</i> The Call for Papers and conference submission system is now open. You can submit a paper or panel proposal, or you can volunteer to be a discussant or chair here: [**CLICK HERE TO ACCESS THE SUBMISSION SYSTEM**](https://ssha2025.ssha.org/). There you can find the full CFP and instructions on how to use the conference submission system. We will also use this system for the online program this year, as Whova has been discontinued. 
+Our 2025 conference will be held in Chicago, Illinoi from November 20 - November 23, 2025 at the Palmer House Hotel.  This year’s theme is <i>“Complexity and its Consequences.”</i> The Call for Papers and conference submission system is now open until March 15th. You can submit a paper or panel proposal, or you can volunteer to be a discussant or chair here: [**CLICK HERE TO ACCESS THE SUBMISSION SYSTEM**](https://ssha2025.ssha.org/). There you can find the full CFP and instructions on how to use the conference submission system. We will also use this system for the online program this year, as Whova has been discontinued. 
 <br />
 
 NOTE: In order to facilitate valuable discussion of new research, the SSHA conference is an in-person only event, and there will be no ability to participate virtually (via Zoom or otherwise). If you are submitting to present at the conference, it is expected that you will attend and participate in person. We recognize that not everyone can participate in person, and we sincerely apologize for the inconvenience..  
