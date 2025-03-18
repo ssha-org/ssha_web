@@ -8,29 +8,35 @@ title = "SSH Editors Editorial Board"
 
 <hr width=400; align=left> 
 
-**Co-Editors**  
+**Editor-in-Chief**  
   
-Kris Inwood, Economics and History, Guelph University, Canada  
-Rebecca Jean Emigh, Sociology, University of California, Los Angeles, USA    
+Simone Wegge, Economics, City University of New York, USA   
+<br />
+
+
+**Associate Editors**  
+  
+Martin Dribe, Economic History, Lund University, Sweden
+Sylvia Pedraza, Sociology, University of Michigan, USA
+Robert Lieberman, Political Science, Johns Hopkins University, USA
 <br />
 
 **Managing Editor**  
 
+Tammy McCausland
+
 **Editorial Board**  
 
 Amy Kate Bailey, Sociology, University of Illinois at Chicago, USA  
-Andrew Curley, Geography, University of Arizona, USA  
-Martin Dribe, Economic Demography, Lund University, Sweden    
+Andrew Curley, Geography, University of Arizona, USA    
 Lance Freeman, Sociology, University of Pennsylvania, USA  
 Danielle Gauvreau, Sociology and Anthropology, Concordia University, Canada  
 Joseph Jewell, Sociology, Texas A&M University, USA  
 Kimberley Johnson, Political Science, New York University, USA  
 Susan Leonard, ICPSR, University of Michigan, USA  
-Robert Lieberman, Political Science, Johns Hopkins University, USA  
 Mary Jo Maynes, History, University of Minnesota, USA     
 Angel Adams Parham, Sociology, University of Virginia, USA  
 Tawney Paul, History, University of California, Los Angeles, USA  
-Silvia Pedraza, Sociology, University of Michigan, USA  
 Tirthankar Roy, Economic History, London School of Economics, UK  
 Sakari Saaritsa, Economic and Social History, University of Helsinki, Finland  
 Carol Shiue, Economics, University of Colorado, Boulder, USA  
