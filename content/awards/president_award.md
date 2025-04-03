@@ -6,9 +6,9 @@ title = "Social Science History"
 
 ## Presidents Book Award  
 
-**Submissions for the Presidents Book Award are <u>OPEN NOW</u>.**  
+**Submission information will be posted after May 15th.**  
 
-A $1000 prize is awarded annually for a meritorious first work by an early-career scholar. Entrants are judged on scholarly significance, interdisciplinary reach, and methodological innovativeness within monographs analyzing past structures and events and change over time. Books with a copyright date of 2023 that are published within eight years of the author's Ph.D. are eligible for consideration.
+A $1000 prize is awarded annually for a meritorious first work by an early-career scholar. Entrants are judged on scholarly significance, interdisciplinary reach, and methodological innovativeness within monographs analyzing past structures and events and change over time. Books with a copyright date of 2024 that are published within eight years of the author's Ph.D. are eligible for consideration.
 
 **Submission Deadline:** Submissions with a **postmark of July 15 (or earlier)** will be accepted. Late entries will not be considered. 
 
@@ -16,45 +16,7 @@ Authors or publishers wishing to nominate a book should <u>**mail print copies t
 
 ### Award Committee
 
-**J. David Hacker (Chair)**  
-
-4840 Vincent Ave S  
-
-Minneapolis, MN 55410  
-
-hacke010@umn.edu  
-
-**Martin Dribe**
-
-Department of Economic History
-
-Box 7080
-
-220 07 Lund, Sweden
-
-martin.dribe@ekh.lu.se
-
-**Joshua MacFadyen**
-
-SDU Main Building
-
-University Prince Edward Island
-
-Prince Edward Island, Canada C1A 4P3
-
-jdmacfadyen@upei.ca
-
-**Nicholas Wilson**
-
-Department of Sociology
-
-Stony Brook University
-
-N-439 Social and Behavioral Sciences  
-
-Stony Brook, NY 11777
-
-Nicholas.wilson@stonybrook.edu
+**The Committee Will be Announced by May 15th**
 
 <br/>  
 
