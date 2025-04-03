@@ -12,7 +12,7 @@ Books published in 2024 are eligible for consideration. Submissions with a postm
  
 A $1,000 prize is awarded annually for an outstanding book in social science history to honor the memory of Allan Sharlin. Allan exemplified the finest traditions of social science history. His training and scholarship were broadly interdisciplinary and he used both quantitative and more traditional methodologies.    
 
-**Submission Deadline:** Submissions with a **postmark of May 24, 2024** will be accepted. Late entries will not be considered. 
+**Submission Deadline:** Submissions with a **postmark of July 15, 2025** will be accepted. Late entries will not be considered. 
 
 Authors or publishers wishing to nominate a book should <u>**mail print copies to**</u> each member of the award committee. **Electronic (PDF, linked, emailed) copies will not be considered.**
 
