@@ -6,9 +6,9 @@ title = "Social Science History"
 
 ## Allan Sharlin Memorial Book Award  
 
-**Submissions for the Allan Sharlin Memorial Book Award are <u>TBA</u>.**  
+**Submission informaiton for the Allan Sharlin Memorial Book Award will be announced by May 15th.**  
 
-Books published in 2023 are eligible for consideration. Submissions with a postmark of May 24, 2024 will be accepted. Late entries will not be considered. Authors or publishers wishing to nominate a book should mail a book to each member of the award committee. Self-nominations are accepted. 
+Books published in 2024 are eligible for consideration. Submissions with a postmark of July 15, 2025 will be accepted. Late entries will not be considered. Authors or publishers wishing to nominate a book should mail a book to each member of the award committee. Self-nominations are accepted. 
  
 A $1,000 prize is awarded annually for an outstanding book in social science history to honor the memory of Allan Sharlin. Allan exemplified the finest traditions of social science history. His training and scholarship were broadly interdisciplinary and he used both quantitative and more traditional methodologies.    
 
@@ -18,30 +18,7 @@ Authors or publishers wishing to nominate a book should <u>**mail print copies t
 
 ### Award Committee  
 
-- Iddo Tavory, Chair
-487 3rd Street #3
-Brooklyn, NY, 11215
-iddo.tavory@nyu.edu
-
-- Daniel Menchik, Chair
-School of Sociology                                            
-Social Sciences, Room 400
-1145 E. South Campus Drive
-University of Arizona 
-Tucson, Arizona 85721
-mench@arizona.edu
-
-- Ayse Zarakol
-Emmanuel College 
-Park Terrace 10, Room 4 
-Cambridge CB2 3AP
-UK
-az319@cam.ac.uk
-
-- Daniel Scott Smith,
-1428 Grove Street #1
-San Francisco, CA 94117
-danielscottsmith@stanford.edu
+Information on the award committee will be announced by May 15th.
  
 ### Past Winners
 
