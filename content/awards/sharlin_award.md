@@ -6,7 +6,7 @@ title = "Social Science History"
 
 ## Allan Sharlin Memorial Book Award  
 
-**Submission informaiton for the Allan Sharlin Memorial Book Award will be announced by May 15th.**  
+**Submissions for the Allan Sharlin Memorial Book Award are NOW OPEN.**  
 
 Books published in 2024 are eligible for consideration. Submissions with a postmark of July 15, 2025 will be accepted. Late entries will not be considered. Authors or publishers wishing to nominate a book should mail a book to each member of the award committee. Self-nominations are accepted. 
  
@@ -14,12 +14,36 @@ A $1,000 prize is awarded annually for an outstanding book in social science his
 
 **Submission Deadline:** Submissions with a **postmark of July 15, 2025** will be accepted. Late entries will not be considered. 
 
-Authors or publishers wishing to nominate a book should <u>**mail print copies to**</u> each member of the award committee. **Electronic (PDF, linked, emailed) copies will not be considered.**
+Authors or publishers wishing to nominate a book should <u>**mail print copies to**</u> each member of the award committee. **Electronic (PDF, linked, emailed) copies will not be considered.** If you have any questions please email the chair: Ayşe Zarakol (az319@cam.ac.uk). 
 
 ### Award Committee  
 
-Information on the award committee will be announced by May 15th.
- 
+Prof Ayşe Zarakol (chair)<br>
+Emmanuel College<br>
+St Andrew's Street<br>
+Cambridge CB2 3AP<br>
+UK
+
+Taisu Zhang<br>
+9 Beach Lane <br>
+North Haven, CT 06473<br>
+USA
+
+Anna Grzymala-Busse<br>
+Michelle and Kevin Douglas Professor of International Studies<br>
+Department of Political Science<br>
+616 Jane Stanford Way<br>
+Stanford University<br>
+Stanford CA 94305<br>
+USA
+
+Jack A. Goldstone<br>
+Schar School of Policy and Government<br>
+George Mason University<br>
+3351 Fairfax Drive, 5th Floor, MS 3B1<br>
+Arlington, VA  22201<br> 
+USA  
+
 ### Past Winners
 
 *Year* | &emsp; | *Author* | &emsp; | *Institution* | &emsp; | *Title*
